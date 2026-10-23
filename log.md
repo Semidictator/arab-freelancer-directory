@@ -56,3 +56,10 @@
 - New page: remote-jobs.html (filled the index's long-standing "coming soon" remote-work card). Covers Saudi Telework platform teleworks.sa (Saudi nationals 18–60, active Absher, free, labour law applies, GOSI registration, platform-stated minimum 4000 SAR full-time / 2000 SAR part-time, free instant e-contract via HRSD service 1083620, government employees not allowed), We Work Remotely (free to apply without account per listings; region/country filters incl. Anywhere in the World and UAE), Remotive (location filter "available from" vs "explicitly in"; free view shows a small share, paid unlock shows all jobs and 24h early), Remote OK (Premium $14.95/month optional; scam / not-remote report buttons per FAQ). Practical sections on location/timezone restrictions, application steps, scam avoidance, and contract type + getting paid with internal links.
 - Index: replaced "coming soon" card with a link, added a 5th "start here" step. Nav updated on all pages; sitemap.xml updated.
 - No new opportunity this run (no verified program found that fits the new page within this run).
+
+## 2026-10-23 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved freelance-permit-saudi.html: VAT questions were only referred to ZATCA in one bullet; added a full "ضريبة القيمة المضافة" section from official ZATCA sources: thresholds table (optional above 187,500 SAR, mandatory above 375,000 SAR actual past 12 months or expected next 12, apply within 30 days of month end), zero-rating of services to non-GCC-resident clients under Article 33 of the VAT Implementing Regulations with its exceptions, 4 practical steps (monthly revenue tracking, 12-month check, ZATCA individual VAT registration e-service, keep proof of client residence). Added TOC entry, internal link from the limits section, updated meta description.
+- No new page this run (improvement prioritized; sitemap unchanged).
+- Opportunity added: Remotive Affiliate Program (30% of first payment, 90-day window, $100 minimum; invite-only note on signup page).
+- 6-hour report sent to user (18:00 run).
