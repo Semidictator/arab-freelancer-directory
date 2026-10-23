@@ -1,0 +1,6 @@
+*{box-sizing:border-box}body{margin:0;font-family:Tahoma,"Segoe UI",Arial,sans-serif;line-height:1.8;color:#1f2933;background:#f7f9fb}
+header{background:#0f5132;color:#fff;padding:1.2rem}header a{color:#fff;text-decoration:none;font-weight:bold;font-size:1.3rem}
+nav a{color:#d1fae5;margin-inline-start:1rem;font-size:.95rem}main{max-width:900px;margin:auto;padding:1rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem}.card{background:#fff;border:1px solid #e3e8ee;border-radius:10px;padding:1rem}
+table{width:100%;border-collapse:collapse;background:#fff;font-size:.95rem}th,td{border:1px solid #dde3ea;padding:.5rem;text-align:start;vertical-align:top}th{background:#ecfdf5}
+.note{background:#fff8e1;border-inline-start:4px solid #f0b400;padding:.7rem}.wrap{overflow-x:auto}footer{text-align:center;color:#667;padding:2rem 1rem;font-size:.85rem}a{color:#0b6e4f}
