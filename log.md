@@ -25,3 +25,10 @@
 - Index card text for tools updated. No new page this run.
 - Opportunity added: Zoho Affiliate Program (15% first 12 months). Checked Bitwarden: its official blog says it has no monetary referral program, so not added.
 - 6-hour report sent to user (12:00 run).
+
+## 2026-10-23 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- New page: freelance-permit-saudi.html (Saudi freelance permit / وثيقة العمل الحر) — a strong, previously "coming soon" topic. Eligibility, the 2-attachment rule, issuance steps, special-licence professions (management consulting, accounting, Abdea, Fal, transport; translation currently suspended), benefits (business bank account, POS, e-invoicing, optional GOSI, financing eligibility without guarantee), limits (no shop/recruitment/commercial import), 1-year validity per ministerial decision 99439, renewal/cancellation. Sources: freelance.sa FAQ, HRSD service page, decision 99439.
+- Improved index.html: new SEO title/meta, "start here" 4-step path, replaced the "coming soon" licences card with a link to the new page.
+- Added the new page to navigation on all pages and to sitemap.xml.
+- No new opportunity this run (no strong, verified program found that fits the new page; government service has none).
