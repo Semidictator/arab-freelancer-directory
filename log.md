@@ -10,3 +10,10 @@
 - Internal links: platforms page now links to the new withdrawal table; index card text updated.
 - No new page this run (prioritized improving the most valuable existing page).
 - Opportunity added: Toggl Track Partner Program (30% of first eligible payment, official terms linked).
+
+## 2026-10-23 11:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved freelance-platforms.html (was the thinnest page): new SEO title/meta, table of contents, commission column, detailed fee section per platform from official sources (Mostaql 15% base per support center/blog; Khamsat 20% per terms; Upwork 0–15% per help center; Fiverr 80% to seller, 14-day clearing, client fee 5.5% + $3.50 under $200; Freelancer.com 10% or $5, $20 minimum balance to bid), net-price formula with examples, "how to choose" updates, 5-step getting-started section, internal links to payments and tools pages.
+- Index card text for platforms updated.
+- No new page this run (improvement prioritized; sitemap unchanged).
+- Opportunity added: Khamsat Affiliates ($2 per referred new buyer, PayPal payout from $10).
