@@ -38,3 +38,9 @@
 - Improved receive-payments-saudi-gulf.html: the Payoneer section was a single sentence; replaced it with a fee table from Payoneer's official pricing page (last updated 1 Jan 2026): free receiving from Payoneer balances and local-currency receiving accounts, 1% (min $1) for non-local-currency receiving accounts, up to 3.99% + $0.49 for card payers, Saudi Arabia listed among local-currency withdrawal countries, 1.2–4% for withdrawals with conversion (min fee up to $20 in some countries), 0.5% balance conversion, $29.95 annual fee only if under $6,000 received in 12 months, card fees. Added "when to choose Payoneer" guidance and an illustrative calculation using only the published 1%; updated TOC and meta description.
 - No new page this run (no strong uncovered topic prioritized over fixing the thin section).
 - No new opportunity this run (Mostaql affiliate page could not be verified; not added).
+
+## 2026-10-23 15:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved receive-payments-saudi-gulf.html: the Wise section was 3 bullets with no fees; added a receiving-fee table from Wise's official pricing page set to "residents in Saudi Arabia" (account details free; domestic non-wire USD/EUR/GBP etc. free; USD wire/Swift 6.11 USD; EUR Swift 2.39 EUR; GBP Swift 2.16 GBP), a 4-step "what to send a US client" guide (routing/account number, ask for ACH, ACH timing up to 4 working days, USD details accept USD only) from Wise's USD account-details help article, and a note to check conversion/payout costs in the calculator. Updated TOC entry and meta description.
+- No new page this run (fixing the thin Wise section prioritized).
+- Opportunity added: Wise Affiliate Program via Partnerize (rate not public; $30 Partnerize minimum withdrawal).
