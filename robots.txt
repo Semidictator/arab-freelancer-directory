@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://semidictator.github.io/arab-freelancer-directory/sitemap.xml
