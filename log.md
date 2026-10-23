@@ -44,3 +44,9 @@
 - Improved receive-payments-saudi-gulf.html: the Wise section was 3 bullets with no fees; added a receiving-fee table from Wise's official pricing page set to "residents in Saudi Arabia" (account details free; domestic non-wire USD/EUR/GBP etc. free; USD wire/Swift 6.11 USD; EUR Swift 2.39 EUR; GBP Swift 2.16 GBP), a 4-step "what to send a US client" guide (routing/account number, ask for ACH, ACH timing up to 4 working days, USD details accept USD only) from Wise's USD account-details help article, and a note to check conversion/payout costs in the calculator. Updated TOC entry and meta description.
 - No new page this run (fixing the thin Wise section prioritized).
 - Opportunity added: Wise Affiliate Program via Partnerize (rate not public; $30 Partnerize minimum withdrawal).
+
+## 2026-10-23 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved receive-payments-saudi-gulf.html: the PayPal section had 3 bullets and no fees; rebuilt it from PayPal Saudi Arabia's official merchant-fees page (last updated 28 Sep 2026): SA receiving 4.90% + fixed fee ($0.30 for USD) for international and domestic commercial payments, 3.0% currency-conversion spread, free bank withdrawal for SA when no conversion, 19 SAR card transfer, $8/$16 dispute fees; illustrative $100 calculation; bank-withdrawal fee table for UAE, Kuwait, Qatar, Bahrain, Oman, Jordan, Egypt, Morocco; note that international receiving is 4.90% for SA/BH/JO/OM/DZ/TN vs 4.40% for "all other" markets (e.g. AE/KW/QA/EG/MA); "when PayPal fits" guidance with internal links to Wise/Payoneer and invoicing. Updated TOC and meta description.
+- No new page this run (fixing the thin PayPal section prioritized).
+- Opportunity added: Freelancer.com Affiliate Program (net project fees for first 100 days; pre-existing-relationship clause noted).
