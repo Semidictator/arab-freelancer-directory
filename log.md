@@ -63,3 +63,9 @@
 - No new page this run (improvement prioritized; sitemap unchanged).
 - Opportunity added: Remotive Affiliate Program (30% of first payment, 90-day window, $100 minimum; invite-only note on signup page).
 - 6-hour report sent to user (18:00 run).
+
+## 2026-10-23 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved freelance-platforms.html: it covered commissions but not the cost of applying. Added a "تكلفة التقديم وحدود العروض" section with a table (Mostaql: 10 proposals per rolling 30 days on the free plan, each renewed 30 days after submission, paid plans/extra packages, 3 portfolio items required before proposing; Upwork: Connects at $0.15 each, variable per job, billing method required; Freelancer.com: free limited bids + $20 balance; Khamsat/Fiverr: no per-proposal cost), Upwork Connects refund rules (refunded only if client cancels before contract or Upwork removes the post; not on rejection, another hire, expiry or withdrawal), free Connects sources (onboarding, ID verification, badges up to 90, some interviews), an illustrative cost example, and 5 steps to avoid wasting proposals. Sources: Upwork Connects help article, Mostaql blog/support/FAQ, Freelancer fees page. TOC and meta description updated.
+- No new page this run (improvement prioritized; sitemap unchanged).
+- Opportunity added: Upwork Affiliate Program via Impact (70% of new client's first contract spend up to $250; FAQ still says $150 cap — flagged).
