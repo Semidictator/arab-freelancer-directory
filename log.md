@@ -32,3 +32,9 @@
 - Improved index.html: new SEO title/meta, "start here" 4-step path, replaced the "coming soon" licences card with a link to the new page.
 - Added the new page to navigation on all pages and to sitemap.xml.
 - No new opportunity this run (no strong, verified program found that fits the new page; government service has none).
+
+## 2026-10-23 14:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved receive-payments-saudi-gulf.html: the Payoneer section was a single sentence; replaced it with a fee table from Payoneer's official pricing page (last updated 1 Jan 2026): free receiving from Payoneer balances and local-currency receiving accounts, 1% (min $1) for non-local-currency receiving accounts, up to 3.99% + $0.49 for card payers, Saudi Arabia listed among local-currency withdrawal countries, 1.2–4% for withdrawals with conversion (min fee up to $20 in some countries), 0.5% balance conversion, $29.95 annual fee only if under $6,000 received in 12 months, card fees. Added "when to choose Payoneer" guidance and an illustrative calculation using only the published 1%; updated TOC and meta description.
+- No new page this run (no strong uncovered topic prioritized over fixing the thin section).
+- No new opportunity this run (Mostaql affiliate page could not be verified; not added).
