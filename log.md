@@ -174,3 +174,9 @@
 - No new page this run (improvement prioritized; sitemap lastmod already 2026-10-24).
 - Opportunity added: Payoneer Partner Program (marketing & affiliate track; application-based, tiered custom revenue share, rates not published).
 - 6-hour report sent to user (12:00 run).
+
+## 2026-10-24 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved freelance-platforms.html: the "كيف تختار؟" section was the thinnest on the page (6 short bullets, ~80 words). Rebuilt it as a situation-based decision table (limited English/Arab clients → Mostaql + Khamsat; larger Arabic projects → Mostaql 15% vs 20%, 425$ vs 400$ on 500$; small repeatable services → Khamsat then Fiverr; international/long/hourly work → Upwork with Connects cost and ID-verification gate; no payment method → avoid Freelancer.com's 20$ balance and 5$ minimum fee; cheapest withdrawal in Saudi → compare withdrawal methods, linking to the payments page table), each row using only facts already verified and sourced on the site, plus a "هل تعمل على أكثر من منصة؟" subsection (one main platform first, a complementary second platform, per-platform gross-up 117.65$ vs 125$, no off-platform dealing incl. Freelancer's 30% penalty). TOC label and meta description updated.
+- No new page this run (improvement prioritized; sitemap lastmod already 2026-10-24).
+- No new opportunity this run (all platforms in this change already listed).
