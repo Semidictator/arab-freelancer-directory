@@ -137,3 +137,9 @@
 - No new page this run (improvement prioritized).
 - No new opportunity this run (all platforms in this change already listed).
 - 6-hour report sent to user (06:00 run).
+
+## 2026-10-24 07:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved free-tools.html: the quick-summary table at the top still said "check the pricing page" for Canva, Figma, Zoom, Google Meet and Zoho Invoice, and gave no limits for GitHub Pages, although verified figures had since been added lower on the page. Rewrote those rows with the verified limits and anchor links to the detailed sections (Zoho 500 invoices/year, 2 users, 3 projects, branding, 180-day inactivity deletion; Canva 1.6M+ templates, 5GB, 1 Brand Kit/3 colours, CMYK paid; Meet 24h 1:1 / 1h for 3+ / 100 participants; Zoom Basic 40 min incl. 1:1; GitHub Pages 1GB, ~100GB/month soft, no commercial-transaction use). Figma had no verified info anywhere: checked the official pricing page today and added a "Figma المجانية: متى تكفيك؟" subsection (Starter: unlimited drafts, UI kits and templates, 150 AI credits/day up to 500/month; unlimited files/projects, team libraries and advanced Dev Mode on Professional; free viewers can view, comment, inspect, copy CSS and export) with 3 practical tips for sharing with clients. Intro review date, footer date and meta description updated.
+- No new page this run (improvement prioritized; sitemap lastmod already 2026-10-24).
+- No new opportunity this run (Notion affiliate page re-checked: still "not accepting new affiliates", already listed; Figma has no public affiliate program found on its official site).
