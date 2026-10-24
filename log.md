@@ -243,3 +243,9 @@
 - No new page this run (improvement prioritized; sitemap lastmod for freelance-platforms.html updated to 2026-10-25).
 - No new opportunity this run (time spent on verification; none added without official terms).
 - 6-hour report sent to the user via parent (00:00 run).
+
+## 2026-10-25 01:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved freelance-platforms.html: the account-safety section covered Mostaql, Fiverr and Upwork but explicitly said Khamsat terms were not reviewed. Added a Khamsat row to the rules table from khamsat.com/terms checked today (off-platform contact/payment, contact details in services, commission negotiation, raising price after buyer messages, middleman role, multiple accounts or shared payout method, team/company use of one account, non-personal withdrawal account; pre-purchase messages optional and for service questions only; temporary/permanent suspension; suspended-account earnings withdrawable after the hold for fully delivered orders with ID verification). Added a subsection on seller-specific Khamsat violations (delivery request before full execution and the 24-hour start advice, cancelling orders instead of pausing the service, abandoning time-based services, copied/AI portfolio samples, publishing order or support messages, selling the account or bots). Added a new #countries subsection: per Mostaql and Khamsat terms both are unavailable in the EU/Europe and in Afghanistan, Cuba, Iran, Iraq, North Korea, Somalia, Sudan, South Sudan, Crimea, Yemen, Zimbabwe (highlighted for Arab readers; noted it does not apply to Upwork/Fiverr). Replaced the "Khamsat not reviewed" source note, added TOC entry and updated meta description.
+- No new page this run (improvement prioritized; sitemap lastmod for freelance-platforms.html already 2026-10-25).
+- No new opportunity this run (none verified this hour).
