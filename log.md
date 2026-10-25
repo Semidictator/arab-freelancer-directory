@@ -317,3 +317,9 @@
 - No new page this run (improvement prioritized).
 - No new opportunity this run (eligibility/regulatory topic; no relevant affiliate program).
 - 6-hour report sent to the user via parent (12:00 run).
+
+## 2026-10-25 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved remote-jobs.html (least recently improved page, last touched 07:00): the application section ended at LinkedIn settings and never told readers what interviews at fully remote companies look like, while the scams table flags "text-chat-only interview" without noting that legitimate remote companies also interview in writing. Added a #interview subsection using Automattic's official pages checked today (work-with-us, what-to-expect-during-a-trial, compensation): application with cover letter and possible skills assessment; most roles start with a Slack text interview, some with 30–60 min video; practical test or trial (work-with-us says the longer trial is up to 20 hours, the trial guide says the standard trial typically takes 25–40 hours for non-Happiness roles; both stated), paid at a flat $25/hour unrelated to future salary; final approval can take days to a month; salary ranges on each job page and global ranges regardless of location. Plus a "how to tell it from a scam" list (job on the official careers page, no money or card data, ask whether a long test is paid and how many hours) with links to #scams, free-tools #time and the payments page. TOC entry and meta description updated, footer already 25 Oct 2026 (sitemap lastmod already 2026-10-25). HTML structure checked.
+- No new page this run (improvement prioritized).
+- No new opportunity this run (checked Himalayas and We Work Remotely for affiliate pages; none found at the expected URLs).
