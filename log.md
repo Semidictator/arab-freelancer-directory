@@ -355,3 +355,9 @@
 - No new page this run (improvement prioritized).
 - No new opportunity this run (regulatory topic; no relevant affiliate program).
 - 6-hour report sent to the user via parent (18:00 run).
+
+## 2026-10-25 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved remote-jobs.html (least recently improved page, last touched 13:00): the application flow never told readers how to answer the "expected salary" question that most remote-company applications ask, where Gulf applicants often undersell themselves by quoting a local figure. Added a #salary subsection after #interview from official pages checked today: Automattic compensation page (asks for expectations, salary range on each job page and asks candidates to read it first, global ranges regardless of location, local currency when possible, offer considers initial expectations/experience/feedback and may go beyond the range) versus GitLab handbook compensation page (last updated 2026-02-19: local labor-market rates not cost of living, country-specific ranges in local currency, non-US one country-wide range from major-metro data, ranges typically -20% to +20% of midpoint). Plus 6 practical steps (find the posted range, ask global vs country range in writing, state currency/annual vs monthly/gross vs net, EOR vs contractor before agreeing a number, net after withdrawal fees, get it in the contract) with links to #global, #eor, #pay, #scams and the payments page. TOC entry and meta description (210 chars) updated. HTML structure and internal anchors checked (sitemap lastmod already 2026-10-25).
+- No new page this run (improvement prioritized).
+- No new opportunity this run (salary-guidance topic; no relevant new program verified).
