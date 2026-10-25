@@ -280,3 +280,9 @@
 - No new page this run (improvement prioritized).
 - Opportunity added: Zid Safeer affiliate program (30% of referred merchant's subscription, 20% merchant discount, needs Saudi IBAN; payout terms not stated).
 - 6-hour report sent to the user via parent (06:00 run).
+
+## 2026-10-25 07:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved remote-jobs.html: the "after acceptance" section's relationship table only distinguished a teleworks.sa employee from a contractor, missing the common case of a foreign company hiring through an Employer of Record (Deel/Remote), and readers had no way to tell from an offer which one they were getting. Added an EOR row to the table and a new #eor subsection from official pages checked today: Deel's EOR explainer (the EOR is the legal employer and the worker signs with it, while the company sets pay and manages daily work; companies don't need an EOR for contractors, who get no payroll/social contributions) and Remote's Saudi Arabia country page (companies hiring in KSA usually need a local entity or an EOR; Remote owns its own Saudi entity; health insurance mandatory for employees and dependents per CCHI; pricing from 599 USD/employee/month for EOR vs 29 USD/contractor/month). Includes a "how to tell from the offer" comparison table, why companies often offer contractor terms (and pricing that in), 5 questions to send before signing (incl. GOSI registration check for Saudis), and a scam note linking to #scams. TOC label, meta description and footer review date updated (sitemap lastmod already 2026-10-25). Remote's labor-law details (leave, notice) not used because they may predate the 2025 Saudi Labor Law amendments.
+- No new page this run (improvement prioritized).
+- Opportunity added: Bonsai Affiliate Program (200% of first monthly payment / 30% yearly, 60-day cookie, 100 USD minimum payout).
