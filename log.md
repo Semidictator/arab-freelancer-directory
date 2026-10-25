@@ -342,3 +342,9 @@
 - SEO: over-long meta descriptions shortened to ~190–215 characters on receive-payments-saudi-gulf.html (was 604), remote-jobs.html (was 755) and freelance-permit-saudi.html (was 502), keeping only claims covered on each page. HTML structure checked on all three (sitemap lastmod already 2026-10-25).
 - No new page this run (improvement prioritized).
 - No new opportunity this run (no strong verified program tied to this change; payment providers already listed).
+
+## 2026-10-25 17:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved index.html (least recently improved page, last touched 11:00): the homepage cards and FAQ predated five practical sections added since (#own-client, #non-saudi, #contract, #interview, receive-payments #checklist), so visitors couldn't find them from the homepage. Updated four section cards (platforms: bringing a direct client under Upwork/Freelancer.com protection at 5% or less; payments: 10-step checklist; free tools: written agreement and free e-signature; remote jobs: text interviews and paid trials; permit: why it isn't available to non-Saudi residents). Added 4 FAQ items (HTML + FAQPage JSON-LD, now 19) using only facts already sourced on the linked sections: direct client you don't trust to pay (#own-client), can non-Saudi residents get the permit (#non-saudi), what to put in a client agreement and free signing via Zoho Sign (#contract), is a text-only interview / long trial a scam (#interview). "Start here" steps now link to #checklist and #contract. JSON-LD and HTML structure validated (sitemap lastmod already 2026-10-25).
+- No new page this run (improvement prioritized).
+- No new opportunity this run (homepage consolidation; no new program verified).
