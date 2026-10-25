@@ -392,3 +392,9 @@
 - No new page this run (improvement prioritized).
 - No new opportunity this run (checked Qoyod affiliate/partners pages: blocked by a bot check, unverifiable; Wafeq /en/partners and /en/affiliate return 404).
 - 6-hour report (19:00–00:00) due at this run; sent to the user via the parent.
+
+## 2026-10-26 01:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved remote-jobs.html (least recently improved page, last touched 19:00): the page had no FAQ and no structured data even though it now covers many search-driven questions. Added #faq with 10 questions (teleworks.sa eligibility for non-Saudis/government employees; why no jobs appear on teleworks.sa; minimum salary 4000/2000 SAR; whether job boards need a paid subscription; does "Remote" mean open from the Gulf; night hours with US teams; text-only interview and paid trial vs scam; Deel/Remote EOR vs contractor; cheapest Deel withdrawal; first steps after losing money to a fake job), each answer using only facts already sourced on the page and linking to the section holding the official source, plus matching FAQPage JSON-LD. TOC entry added, footer review date 26 Oct 2026, sitemap lastmod 2026-10-26. JSON-LD parsed, HTML structure and all internal anchors checked.
+- No new page this run (improvement prioritized).
+- No new opportunity this run (checked Himalayas /affiliates, Remotive /affiliate and We Work Remotely /affiliates: all 404, no public programme found).
