@@ -584,3 +584,10 @@
 - Improved index.html: Qatar bullet in the Qatar/Kuwait/Bahrain card, new section card, and a new #problems row (now 22 rows).
 - HTML structure, JSON-LD and internal anchors checked.
 - No new opportunity this run (no relevant, verified programme for this topic; nothing added).
+
+## 2026-10-27 23:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved remote-jobs.html (least recently improved page, last touched 07:00 today): the #pay table told contractors working for foreign companies that they "bear their legal obligations in their own country" without saying what those are, although the site now has guides for all six GCC countries. Added #contractor-country "متعاقد مع شركة أجنبية وأنت في الخليج: ما الإطار النظامي في بلدك؟": a table with the citizen route and the non-citizen position for Saudi Arabia, UAE, Bahrain, Oman, Kuwait and Qatar, using only facts already verified and sourced on the country pages (Saudi permit citizens-only and currently free; UAE MoHRE freelance permit incl. self-sponsored expats and the virtual work visa USD 3,500/month; Bahrain Sijili with existing website and LMRA Registered Worker; Oman e-commerce licence OMR 6.5 with the Decision 499/2023 nationality conflict; Kuwait Decision 168/2025 Kuwaitis 21+; Qatar home licence QAR 300 and e-commerce licence QAR 500, expat position unresolved), each row deep-linking to the relevant country-page sections; 3 pre-signing steps; tax/insurance cross-links. TOC entry, 13th FAQ in HTML and FAQPage JSON-LD (validated).
+- Internal anchors (same-page and cross-page) and JSON-LD checked.
+- No new page this run (all GCC countries now covered; no strong uncovered topic chosen this hour).
+- No new opportunity this run (nothing relevant and verified added).
