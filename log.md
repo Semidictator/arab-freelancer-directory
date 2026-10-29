@@ -863,3 +863,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour (banks/SAMA have no affiliate programme; nothing new verified).
 - Report: not a report hour (next at 00:00).
+
+## 2026-10-29 21:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently changed page, last touched 10:10 today): the Trello vs Notion comparison re-verified against both official pricing pages today (limits unchanged) but said nothing about Arabic, the language most visitors write their notes in. Added an "العربية واتجاه الكتابة" row to the #organize table and the summary-table Trello row, and a new #organize-arabic sub-section from official sources checked today: Notion help "Change your language" (Arabic and Hebrew in the language list, auto-detected text direction in most text blocks except simple tables, mirrored desktop/mobile UI when display language is Arabic, per-block Text direction control, "Always show direction controls" toggle; launch date 26 Jan 2026 per Notion's own announcement as reported), Atlassian support "Change your language in Trello" (Arabic not among the listed languages), Jira TRELLO-289 (RTL formatting in the card editor, unresolved, "Current Workarounds: None Available") and I18N-3425 (Support Arabic in Trello, unresolved, low priority). Four practical steps (enable Arabic in Notion, fix mixed-direction blocks, avoid simple tables for Arabic notes, Trello workaround of short titles plus a linked Google Doc, labelled as our suggestion). Conclusion line updated, TOC label, meta description, 15th FAQ in HTML and FAQPage JSON-LD (validated, 15 entries), sitemap lastmod 2026-10-29. Anchors and tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
