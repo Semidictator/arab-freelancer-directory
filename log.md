@@ -810,3 +810,9 @@
 - No new page this run (improvement prioritized; no strong uncovered topic chosen this hour).
 - No new opportunity this run (nothing new verified this hour; nothing added).
 - Six-hour report (06:00–12:00) handed to the user via the parent.
+
+## 2026-10-29 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved freelance-oman.html (least recently changed page, last touched 21:04 on 28 Oct): the #home section was two short paragraphs that told readers to check the annex of Ministerial Decision 473/2022 without saying what is in it. Re-read the decision on qanoon.om today (Official Gazette 1451, 24 July 2022; web search found no published amendment) and rewrote it as "ترخيص الأعمال الإنتاجية المنزلية: لمن يصلح ومن لا يصلح له": a table of Articles 1–9 (eligibility, electronic application and documents, 3 years for OMR 3, renewal 30 days before expiry, obligations incl. the 30×60 cm entrance sign, no storage outside the home, no hazardous materials, no foreign labour, prohibitions, OMR 100 fine after written warning and 3-day grace, doubled on repeat, suspension up to 3 months then cancellation, 60-day appeal), new #home-list grouping all 30 annex activities with a note that no digital service (design, programming, translation, writing, marketing) is included, and new #home-pick comparing it with the e-commerce (freelance) licence under 499/2023 plus practical notes (can't hold both, unresolved question on selling home products via Instagram, likely SPF coverage, renewal needs proof of contributions). TOC sub-entries, meta description, footer date; 10th FAQ in HTML and FAQPage JSON-LD (validated, 10 entries). Tag balance and internal anchors checked.
+- No new page this run (improvement prioritized; no strong uncovered topic chosen this hour).
+- No new opportunity this run (nothing new verified this hour; nothing added).
