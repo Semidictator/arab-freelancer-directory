@@ -773,3 +773,9 @@
 - No new page this run (improvement prioritized; no strong uncovered topic chosen this hour).
 - No new opportunity this run (nothing new verified this hour; nothing added).
 - Six-hour report (00:00–06:00) sent to the user this run.
+
+## 2026-10-29 07:00 (Asia/Riyadh, UTC+3)
+- Live URL check: still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved freelance-permit-saudi.html (least recently improved page, last touched 01:00 on 28 Oct): the #special section was two loose bullet lists (about 225 words) with only one link and nothing on what to do when a profession is missing. Rewrote it from the freelance.sa official FAQ re-read today: a table of the eleven categories with what is needed before the document and the supervisory body link given by the platform (management consulting conditions; SOCPA freelance document request form; Abdea licence whose title must match the activity; FAL licence with automatic issuance; Transport General Authority-approved apps; Ministry of Tourism guide licence; Balady mobile-cart licence; productive families certificate; Saudi Energy Efficiency Center; Naama for farmers/beekeepers/livestock; translation still "currently suspended" pending linkage with the supervisory body), the platform's note that professions are under continuous review and may be paused. New #special-pick (profession vs activity per the unified occupation classification, "suggest a profession" option, don't pick a mismatched profession since it can't be edited, options for translators) and #special-steps (5 steps). TOC sub-entry, meta description, sources date and footer updated; 12th FAQ in HTML and FAQPage JSON-LD (validated, 12 entries). Internal anchors and table/list tags checked.
+- No new page this run (improvement prioritized; no strong uncovered topic chosen this hour).
+- No new opportunity this run (nothing new verified this hour; nothing added).
