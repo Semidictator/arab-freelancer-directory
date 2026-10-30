@@ -914,3 +914,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-10-30 06:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved remote-jobs.html (least recently updated page, 15 hours; its #report table only covered Saudi Arabia and the UAE and said "we haven't reviewed other countries yet"): added verified reporting channels for job-scam/fraud victims in the other four Gulf states. Kuwait: MOI Electronic and Cyber Crime Combating Department +965 97283939 call/WhatsApp (moi.gov.kw cyber-crime page; KUNA Feb 2025: no other official WhatsApp, check the verification mark). Qatar: hotline 66815757, Metrash2, cccc@moi.gov.qa (QCB "Stay Aware" campaign page) and 2347444 (MOI awareness page); MoI official via Gulf Times Feb 2026: large frauds best reported in person, bank-account cases start with a sealed, signed account report from the bank. Bahrain: ACEES online report form, hotline 992, WhatsApp 17108108 (acees.gov.bh; 992 also on interior.gov.bh emergency numbers), Cybercrime Directorate 17108000 Sun–Thu 7–2 or nearest police station. Oman: nearest police station (24h) or 9999, ROP app "Report an Incident" (gov.om, free); 80077444 is listed by ROP specifically for cyber extortion and no separate fraud line was found, stated plainly. "Other countries" row kept for non-Gulf states. Heading, intro review date, TOC label, meta description, footer date (30 Oct 2026), 17th FAQ in HTML and FAQPage JSON-LD (validated, 17 entries), sitemap lastmod 2026-10-30. Tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: six-hour report (00:00–06:00) handed to the user in chat.
