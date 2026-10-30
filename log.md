@@ -963,3 +963,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour (tax authorities have no affiliate programme).
 - Report: six-hour report (06:00–12:00) handed to the parent.
+
+## 2026-10-30 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (least recently changed page, last touched 00:02 today): the home page had fallen behind this morning's verified sections. Corrected the Oman row of #gulf-tax and the Oman bullet, which implied 5% on all income above OMR 42,000; they now say 5% applies only to taxable income above OMR 42,000 after deductions, that Art. 10 freelance income is activity not registered in the CR with 15% or actual expenses deducted, and added the 6-month PIT e-return (first for 2028 in H1 2029), linking to #pit-freelance (all from the 12:00 rewrite based on Royal Decree 56/2025). Added the UAE e-invoicing obligation to the UAE row (under AED 50m appoint an ASP by 31 Mar 2027, go live 1 Jul 2027, regardless of VAT registration; from the 08:00 MoF-sourced section) with a link to #e-invoicing. Added five rows to #problems linking to sections added today: Saudi local client didn't pay (#unpaid), PayPal dispute after delivery (#paypal-disputes), ChatGPT on Fiverr/Upwork (#ai), UAE e-invoicing (#e-invoicing), Kuwait labour support steps (#support-steps); each summary taken from the detailed section. New 29th FAQ on whether Oman's 5% applies to all freelance income, in HTML and FAQPage JSON-LD (validated, 29 entries). Meta description and footer date 30 Oct 2026; sitemap lastmod already 2026-10-30. Anchors and tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
