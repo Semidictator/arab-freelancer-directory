@@ -1040,3 +1040,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-10-31 00:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-permit-saudi.html (least recently improved page, last touched 07:00 on 30 Oct): the five other Gulf pages now explain the payment order, but the Saudi #unpaid section had no payment-order route. Added a fifth row to the #unpaid table and a new #payment-order subsection "أمر الأداء في السعودية: متى ينطبق عليك وما مواعيده" from the Commercial Courts Law (Royal Decree M/93, 1441H) as published by the Bureau of Experts (laws.boe.gov.sa timed out from the box, so the text was read 31 Oct 2026 from qanoon.app's article pages, which cite BOE and show Art. 16 as amended by M/191): Art. 67 conditions (written, due, fixed amount), Art. 68 written demand at least 5 days before filing stating the intended filing date, Art. 69 attachments, Art. 70 decision within 10 days of registration and rejection final without prejudice to a normal suit, Art. 65 expedited enforcement, Art. 71 15-day reasoned grievance and possible stay for serious harm; Art. 16 jurisdiction (disputes between merchants over commercial business; suits against a merchant over commercial contracts above SAR 100,000) with the note that the permit is not a commercial registration, so check jurisdiction with a lawyer; no fee figure given (none found on an official page). Cross-links to the UAE, Kuwait, Oman, Bahrain and Qatar #unpaid sections; sixth step in #unpaid-steps; TOC label, meta description, 15th FAQ in HTML and FAQPage JSON-LD (validated, 15 entries), sources line, footer date 31 Oct 2026; sitemap lastmod 2026-10-31. Anchors and tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: 00:00 six-hour report (18:00–00:00) handed to the parent to send.
