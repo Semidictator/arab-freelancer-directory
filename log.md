@@ -991,3 +991,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour (no new relevant programme verified).
 - Report: not a report hour (next at 18:00).
+
+## 2026-10-30 17:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved remote-jobs.html (least recently changed page, last touched 06:00 today): it compared nine boards but skipped FlexJobs, a widely advertised paid board whose $2.95 trial auto-renews. Added #flexjobs "FlexJobs: هل يستحق الدفع من الخليج؟ وانتبه لتجديد التجربة" after #wwr, with a price table and five steps (#flexjobs-steps), from official pages read today: FlexJobs pricing page and FAQ (14-day trial $2.95 then $23.95 every 4 weeks; 3 months $29.85 up front; annual $71.40 up front; all auto-renew, cancel anytime; refund on request within 14 days of subscribing; paid subscription needed to see employers, full details and apply; not an employment agency; prepaid Visa/Mastercard/Amex accepted; cancel via Account Details > Subscription or Google Play/App Store for app sign-ups; billing descriptors Flexjobs/Flexjobs.com/BLD*Flexjobs.com/PayPal*FLEXJOBS; never contacts via WhatsApp), the international-jobs FAQ post (primarily US-based jobs, most remote jobs have location requirements, international and Anywhere sections exist) and the advanced-search post (International field: pick country or "Anywhere"). Our own calculation: forgetting the trial for a year costs about $290 (2.95 + 12 x 23.95), labelled as our calculation. Stated no per-country Gulf job counts were found. New row in the comparison table (now ten sites; h2 and meta updated), TOC link, 18th FAQ in HTML and FAQPage JSON-LD (validated, 18 entries). Anchors and tag balance checked; footer and sitemap lastmod already 30 Oct 2026.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour (FlexJobs affiliate terms not verified this hour; not added).
+- Report: not a report hour (next at 18:00).
