@@ -977,3 +977,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour (government services have no affiliate programme).
 - Report: not a report hour (next at 18:00).
+
+## 2026-10-30 15:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-qatar.html (least recently changed page, last touched 01:00 today): it listed renewal fees but said nothing on when to renew, what late renewal costs, or what happens to a lapsed CR. Added #renew "التجديد والتأخير والإلغاء" under #fees with a seven-row table and five steps, from official sources read today: Art. 5 of Commercial Registry Law 25/2005 as amended by Law 20/2014 (SJC legal encyclopedia: one-year registration, renewal request within the 30 days before expiry, write-off allowed if not renewed 90 days after notice, exceptional late renewal pays the fee for the whole period since expiry) and Art. 12 (removal request within 30 days of the cause); Single Window "Comprehensive Renewal" service page (renew CR and licence for 1 to 5 years, must be expired or about to expire, licence not longer than CR, home licence and professional offices do not require CR renewal, about one day, Tawtheeq/NAS with valid Qatari ID, fees CR 500 + 300 per extra activity + 100 per branch, commercial licence 500, home licence 300, plus Qatar Chamber fees); Single Window General FAQ (non-renewal = violation up to QAR 300 plus the CR fee). Stated no official late fee was found for the home licence specifically. TOC link, meta description, 12th FAQ in HTML and FAQPage JSON-LD (validated, 12 entries), Article dateModified 2026-10-30. Anchors and tag balance checked; footer and sitemap lastmod already 30 Oct 2026.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour (government services have no affiliate programme).
+- Report: not a report hour (next at 18:00).
