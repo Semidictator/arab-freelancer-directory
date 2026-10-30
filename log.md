@@ -1019,3 +1019,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-10-30 21:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-oman.html (Oman had no section on recovering an unpaid invoice; Saudi, UAE and Kuwait pages now do): new #unpaid "عميل داخل عُمان لم يدفع: «أمر الأداء»" with table and five steps (#unpaid-steps), from the text of Civil and Commercial Procedures Law (Royal Decree 29/2002) Arts. 195–201 as published (amended text) on Qanoon.om, read 30 Oct 2026, and the gov.om "قدم طلب أمر أداء" service card (Supreme Judicial Council, updated 28 Mar 2025): written, due, fixed money debt or commercial paper against drawer/maker/acceptor/guarantor; optional (Art. 196); 8-day demand by registered letter with acknowledgment or protest; primary court of the debtor's domicile; petition in two copies with Art. 64 particulars, debt instrument, proof of demand and proof of fee; order within 3 days; Art. 199 referral not appealable; void if not served within 6 months; reasoned grievance within 15 days, struck if grievant absent at first hearing; order itself appealable, grievance right lost on direct appeal. Noted gov.om shows service fee 0 while Art. 198 requires the prescribed fee, amount not found on an official page so no figure given. Links to free-tools.html#contract, freelance-platforms.html#disputes, receive-payments-saudi-gulf.html#paypal-disputes and the Saudi, UAE and Kuwait #unpaid sections. TOC link, meta description, 13th FAQ in HTML and FAQPage JSON-LD (validated, 13 entries), sources line. Anchors and tag balance checked; footer and sitemap lastmod already 30 Oct 2026.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
