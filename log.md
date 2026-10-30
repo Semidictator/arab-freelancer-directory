@@ -1054,3 +1054,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-10-31 02:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (least recently changed page, last touched 14:00 on 30 Oct): the home page linked only to the Saudi #unpaid section, although all six Gulf pages now explain the payment order (أمر الأداء) and the payments page has the new #afaq section. Added #gulf-unpaid "عميل داخل الخليج لم يدفع: «أمر الأداء» في الدول الست بمقارنة سريعة" after #gulf-insurance: a six-country table (legal basis, demand notice before filing, time to issue, lapse if not served, client grievance period/appealability, link to each detailed section) built only from the verified sections pushed 30–31 Oct (Saudi Commercial Courts Law Arts. 65, 67–71; UAE Decree-Law 42/2022 Arts. 143–150; Kuwait Arts. 166–170 after Decree-Law 71/2025; Oman RD 29/2002 Arts. 195–201; Bahrain Arts. 323–332 after Decree-Law 21/2019; Qatar Law 13/1990 Arts. 147–154 after Law 3/2019), with a note on common pitfalls, the Saudi commercial-court jurisdiction limit, and that no official fee figure was found. Added two #problems rows (unpaid client in another Gulf country → #gulf-unpaid; Gulf client asking how to transfer → receive-payments-saudi-gulf.html#afaq), a 30th FAQ in HTML and FAQPage JSON-LD (validated, 30 entries), meta description mention, footer date 31 Oct 2026; sitemap lastmod for the home page 2026-10-31. All local and cross-page anchors and tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
