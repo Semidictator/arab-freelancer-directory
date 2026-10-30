@@ -1005,3 +1005,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: 18:00 six-hour report (12:00–18:00) handed to the parent to send.
+
+## 2026-10-30 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-platforms.html (least recently improved page, last touched 10:00 today): #apply-cost re-verified against Upwork's "Understanding and using Connects" help page and Freelancer.com's Fees and Charges page (both read 30 Oct 2026). Upwork row and Connects list now add: Connects sold in bundles; required count set by project size/scope/demand and can change while the post is live; purchase takes the whole amount from earnings balance first or else the whole amount from the billing method (no split), with the reserve-balance option; Agency Basic cannot buy Connects; possible bonuses (one-time 50 for new users after purchase/Freelancer Plus if offered, 10 for first successful boost, 12 for 3+ proposals spending 54+ Connects, a test feature, twice a month). New #freelancer-bids: the $20 minimum unreserved balance must stay available until the bid is accepted or withdrawn and may be set higher for risk-based/high-value cases; table of sponsored bid (0.75%, min $5, max $20), highlight $1, sealed $0.10, project fee, $50 minimum withdrawal and withdrawal fees; stated what the page doesn't say. New #apply-budget: worked example labelled as our calculation (20 proposals x 16 Connects = $48/month) and four steps for capping application spend. TOC links, meta description, 17th FAQ in HTML and FAQPage JSON-LD (validated, 17 entries), sources line. Anchors and tag balance checked; footer and sitemap lastmod already 30 Oct 2026.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
