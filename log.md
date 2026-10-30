@@ -984,3 +984,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour (government services have no affiliate programme).
 - Report: not a report hour (next at 18:00).
+
+## 2026-10-30 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently changed page, last touched 05:00 today): it covered writing tools but said nothing about pasting client files into free AI assistants, a common confidentiality risk. Added #ai-privacy "ChatGPT وGemini المجانيان وبيانات عملائك" after #writing, with a comparison table and five steps (#ai-privacy-steps), from official pages read today: OpenAI Help "Data controls in ChatGPT" (training on by default for Free/Plus/Pro personal workspaces; turn off Improve the model for everyone in Settings > Data controls, applies across devices, keeps history; Temporary chat not in history, not used for training, may be kept up to 30 days for safety; thumbs up/down feedback can put the whole conversation into training; turning off training does not delete chats; Business/Enterprise not used for training by default) and Google's Gemini Apps Privacy Hub (Keep Activity on = used to improve services incl. training with human review of a subset; turning it off stops future training unless feedback is sent; temporary chats and Keep-Activity-off chats kept 72 hours; feedback sends last 24 hours of chats and is kept up to 3 years; auto-delete default 18 months, options 3/36; reviewed chats kept up to 3 years even after deleting activity; "don't enter confidential information"). Linked to freelance-platforms.html#ai and #contract. TOC link, meta description, 17th FAQ in HTML and FAQPage JSON-LD (validated, 17 entries). Anchors and tag balance checked; footer and sitemap lastmod already 30 Oct 2026.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour (no new relevant programme verified).
+- Report: not a report hour (next at 18:00).
