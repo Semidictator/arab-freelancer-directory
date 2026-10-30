@@ -949,3 +949,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-10-30 11:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-kuwait.html (least recently improved country page, last touched 23:00 yesterday): the #support section (دعم العمالة) was two short paragraphs with no application steps, timing or stop conditions. Added #support-steps "خطوات التقديم على دعم العمالة بعد الترخيص، ومتى يتوقف": four steps (licence; PIFSS Chapter 5 registration on the new licence per the PIFSS Insured page; file with the Public Authority for Manpower then apply as a company in the labour-support system, per the Oct 2023 announcement of Cabinet Decision 1037/2023 from KUNA and as relayed by the press, with the services currently listed on manpower.gov.kw and a call-103 check; payment 45-60 days after applying with no fixed date, per the Authority's FAQ) and a four-row table (amount depends on qualification and marital status, no current official table found so no figures given; retirees not eligible; stop conditions; ending Chapter 5 needs an MOCI extract proving licence cancellation per PIFSS). Updated the practical-plan step 7, TOC, meta description, 13th FAQ in HTML and FAQPage JSON-LD (13 entries), Article dateModified, footer date 30 Oct 2026, sitemap lastmod 2026-10-30. Anchors and tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
