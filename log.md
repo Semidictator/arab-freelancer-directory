@@ -935,3 +935,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-10-30 09:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved receive-payments-saudi-gulf.html (least recently improved page, last touched 20:00 yesterday): the PayPal section had fees and dispute-fee amounts but nothing on whether PayPal Seller Protection covers a freelancer's services when a client disputes after delivery. Added #paypal-disputes with a five-row table and five steps, from PayPal's Saudi-published Seller Protection, Buyer Protection and User Agreement pages read today: Significantly Not as Described claims are excluded from Seller Protection; Item Not Received for intangible goods/services needs compelling evidence (system record of electronic delivery to the recipient's address or access); Unauthorized claims on intangibles only if the transaction is marked eligible or PayPal notifies in writing; INR chargebacks filed with the card issuer are excluded and the issuer decides card chargebacks; friends-and-family payments are unprotected and sellers must not request them; buyer timeframes (INR 180 days from payment, SNAD 30 days from delivery or 180 days whichever sooner, escalate within 20 days), funds held during the dispute, fees not refunded on a lost claim, no dispute fee for disputes resolved without escalation. Noted that a foreign client's own-country PayPal terms may differ. TOC entry, meta description, 17th FAQ in HTML and FAQPage JSON-LD (validated, 17 entries), footer date 30 Oct 2026, sitemap lastmod 2026-10-30. Tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
