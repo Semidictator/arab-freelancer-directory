@@ -1133,3 +1133,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 12:00 is a six-hour report hour; the report is handled by the parent run (this run did not message the user).
+
+## 2026-10-31 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-oman.html #payments (thinnest payments section of the country pages, about 2,800 characters, last improved 28 Oct; unlike the Bahrain (Fawri+) and Qatar (Fawran) pages it had nothing on local instant transfers for clients inside Oman). Added an MPCSS row to the payments table and a new #local-transfers subsection "عميلك داخل عُمان؟ التحويل المحلي صار مجانياً منذ 1 يوليو 2026" from sources read 31 Oct 2026: CBO "Payment System Evolution" page (MpClear 2017 by mobile number, MPCSS with QR 2019, Thawani first PSP 2020), World Bank FASTT Oman case study (Jan 2026: 24/7, OMR only, CBO-set per-transaction limits by type and customer category), and the CBO national payment systems fee reform announced June 2026, effective 1 Jul 2026 (ONA text via Al-Sahwa; CBO release in Oman Observer): P2P by mobile number/alias free for all customers across banks/PSPs; local digital RTGS/ACH transfers free for retail customers and SMEs; merchant QR "Scan and Pay" fee cap cut from 0.75% to 0.50%, max OMR 2; direct debit and e-mandate free for customers. Four-row table, worked QR example (OMR 300 invoice max OMR 1.5; above OMR 400 capped at OMR 2), note linking to receive-payments-saudi-gulf.html#afaq for Gulf clients and #license-rules Art. 10, five steps (#local-transfers-steps). Stated that no current official per-transaction limit table was found (the CBO MpClear rules PDF returned an error from the box) and that the announcement does not define SMEs. TOC link, sources line, 14th FAQ in HTML and FAQPage JSON-LD (validated), footer date 31 Oct 2026; sitemap lastmod already 2026-10-31. Anchors and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
