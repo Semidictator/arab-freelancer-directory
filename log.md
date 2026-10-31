@@ -1082,3 +1082,12 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-10-31 06:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Corrected outdated and contradictory Mostaql facts from the official help center (support.mostaql.com/ar: freelancers-fees, mostaql-membership, how-to-withdraw-profits, types-of-balance; read 31 Oct 2026):
+  - receive-payments-saudi-gulf.html: #withdraw-timing row and #hsoub note no longer cite the undated blog's "USD 15 bank-transfer fee borne by Mostaql until further notice / ~7 working days". Now: PayPal withdrawals from USD 25 arrive within 48 hours with no fee or charges, late-day requests scheduled next day, cancellable while processing; bank transfers from USD 250 with fees borne by Mostaql (local bank may deduct), up to 14 working days, name must match ID, available only for Saudi Arabia, Egypt, Morocco, Kuwait, UAE, Bahrain, Jordan, Qatar, Algeria and Tunisia (not Oman, link to Oman guide); 14-working-day hold starts the day after delivery and excludes weekends and public holidays; self-topped-up balance is refunded via support, not withdrawn. Sources line now links the help-center page.
+  - freelance-platforms.html: fixed the #subscriptions claim that no subscription lowers the commission (help center says paid Mostaql plans have a lower commission; rates shown only in membership settings and on the bid form). Updated the Mostaql fees bullet, the membership table row (lower commission, higher daily limit, member badge, monthly by card / yearly from balance, auto-renew, pay-the-difference upgrades, cancel by downgrading), the "quick math" bullet (break-even = plan price ÷ commission difference, with an example clearly labelled as hypothetical), the #apply-cost row (basic plan daily limit of 1 bid; new accounts get 20 extra free bids). New 18th FAQ in HTML and FAQPage JSON-LD; footer date 31 Oct 2026. Tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 06:00 six-hour report (00:00–06:00) handed to the parent.
