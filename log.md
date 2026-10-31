@@ -1140,3 +1140,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-10-31 14:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-bahrain.html (least improved country page; unlike the Saudi and Kuwait pages it had no #bank section, and #payments stated the Decision 43/2024 commercial-account duty without saying how to open the account or link it to the CR). Added #bank "الحساب التجاري لـ«سجلي»: كيف تفتحه وتربطه بسجلات" before #payments, from sources read 31 Oct 2026: bahrain.bh service psID=3616 "إدارة الحساب المصرفي للسجل التجاري" (eKey 2.0, IBAN entry and verification, bank certificate for the CR mandatory, 3 working days, no power of attorney needed for the owner); KPMG Bahrain 17 Jun 2025 (violations block CR renewal and Sijilat applications); BisB corporate onboarding page (BisB Digital app for individual establishments and Sijili with active CR, owner's Smart Card the only ID, free ATM/prepaid card, BenefitPay, e-banking statements); BBK Business app listing by BBK (individual establishments eligible, Bahraini CPR for owners/signatories, non-FATCA-reportable, current accounts in BHD/USD/GBP/EUR). Noted that no official minimum balance or fee was found and that BisB's MOIC Investors Center desk ended 31 Aug 2025. Four-row table, five steps (#bank-steps), TOC link, step 4 of #steps links #bank, 16th FAQ in HTML and FAQPage JSON-LD (validated), meta description and footer date 31 Oct 2026; sitemap lastmod already 2026-10-31. Anchors and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
