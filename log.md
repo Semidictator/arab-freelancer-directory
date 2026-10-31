@@ -1091,3 +1091,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 06:00 six-hour report (00:00–06:00) handed to the parent.
+
+## 2026-10-31 07:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html #writing: it recommended pasting client proposals into Grammarly, LanguageTool and DeepL free plans without saying what happens to that text. New #writing-privacy subsection from official sources (read 31 Oct 2026): Grammarly help center (Product Improvement and Training is on by default for Free, Premium and single-user Pro; turn off at account.grammarly.com/security/privacy; writing statistics may still be collected); DeepL privacy policy sections 3–4 (free Translator/Write texts and your corrections processed for a limited period to train its networks, no opt-out; Terms of Use forbid personal data of any kind in the free version; Pro texts not used for improvement and deleted after delivery; free glossary without login stays in the browser); LanguageTool privacy policy (updated 17 Aug 2026) has no explicit opt-out wording for individual free accounts, explicit no-training language only for team plans, so treat as a public tool. Comparison table, four practical steps (opt out, placeholder names like [العميل], NDA check, link to #ai-privacy-steps), TOC link, 19th FAQ in HTML and FAQPage JSON-LD (validated). Tag balance checked; sitemap lastmod and footer already 31 Oct 2026.
+- New page: none (quality-first).
+- Opportunities: none added this hour (Grammarly affiliate already listed).
+- Report: not a report hour (next at 12:00).
