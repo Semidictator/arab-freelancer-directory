@@ -1203,3 +1203,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-10-31 23:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-kuwait.html (least recently improved page, last substantive change 11:00 today): the page said only "renew before the four years end" with nothing on how renewal works or what cancels the licence. Added #renew "بعد أربع سنوات أو عند التوقف: التجديد والإلغاء وما يُسقط ترخيصك" after #rules. Sources read 31 Oct 2026: Decision 168/2025 Art. 10 (Decision 411/2013 applies where 168 is silent; text via lawskw), Law 111/2013 on commercial licences from the Ministry of Justice PDF (Art. 11 cancellation grounds incl. not renewed within a year of expiry, activity stopped six consecutive months without notifying the ministry, owner request, renting the licence to others, false data; Art. 12 penalty up to 1 year and/or KD 1,000–5,000 for false data; Art. 13 administrative closure), and the MOCI services and procedures guide PDF (file created Nov 2020, flagged as predating Decision 168): company licence renewal needs a PIFSS company certificate and proof of financial statements, renews automatically for 4 years, KD 80, 15 min; cancellation needs PIFSS certificate, extraordinary GA minutes within 30 days, licence and manager's civil ID, letter to PAM, KD 60. Noted that the current MOCI e-service directory has no renewal/cancellation page for the micro licence. Six-row grounds table, renewal-vs-cancellation table (#renew-how), five steps (#renew-steps), TOC link, the last #steps item now links #renew-steps, new FAQ in HTML and FAQPage JSON-LD (validated, 16 entries), meta/og description now names renewal and cancellation (160 chars). Anchors, duplicate ids and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
