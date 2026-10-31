@@ -1217,3 +1217,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 00:00 six-hour report (19:00–00:00) handed to parent.
+
+## 2026-11-01 01:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-bahrain.html (least recently improved page, last touched 14:00 on 31 Oct): the #tamkeen section listed the Tamkeen freelance-support criteria but had no steps, no sources for the job-seeker condition, nothing on what the support is worth after the mandatory 450 BHD insurance category, and it told readers to open the bank account before issuing Sijili although the account must be in the CR's name. Sources read 1 Nov 2026: Tamkeen programme page (criteria, 200 BHD x 12, insurance support 12 months, 178 BHD CR support paid after approval, monthly payment requests via the portal), MoL launch news 1465 ("compensates" the CR fee, applications from 12 Nov 2025) and the MoL job-seeker registration service page (subservices_sections/57: Bahraini, unemployed, not a student/employee/retiree/CR owner, free, one working day, seven documents). Fixed the order paragraph; added #tamkeen-order (why job-seeker registration must come before Sijili, six-row order table), #tamkeen-math (year one vs month 13 table: our arithmetic from on-page official figures, 99 BHD/month insurance on the 450 category at our computed 2026 rate of 22%, 158 BHD renewal, about 1,346 BHD/year fixed cost at 2026 rates and about 1,400 at 2027 rates; flagged that Tamkeen doesn't say how much of the insurance it covers; 5%/year category-change limit from Decision 39), #tamkeen-steps (five steps). TOC sub-links, #steps item 2 links #tamkeen-order, sources paragraph cites the MoL service page, 17th FAQ in HTML and FAQPage JSON-LD (validated, 17 entries), meta/og description now names the Tamkeen order and cost (152 chars), footer and sitemap lastmod 1 Nov 2026. Anchors, duplicate ids and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
