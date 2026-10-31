@@ -1154,3 +1154,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-10-31 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-oman.html (the last country page without a #bank section; #steps only said "and a bank account in Oman"). Added #bank "الحساب البنكي التجاري للمستقل في عُمان" before #payments: CBO September 2023 instructions as reported by Atheer and Times of Oman (commercial-purpose accounts for freelancers under the MoCIIP CR and its activity list, banks to notify customers using personal accounts commercially to regularise within three months, SME benefits; circular text itself not found on cbo.gov.om, stated); Bank Muscat sole-owner business account form v1.0 March 2026 (Freelancer business type, CR number and expiry, owner civil ID, projected turnover, VAT number if any, physical address proof; Najahi OMR account daily minimum 500 with debit card, or regular current account minimum 200 without debit card in OMR/USD/AED/GBP/EUR); Najahi page (CR certificate, OCCI membership certificate, IDs, address proof, non-maintenance fee below 500 on any day); Bank Muscat tariff book (Najahi subscription accounts 5.250/15.750/26.250 OMR per month incl. VAT) and the Nov 2025 announcement (no minimum balance); Bank Dhofar self-employed account announcement (branches, freelancer payment gateway, POS, cards, transfers; no fees or documents published). Note on what was not found (whether an e-commerce licence alone is accepted instead of a CR) with the gov.om individual-trader CR service as fallback and a pointer to #expats. Table, five steps (#bank-steps), TOC link, #steps step 3 links #bank, 15th FAQ in HTML and FAQPage JSON-LD (validated), meta/og description; footer and sitemap lastmod already 31 Oct 2026. Anchors and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
