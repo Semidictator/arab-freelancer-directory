@@ -1061,3 +1061,10 @@
 - New page: none (quality-first; no strong uncovered topic researched this hour).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-10-31 03:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently changed page, last touched 16:00 on 30 Oct): the Toggl vs Clockify table said "لم نتحقق من صيغ التصدير المتاحة مجاناً" for Toggl and missed Clockify's current free-plan limits. Re-verified 31 Oct 2026 from official pages: Toggl docs "Exporting reports from Toggl" (PDF on Free; CSV/XLSX from Starter; free-plan PDFs carry Toggl branding; too-large reports → shorten range) and Toggl Track support "Exporting data" (Track Free = PDF only; profile data export as JSON, emailed link valid 72 hours); Toggl pricing (30-day trial); Clockify help "Updates to Clockify Free Plan" (reports capped at 31 days per report, CSV/Excel and shared reports paid only, no billable toggle on Free, new workspaces start a trial then drop to Free keeping owner + first 4 invitees), "Export reports" (PDF up to 3,000 rows, Summary export has no timestamps → use Detailed), "Share reports" (paid), and Clockify pricing (7-day trial, $3.99/$5.49 unchanged). Table: corrected export row, added rows for report date range, billable marking, live shared report link, trial detail; rewrote the conclusion; added a trial note and a new #timesheet-pdf subsection "تصدير كشف ساعات PDF للعميل مجاناً" with six steps. Updated the Toggl vs Clockify FAQ, added an 18th FAQ (how to send a free timesheet) in HTML and FAQPage JSON-LD (validated, 18 entries), TOC link, meta description, summary-table Clockify row, footer date 31 Oct 2026; sitemap lastmod 2026-10-31. Anchors and tag balance checked.
+- New page: none (quality-first; no strong uncovered topic researched this hour).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
