@@ -1098,3 +1098,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (Grammarly affiliate already listed).
 - Report: not a report hour (next at 12:00).
+
+## 2026-10-31 08:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-uae.html (least recently changed page, last touched 18:00 on 30 Oct): health insurance was only mentioned as an unpriced visa condition, and the pensions section applies to Emiratis only. New #health-insurance section from official sources (read 31 Oct 2026): Dubai bylaw Administrative Resolution 78 of 2022 (residents with no employer or sponsor must obtain at least Basic Coverage themselves; "resident" = holder of a Dubai-issued residence); Dubai Executive Council Resolution 7 of 2016 (AED 500 per month of delay, part month rounded up, doubled on repeat within a year); DHA general circular 08/2016 (residency link detects gaps, two uninsured months = AED 1,000 at next renewal); Abu Dhabi health insurance law via DoH legislation encyclopedia (mandatory for non-citizen residents and families, no residence issue/renewal without enrolment, sponsor enrols those sponsored); MoHRE and u.ae on the northern-emirates basic package since 1 Jan 2025 (AED 320/year, two-year policy, ages 1–64, co-pays 20%/AED 500/AED 1,000 inpatient, 25%/AED 100 outpatient, 30%/AED 1,500 medicines, second-year refund on visa cancellation), clearly flagged as employer-paid for employees and not stated as available to self-sponsored freelancers. Comparison table, six-step #health-insurance-steps, TOC entry, new step in the practical plan, 17th FAQ in HTML and FAQPage JSON-LD (validated). Tag balance checked; footer date 31 Oct 2026; sitemap lastmod already 31 Oct 2026.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
