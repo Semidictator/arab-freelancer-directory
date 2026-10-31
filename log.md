@@ -1168,3 +1168,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no official Wio Business referral program found; campaign-specific partner codes only).
 - Report: not a report hour (next at 18:00).
+
+## 2026-10-31 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (least recently improved page, last touched 01:00 today; today's runs added a #bank section to all five non-Saudi country pages, but the home page linked only to the Saudi #bank and had no cross-country view). Added #gulf-bank "حساب بنكي لعملك الحر في الدول الست: أي مستند يطلبه البنك؟" after #gulf-unpaid: six-row table (document the bank accepts, figures published on official pages, what to watch, link to each country's #bank), summarised only from the site's own sourced sections (Saudi SAMA rule 300-1-1-4 and Alinma; UAE Wio/Mashreq/RAKBANK incl. Wio AED 210 post-expiry fee and Mashreq 60/180-day rules; Kuwait one-person-company account, CBK one-month extract, KFH/Boubyan KD 1,000; Qatar Dukhan 30-day licence rule and QNB 6-month CR extract; Bahrain BisB Smart Card only and IBAN linking on the national portal; Oman CBO Sept 2023 instructions as reported, Bank Muscat Najahi 500/200 and 5.250 OMR subscription), plus a note on common rules and a link to receive-payments-saudi-gulf.html#platforms. New first row in #problems linking #gulf-bank, new FAQ in HTML and FAQPage JSON-LD (validated, 31 questions). Anchors and tag balance checked; footer and sitemap lastmod already 31 Oct 2026.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 18:00 is a six-hour report hour; report for 13:00–18:00 handed to the parent.
