@@ -1182,3 +1182,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-10-31 20:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently improved page, last touched 07:00 today; its Figma part was a thin ~900-character h3 with three bullets, last checked 24 Oct, and said nothing about the Starter limits that bite when working with a client). Rewrote it as #figma "Figma المجانية للمصمم المستقل: حدود خطة Starter وكيف تسلّم العميل" from official pages read 31 Oct 2026: Figma pricing page (Starter: unlimited drafts, UI kits, 150 AI credits/day up to 500/month; Professional Full seat $16/month), Help Center Starter plan overview (one folder; 3 Design+Sites, 3 FigJam, 3 Slides files; drafts shareable with unlimited viewers but no edit invites; no Dev Mode, team libraries, AI image tools or Sites publishing; 30-day version history), developer docs createPage and pricing FAQ (3 pages per Design file, 1 per FigJam), drafts-update article ("Locked" label when a Starter team exceeds limits), Add right-to-left text article (Arabic and bidi text on all plans, auto-detection, Text > Text direction, left alignment by default, one alignment per layer, Noto fallback), Save a local copy article (.fig on all plans, no version history or comments, viewers need copying enabled), Figma for Education (free Professional for verified higher-ed/bootcamp students, select regions only). Six-row table, note, Arabic design paragraph, five handoff steps (#figma-steps) linking #files and #contract, updated quick-table Figma row, TOC sub-link, 20th FAQ in HTML and FAQPage JSON-LD (validated, 20 entries). Anchors, duplicate ids and tag balance checked; footer and sitemap lastmod already 31 Oct 2026.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
