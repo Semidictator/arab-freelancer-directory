@@ -1224,3 +1224,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-01 02:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-qatar.html (least recently improved page, last touched 15:00 on 31 Oct): the #home section, the main route for Qatari freelancers, was a short list built on press reports (The Peninsula for the fee) with only the 2024 "three requirements", no rules on who can hold the licence or what it forbids, and no steps. Sources read 1 Nov 2026: MOCI Procedures Manual (Arabic, live at moci.gov.qa/sites/default/files/2026-06/..., home-licence page lists six documents), Decision 60/2024 fee PDF (300 QAR issue and renewal), and, via search-index text because the files no longer load on MOCI's new site, MOCI's 2016 launch announcement of Decision 242/2016 (1,020 QAR old fee, conditions) and its 2020 home-licence guide (nine documents, one-year validity, renewal request 30 days before expiry, no transfer, one licence per person, no minimum capital, entrance sign and no advertising boards per Decision 163/2018, no direct sales from home). Fee bullet now cites Decision 60/2024 and #fees and explains the old 1,020 figure; added #home-docs (three-list comparison table, prepare the longest), #home-rules (seven-row conditions table, flagged as from older MOCI texts not currently online), #home-steps (five steps linking #expats, #tax, #bank). TOC sub-links, #steps item links #home-docs and #home-steps, 14th FAQ (documents) in HTML and FAQPage JSON-LD (validated, 15 entries), fee FAQ notes the old 1,020 figure, meta/og description names the home licence documents, conditions and steps, footer and sitemap lastmod 1 Nov 2026. Anchors, duplicate ids and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
