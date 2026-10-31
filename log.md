@@ -1147,3 +1147,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-10-31 15:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-qatar.html (with Oman, the only country page without a #bank section; #payments told readers to receive local income in an account in the licensed activity's name and noted Dibsy wants a bank IBAN letter matching the CR, but never said how to open one). Added #bank "الحساب البنكي لنشاطك في قطر" before #payments, from official pages read 31 Oct 2026: Dukhan Bank "Call Account for Home Businesses" (licence issued less than 30 days earlier, owner QID and passport for expats, request letter with licence number and home-business address, prior bank statement if any, mandatory beneficial-owner declaration; POS, debit card, local and international transfers); QNB resident-corporate document list v10.0 effective 3 Feb 2025 (CR printout max 6 months old, establishment card within 3 months for new entities, tax card/TIN, commercial licence mandatory when there is no CR, IDs of >10% owners and signatories, mandate letter, originals signed before bank staff); QIB online corporate account opening (corpaccount.qib.com.qa, then branch signing); MOCI-hosted Invest Qatar guide (licence first, then bank account). Stated that no official minimum balance or monthly fee was found and that broker-site figures were not used. Table, note, five steps (#bank-steps), TOC link, new step in #steps, 14th FAQ in HTML and FAQPage JSON-LD (validated), meta/og description, Article dateModified and footer date 31 Oct 2026; sitemap lastmod already 2026-10-31. Anchors and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
