@@ -1259,3 +1259,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 06:00 six-hour report (01:00–06:00) handed to the parent.
+
+## 2026-11-01 07:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently improved page, last touched 20:00 on 31 Oct): the #files section was titled "Google Drive أم Dropbox" but its comparison table left Drive's restore/versions cell as a dash, the large-files part was a 271-character Gmail-only paragraph, and the "backup" in the title had no guidance. Sources read 1 Nov 2026: Google Drive Help 2405957 (Trash kept 30 days) and 2409045 (uploaded-file versions may be deleted after 30 days or 100 newer versions unless "Keep forever"), WeTransfer Help Center "Plan limits" (Free: 10 transfers or 3 GB total in any rolling 30 days) and WeTransfer free-transfer resource page (3 GB per transfer, links expire after 3 days, recipients need no signup), Dropbox Help "Dropbox Transfer: an overview" (Basic: 2 GB, 7-day expiry). Filled the Drive restore cell; replaced the Gmail paragraph with #large-files, a four-row table (Gmail attachment, Drive folder link, WeTransfer Free, Dropbox Transfer on Basic) with size, link lifetime, when to use and source, plus a note that WeTransfer's free cap is a 30-day total and transfer links expire; added #backup with why Drive/Dropbox trash isn't a backup and four steps (Keep forever on the approved version, second copy off Drive at project close, restore from Trash within 30 days, don't rely on transfer links or the client's inbox). TOC sub-links, new FAQ in HTML and FAQPage JSON-LD (validated, 21 entries), meta description mentions large files, footer and sitemap lastmod 1 Nov 2026. Anchors, duplicate ids and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
