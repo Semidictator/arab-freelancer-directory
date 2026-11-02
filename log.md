@@ -1288,3 +1288,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-02 14:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved receive-payments-saudi-gulf.html (least recently improved page, last touched 00:00 on 1 Nov): #stripe-atlas was a 584-character paragraph that gave only the $500 setup fee and $100 registered-agent renewal and called the annual obligations "out of scope", although the page points Saudi, Qatari, Kuwaiti, Omani and Bahraini readers (Stripe not supported) toward it. Rebuilt it with a table of yearly costs for LLC vs C corporation. Sources read 2 Nov 2026: Stripe Atlas page ($500 one-time incl. government fees and first-year registered agent; $100/yr after, auto-renews), Delaware Division of Corporations LLC/LP/GP tax instructions ($400 flat annual tax due by 1 June, no proration, no annual report; $200 penalty + 1.5%/month), Delaware annual report and franchise tax pages (corporations: report due 1 March, $50 report fee for non-exempt, franchise tax minimum $175 authorized-shares / $400 assumed-par method), IRS Instructions for Form 5472 (foreign-owned U.S. DE files pro forma 1120 with 5472; $25,000 penalty plus $25,000 per 30 days after 90 days from notice; substantially incomplete = not filed), FinCEN BOI page (U.S.-created companies exempt since March 2025 interim rule, made permanent by final rule). Added a worked example (year-two LLC = $500 before accountant fees), #stripe-atlas-steps (five steps), TOC entry, 21st FAQ + JSON-LD, meta description. Note: older descriptions of a $300 Delaware LLC tax are outdated; the official page now says $400.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
