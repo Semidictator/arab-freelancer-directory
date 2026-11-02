@@ -1266,3 +1266,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-02 11:00 (Asia/Riyadh, UTC+3)
+- Note: no commits landed between the 1 Nov 07:00 run (d1d2d38) and this run; the hourly runs in between did not push.
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved remote-jobs.html (least recently improved page, last touched 21:00 on 31 Oct): the Wellfound entry was the only job board in #global without an anchor, steps or FAQ, the comparison-table row pointed to #global, and nothing on the site explained startup equity offers even though the page says Wellfound listings often show equity. Sources read 2 Nov 2026: Wellfound Help 777 "How do I search for a job?" (salary range hides jobs with no listed salary unless "Include jobs with no salary listed" is on; equity, investment-stage and company-size filters) and the Wellfound blog "9 Terms You'll See In Your Startup Equity Offer" (options, strike price, four-year vest, one-year cliff, liquidity event, accelerated vesting, preference stack; equity is not a substitute for salary). Added id #wellfound, a salary-filter paragraph, #wellfound-equity with a seven-row terms table (meaning and what to ask), a worked 10,000-option example (0 at month 11, 2,500 at 12, about 3,750 at 18, all at 48), a note that NSO/ISO are US tax terms and that "Equity only" means no salary, and #wellfound-steps (five steps linking #salary and #contractor-country). TOC entry, comparison-table and #salary links now point to #wellfound, new FAQ in HTML and FAQPage JSON-LD (validated, 22 entries), meta description mentions Wellfound and equity offers, footer and sitemap lastmod 2 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
