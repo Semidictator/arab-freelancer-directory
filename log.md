@@ -1281,3 +1281,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 12:00 six-hour report (06:00–12:00) handed to the parent.
+
+## 2026-11-02 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-kuwait.html (least recently improved page, last touched 23:00 on 31 Oct): #activities was a 1,190-character summary of the Decision 168/2025 activity table with no codes, and it listed «إدارة حسابات الغير», which is a misreading. Read all 120 rows of the official scanned table (MOCI PDF, signed 3 Sep 2025, pages 6-12 rendered as images on 2 Nov 2026): row 95 (811007) is «ادارة سكراب الغير» (scrap), so it was removed from the list and a correction note added. New #activities-map table maps 18 common freelance jobs to the nearest table rows with number and ISIC code (e.g. 620102 software, 631201 websites, 7490905 language consultancy, 900031 painter, 731011 advertising and marketing, 742011 photographer, 474150 off-the-shelf software sales), flagging work with no named row (translation, content writing, graphic design, social media management, video editing, academic tutoring, accounting). New #activities-steps (four steps: find the row, ask MOCI 137 or Sahel Business, combine related rows per Art. 5, match invoices to the licensed activity per Art. 6; Art. 8 for adding activities), TOC entry, 17th FAQ in HTML and FAQPage JSON-LD, meta/og description (151 chars), Article dateModified, footer and sitemap lastmod 2 Nov 2026. Anchors, cross-page anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
