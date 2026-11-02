@@ -1323,3 +1323,10 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 18:00 six-hour report (12:00–18:00) handed to the parent for the user.
+
+## 2026-11-02 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (least recently improved page, last touched 05:00 on 1 Nov): the home page did not reflect any of the eight verified sections added to inner pages since then, and its #gulf-license table was missing Qatar's e-commerce licence, the UAE free-zone permits and Oman's government-contract route. Summarised only from the site's own sourced sections (sources listed in the 13:00–18:00 entries): #gulf-license review range now 25 Oct–2 Nov 2026; UAE row adds RAKEZ "from AED 6,100", one activity, no corporate account, link to #other-freezones; Kuwait row links #activities-map; Qatar row adds the e-commerce licence (Decision 25/2026, launched 16 Sep 2026, 500 QAR issue fee, one licence per website, after CR registration per Article 3, validity and renewal fee not published) with link to #ecommerce-who; Bahrain row adds the registered-worker first-year cost (~545 BHD with the monthly fee, LMRA table of 30 Oct 2026) with link to #expats-math; Oman row adds MoF Financial Circular 1/2026 (government works up to 5,000 OMR for non-employed Omani freelancers) with link to #gov-contracts. #problems: Bahrain expat row updated with the 545 BHD first-year total and #expats-math link; six new rows (Qatar Instagram/e-commerce licence, Omani government contracts, UAE permit outside Abu Dhabi/Dubai, Kuwaiti activity choice, Stripe Atlas yearly costs, Freelancer.com fee taken at award acceptance and not refunded). Two new FAQs (Qatar Instagram licence, Stripe Atlas yearly cost) in HTML and FAQPage JSON-LD (validated, now 34). Footer and sitemap lastmod 2 Nov 2026. All in-page and cross-page anchors resolved, no duplicate ids, tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
