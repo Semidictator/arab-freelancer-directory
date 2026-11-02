@@ -1344,3 +1344,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-02 22:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved remote-jobs.html (least recently improved page, last touched 11:00 today): the #pay section covered contractor payouts only for Deel (table checked 23 Oct) although the page and its FAQ name Remote as the other main EOR/contractor platform, and "خطوات عملية قبل أول راتب" was a 440-character four-item list.
+  - #deel-fees (new anchor): re-checked Deel Help "About Withdrawal Fees and Withdrawal Minimums" (updated 16 Oct 2026): added Revolut $0, Deel Card $0, Coinbase USDC ($5 under $300, 1.6% above, min $10), the automatic non-waivable $5 same-currency cross-border fee, and UETR tracing vs MT103 (SWIFT only, not local or failed withdrawals).
+  - New #remote-payout: table of Remote contractor payout routes from support.remote.com (read 2 Nov 2026): automatic local-vs-SWIFT route selection; SWIFT $5–$15 provider fee plus possible $20–$50 correspondent fees; Stripe Connect lists all six GCC countries for USD-paying companies, payouts to a local-currency bank account only, up to 3 business days; Payoneer/PayPal added as bank account via ABA/ACH details; USDC via Stripe on Base/Aptos/Polygon. Plus the invoice-currency rule (invoice in your currency to a matching local account = company covers FX) and timing (company payment 2–5 days to reach Remote, then most payouts within 2 days). Links to the Contractor Payout Explorer to check one's own country.
+  - #first-pay rebuilt as six steps (Deel vs Remote choice, name match, worst-case fee math, Saudi permit / #contractor-country link, keep UETR/MT103).
+  - FAQ: Deel answer updated; new FAQ on receiving Remote.com payments in the Gulf (23 FAQs, JSON-LD in sync; TOC count corrected from 20 to 23); meta/og description updated. Sitemap lastmod already 2026-11-02.
+- New page: none (quality-first).
+- Opportunities: none added (Deel and Remote affiliate programs already listed).
+- Report: not a report hour (next at 00:00).
