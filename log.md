@@ -1378,3 +1378,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-04 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved receive-payments-saudi-gulf.html (least recently improved page, last touched 14:00 on 2 Nov): "ماذا ترسل للعميل الأمريكي؟" was a 364-character four-item list with no anchor that did not separate ACH, domestic wire and Swift, or say what gets a payment rejected. Sources read 4 Nov 2026: Wise help "How do I receive money with my USD account details?", Wise blog "Does Wise work with Zelle?", IRS "About Form W-8 BEN".
+  - New #wise-us-client: four-row table (ACH: name, ACH routing, account number, Checking, no fee, hours to 4 working days; domestic wire: wire routing, 6.11 USD, sender usually pays 20–30 USD, up to 1 working day; Swift in USD: Swift/BIC, bank name and address, your address, 6.11 USD plus correspondent fees, usually 1 and up to 6 working days; Zelle not supported).
+  - Rejection/delay causes (non-USD returned, Swift without address rejected, enter details manually, no e-teller ID, wrong-details returns 3–5 / 5–10 working days and Wise can't trace), W-8BEN note linking freelance-platforms.html#tax-forms.
+  - New #wise-us-steps: six steps linking free-tools.html#invoice, #wise-eu-uk, #holds, #wise-to-bank.
+  - TOC sub-link; new FAQ on Zelle/wire to Wise (22 FAQs, HTML and FAQPage JSON-LD in sync); meta/og description updated (178 chars); footer and sitemap lastmod 4 Nov 2026. Anchors and duplicate ids checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 18:00 six-hour report handed to the parent.
