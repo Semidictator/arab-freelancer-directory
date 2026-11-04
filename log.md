@@ -1367,3 +1367,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-04 17:00 (Asia/Riyadh, UTC+3)
+- Note: no commits landed between the 2 Nov 23:00 run and this one (the hourly runs in between, including 16:00 today, failed or made no changes).
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-kuwait.html (least recently improved page, last touched 13:00 on 2 Nov): #rules was an 837-character four-bullet list and the page never explained what the one-person-company form behind the Decision 168 licence means for the freelancer's personal liability, although it is the core reason for the separate bank account it recommends. Source: Companies Law 1/2016 as published in Kuwait Al-Yawm supplement 1273 (1 Feb 2016), official MOJ PDF, read 4 Nov 2026 (cross-checked against a text copy); later amendments not verified and flagged on the page.
+  - New #rules-company: seven-row table (Art. 85 owner liable only up to allocated capital, converts to WLL if more owners; Art. 90 personal liability for bad-faith liquidation/stopping and for not separating personal and company finances to the detriment of good-faith third parties; Art. 22 documents must carry name, legal form, CR number and capital/paid-up capital, legal representative jointly liable; Art. 87 capital fully paid; Art. 89 manager appointment effective only once entered in the CR; Art. 88 shares can be pledged/seized), each with a practical meaning and links to #bank, #renew, #license.
+  - New #rules-steps: six steps (company account, clean owner draws, Art. 22 invoice template via free-tools.html, contracts in the company name linking #unpaid, yearly records linking #support, settle obligations before cancelling).
+  - TOC sub-links; new FAQ on personal liability (18 FAQs, HTML and FAQPage JSON-LD in sync, dateModified 2026-11-04); meta/og description updated (163 chars); footer and sitemap lastmod 4 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
