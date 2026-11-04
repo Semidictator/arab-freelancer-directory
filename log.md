@@ -1433,3 +1433,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-04 23:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved remote-jobs.html (least recently improved page with room to grow, last touched 22:00 on 2 Nov; freelance-oman.html was older but already covers every topic found today, and the Ministry of Labour "freelance licence" claim seen on omanregister.com could not be confirmed from an official source, so it was not added): #location, the thinnest content section (about 2,800 characters), only said "look for Anywhere/Worldwide/MENA/EMEA" and never explained common ad phrases or whether a foreign company can actually employ someone in each Gulf country.
+  - New #location-terms: table decoding nine common location phrases (Anywhere/Worldwide, Remote (US)/US-based, right to work/no visa sponsorship, EMEA, MENA, CET ± hours / UTC ranges, Remote-first, Hybrid, "we hire through an EOR"), with a note not to misstate the country of residence.
+  - New #eor-gcc: Remote country explorer pages read 4 Nov 2026, "Available products": Saudi Arabia Contractor Management + Employer of Record; UAE Payroll + Contractor Management + Employer of Record; Qatar, Kuwait, Bahrain, Oman Contractor Management only, each with "You can pay contractors now in [country] with Remote in some currencies". Caveat that this is Remote only (Deel hiring-guide country pages returned 404, so no Deel coverage claim was made).
+  - New #location-steps (five steps), two TOC sub-links, 24th FAQ on whether Remote hiring means employee status in Qatar/Kuwait/Bahrain/Oman (HTML and FAQPage JSON-LD, 24 entries, validated; TOC count updated 23 to 24); meta/og description shortened and updated (155 chars); footer and sitemap lastmod 4 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
