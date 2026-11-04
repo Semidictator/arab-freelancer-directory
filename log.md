@@ -1461,3 +1461,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-05 02:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (least recently improved page, last touched 19:00 on 2 Nov): the home page reflected none of the eleven sourced sections added to inner pages since 4 Nov 17:00. Summarised only from the site's own sourced sections (sources listed in the 4 Nov 17:00 to 5 Nov 01:00 entries):
+  - Nine new #problems rows: Kuwaiti one-person-company personal liability (Companies Law 1/2016 arts. 85 and 90, link #rules-company); ACH vs Wire vs Swift to Wise for a US client (fees 0 / 6.11 / 6.11 USD, Zelle not supported, link #wise-us-client); UAE virtual work visa renewal (about 740 AED in Dubai if all items apply, 300 AED via ICP, Emirates ID 100 per year + 100, 60-day Dubai grace, link #virtual-renew); Qatar e-licence activity codes (194 codes, tiers, unexplained office note, link #activities-table); Saudi freelance profession choice and free Nafath verification (links #pick-profession, #verify); Bahrain Sijili activities (71 activities under Order 51/2024, up to three supported, website condition in art. 4, link #sijili-activities); EMEA / Remote (US) ad wording and Remote EOR coverage in the Gulf (links #location-terms, #eor-gcc); Loom privacy defaults and Starter limit (link #loom-privacy); Oman Riyada card benefits for a solo freelancer (link #riyada-benefits).
+  - Two new FAQs (which US payment method to ask for into Wise; whether a foreign company can employ you from the Gulf via Remote) in HTML and FAQPage JSON-LD (36 entries, validated).
+  - Meta/og description updated (158 chars); footer review date and sitemap lastmod 5 Nov 2026. All new deep links checked against target ids; duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
