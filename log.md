@@ -1423,3 +1423,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-04 22:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-bahrain.html (least recently improved page, last touched 15:00 on 2 Nov): the #sijili section never told readers which activity to register (it only said "check the list in Sijilat"), did not say how many activities are allowed, listed only part of the prohibited products, and presented the website as a general condition. Sources read 4 Nov 2026: the official gazette text of MOIC Order 51/2024 (issue 3762, 8 Aug 2024, PDF on moic.gov.bh), the MOIC Sijili page (moic.gov.bh/ar/node/2791: 71 activities, up from 41) and the MOIC Sijili guide PDF.
+  - New #sijili-activities: table of freelancer-relevant activities from Table 1 with their codes, grouped (tech 6201/6202/582/6311/6312/9511; design, photo, video 74103/74109/74102/741010/741011/1-742/591/592/90003; marketing, consulting, business support 73101/732/702/70209/1-71202/7810/1-8299/2-8299/1-823; translation and training 74901/854953/85499/855/85421/854106; online selling 4791, 1-47736/2-47736, 9609901).
+  - Notes from the Order: art. 2 conditions (Bahraini, sole proprietorship, permanent mailing address); the existing-website requirement is in art. 4 for internet selling while the ministry guide shows it generally; approval subject to the competent department's discretion (art. 1); no foreign-labour permits (art. 5); earlier orders 152/2016 and 11, 12/2021 repealed; full Table 2 (12 prohibited product groups, adding industrial chemicals, oil and gas and "other products needing approvals"). Zawya report that translation and PR need an Information Ministry licence is labelled as a press report, not the Order's text. Not found by name: content writing, social media management, UI/UX, virtual assistant.
+  - New #sijili-activities-steps (five steps), TOC link, link from the old product line; 19th FAQ on which activity designers/programmers/translators pick (HTML and FAQPage JSON-LD, 19 entries, validated); "who can issue" FAQ clarified on the website condition; meta/og description updated (156 chars); sources line, footer and sitemap lastmod 4 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
