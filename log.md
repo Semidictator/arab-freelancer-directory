@@ -1452,3 +1452,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 00:00 six-hour report sent to the user (18:00 to 00:00: 6 pages improved, no new pages, no new opportunities).
+
+## 2026-11-05 01:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-oman.html (least recently improved page, last touched 17:00 on 2 Nov): #riyada was the thinnest section (about 2,890 characters) and never said what the Riyada card actually gives a freelancer. Sources read 5 Nov 2026: gov.om "احصل على بطاقة ريادة الأعمال" (updated 3 Nov 2026; conditions re-confirmed), qanoon.om Decision 56/2023 (art. 8 benefits not enumerated, art. 9 to 13), SMEDA 17-benefit list via Oman newspaper as republished by Argaam (9 Jan 2023), Atheer on Ministry of Finance financial circular 1/2025 (16 Feb 2025; text not found on mof.gov.om, whose circulars page lists a different 1/2025 on budget estimates, flagged), SMEDA FAQ (sme.riyada.om register and cardrequest links), gov.om news on one-business-day issuance (Feb 2025).
+  - New #riyada-benefits table (six benefit groups, source wording, whether each helps a solo freelancer; time-limited items and the 2023 date flagged) plus a note on what we could not verify; new #riyada-steps (five steps including the 60-day renewal cancellation).
+  - TOC sub-links; new FAQ on Riyada card benefits for freelancers (HTML and FAQPage JSON-LD, 18 entries, validated); meta/og description updated (149 chars); footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
