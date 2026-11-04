@@ -1389,3 +1389,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 18:00 six-hour report handed to the parent.
+
+## 2026-11-04 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-uae.html (Bahrain, Qatar and Oman were reviewed and already dense; UAE last touched 18:00 on 2 Nov): the #virtual-work section covered issuing the one-year virtual work visa but said nothing about what happens after year one (renewal conditions and fees, Emirates ID, grace period after expiry or cancellation) and had no practical steps. Sources read 4 Nov 2026: GDRFA Dubai "تجديد تصريح إقامة العمل الإفتراضي" (same conditions as grant; seven documents incl. health insurance, medical fitness, proof of remote work, 3,500 USD salary certificate, ID receipt; 200 AED renewal + 10 Knowledge + 10 Innovation + 500 inside-country + 20 delivery; 48 hours; 60-day grace after expiry or cancellation), GDRFA "Visa Issuance (Virtual Work)" (extra 500/10/10 only if inside the country; family sponsorship for the same period), ICP "تجديد تصاريح الإقامة" (keep issuance conditions; 100 application + 100 per year + 100 smart services; grace 180/90/60/30 days by category, virtual work not named; 50 AED/day after grace), ICP "تجديد بطاقة الهوية" (residents 100 AED per residence year + 100 smart services; renewal when under 6 months left; passport 3 months; filed with residence via the unified form outside Dubai; late fine 20 AED/day up to 1,000), ICP virtual work visa card (re-confirmed 100/100/100, no need to be inside the UAE), u.ae page (updated 7 Aug 2026, re-confirmed requirements).
+  - New #virtual-renew: six-row table (renewal condition, Dubai documents, Dubai fees with our sum of about 740 AED if all items apply, ICP fees with our sum of 300 AED for one year, Emirates ID, grace period with advice to assume 30 days outside Dubai until ICP confirms; ICP call centre 600522222).
+  - New #virtual-steps: six steps (income proof, apply from outside to avoid Dubai's inside-country fees, 60-day post-entry tasks, calendar reminders, keep monthly income proof linking #bank and receive-payments-saudi-gulf.html#holds, cancel within grace or switch to #permit / #emirate-licences).
+  - TOC sub-links; new 21st FAQ on renewal cost and grace period in HTML and FAQPage JSON-LD (validated, 21 entries); meta/og description updated (165 chars); footer and sitemap lastmod 4 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
