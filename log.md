@@ -1399,3 +1399,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-04 20:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-qatar.html (least recently improved country page with Bahrain; Bahrain was reviewed at 19:00 and is dense): #activities was a 1,212-character four-bullet list that wrongly put translation and secretarial work in the "Digital Support Services" tier, didn't explain the list's columns, and missed the list's notes and exclusions. Source: MoCI "Business activities for the Electronic License" PDF (2026-09 folder), read in full 4 Nov 2026; 194 codes counted, confirming the page's figure.
+  - Corrected the tier claim: 829901 translation, 821901 typing/secretarial, 829902, 829904, 822000 call centres are Tier 1 — Pure Digital (Business Support Services); programming, web, design, photography and research are Tier 4 — Digital Support Services; 829905 business-support intermediation platform is Tier 3.
+  - New #activities-table: six-row table (support, software, web and data, design and photography, research, platform) with codes, tier/category, the list's note (Tier 4 software and web rows carry "IT services companies / digital services use an office", unexplained) and what it means.
+  - Exclusions from the list (620900 excludes 6201/6202; 741090 excludes web page design; 722009 excludes market research 7320, which isn't listed); not found by name: content writing, digital marketing/advertising, market research, remote teaching, accounting, video editing; Digital Flag explained only for retail codes (479120), flagged as unclear for services.
+  - New #activities-steps: six steps (search by code or English word, match invoices, don't force a nearby code, ask MoCI 16001 about the office note, 300 QAR per extra activity linking #fees, keep a dated copy of the list).
+  - TOC sub-links; new FAQ on which activity code fits a freelancer (17 FAQs, HTML and FAQPage JSON-LD in sync, dateModified 2026-11-04); meta/og description updated (164 chars); footer and sitemap lastmod 4 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
