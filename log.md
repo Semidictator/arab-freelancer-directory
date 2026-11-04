@@ -1443,3 +1443,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-05 00:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently improved page, last touched 21:00 on 2 Nov): #video was the thinnest section on the page (about 2,260 characters), recommended Loom but never said that new Loom videos are public to anyone with the link by default, how to restrict a video to the client, that passwords are paid-only, or that archived videos still count toward the 25-video Starter limit. Sources read 5 Nov 2026: Loom pricing page (Starter re-confirmed: 25 videos/person, 5 min, 720p, privacy controls; password protection, download and upload on Business at $18), Atlassian Support "Use Loom's privacy settings" (Public / Open to workspace / Restricted on all plans; default Public; not indexed outside Atlassian; personal default setting for new videos), "Share your recording", "Protect your videos with a password" (Business, Business + AI, Enterprise; Education per share page), "Loom Starter Free video and screenshot storage limit explained" (25 includes archived; can't record until deleting or upgrading; counter next to search) and "Starter plan FAQ" (describes 25 videos and screenshots, conflicting with the storage page; flagged on the page).
+  - New #loom-privacy table (three settings, who watches, when to use with a client) plus password and default-setting notes; new #loom-limit (archiving doesn't free slots, deleting kills the client's link and Starter has no download, screenshot-count conflict); new #video-steps (five steps). Intro review date updated.
+  - TOC sub-links; 23rd FAQ on whether a client can watch a Loom without an account (HTML and FAQPage JSON-LD, 23 entries, validated); meta/og description updated (163 chars); footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 00:00 six-hour report sent to the user (18:00 to 00:00: 6 pages improved, no new pages, no new opportunities).
