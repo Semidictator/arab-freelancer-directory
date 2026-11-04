@@ -1411,3 +1411,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-04 21:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-permit-saudi.html (least recently improved page, last touched 06:00 on 1 Nov): #steps was a 652-character six-item list that never helped readers choose a profession (the most consequential choice, since the bank account, store authentication and invoices carry its title), had no print steps, and pointed clients to verification in one line. The page also gave the old customer-service number 920002654 three times. Sources read 4 Nov 2026: freelance.sa/ar/faqs, /ar/our-programs/specialized-services, /ar/certificate-validation, /ar/contact-us.
+  - New #pick-profession: table of the 10 "Specialized Services" sections with every listed specialty (design, writing and editing, networks/IT, mobile and web development, audio-visual, photography, marketing research, data, admin support, art restoration) and who each fits; note that the platform says the category's requirements are reviewed periodically and some professions may be paused; not found by name: translation (paused per FAQ), digital marketing / social media management, UI/UX, content writing. #pick-profession-steps: five steps (describe what you sell, pick what two attachments can prove, up to 5 documents, title appears on bank/store/invoices, "suggest a profession").
+  - New #verify: table from the certificate-validation page (start service, Nafath login, enter FL- number; individuals; Arabic and English; free; instant "0.0 day"), with practical notes (foreign clients without Nafath likely can't use it, send the PDF; suspended/expired status shows; contract still needed, linking free-tools.html#contract).
+  - Steps list now explains profession vs activity, links #pick-profession and #verify, and gives the FAQ's print steps.
+  - Customer-service number updated to +966 11 502 0130 (now on the FAQ footer and contact-us page) in all three places, noting older versions listed 920002654.
+  - TOC sub-links; 20th FAQ on which profession designers/programmers/writers should pick (HTML and FAQPage JSON-LD, 20 entries, validated); meta/og description updated (162 chars); sources line, footer and sitemap lastmod 4 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
