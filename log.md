@@ -1607,3 +1607,12 @@
 - New page: none (quality-first; no strong uncovered topic beyond the Payoneer withdrawal gap).
 - Opportunities: none added this hour (no solid new verified programme found beyond those already listed; Calendly previously confirmed no affiliate).
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-05 17:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-permit-saudi.html (least recently improved page after freelance-uae.html; UAE was reviewed and is already dense). #renew was a short FAQ-only table: "procedures differ by profession" with no idea how renewal actually works. Source read 5 Nov 2026: the Arabic interface strings shipped with the freelance.sa home page (3-month renewal banner; "قابلة للتجديد التلقائي" due to active linked services or completed projects; some registered bodies let the platform verify current licences and auto-renew; "ارسال طلب تجديد وثيقة" after meeting an approved requirement with from/to dates; "لم يتم استيفاء متطلبات التجديد"; "غير مؤهلة للتجديد"; auto-renewal stopped when expired/inactive at the competent authority or pending requirements; max 5 active + pending; Productive Families certificates cancelled on that platform) plus the freelance.sa/ar/faqs renewal answers (still 200). Page states these are interface messages, not a published regulation, and that we did not log into an account.
+  - New #renew-auto with #renew-auto-table (7 rows) and caution note; new #renew-auto-steps (6 steps linking #special, #bank, #verify). #renew procedures row and #tips last step now link the new section; TOC sub-link.
+  - 22nd FAQ on how renewal works and auto-renewal (HTML and FAQPage JSON-LD in sync, validated); meta/og description updated (≈150 chars, mentions auto-renewal). Anchors, duplicate ids and tag balance checked. Sitemap lastmod already 2026-11-05. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
