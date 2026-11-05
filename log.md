@@ -1471,3 +1471,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-05 03:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-platforms.html (least recently improved page, last touched 23:00 on 2 Nov): #compare, the page's first section, was a 1,043-character table comparing only commission, type and language, while entry cost, time until money is withdrawable and Gulf withdrawal routes were scattered across sections and the payments page.
+  - Re-read Kafiil terms (kafiil.com/p/terms) on 5 Nov 2026: the temporary 25% commission on all sections still applies, and the terms now give a 2 to 8 day balance hold by seller level (matches our #kaf level list).
+  - New intro paragraph and new #compare-money table for all seven platforms (entry and bidding cost, when money becomes withdrawable, minimum withdrawal and the practical Gulf route), built only from the page's own sourced sections and receive-payments-saudi-gulf.html#platforms / #hsoub, with deep links; note on review dates and that fees are platform fees only; a practical paragraph (Mostaql/Khamsat 14 working days plus 250$ bank minimum; Fiverr about 17 days from delivery, our arithmetic from 3 + 14; Freelancer.com releases only by client or dispute).
+  - New #compare-steps (five steps linking #apply-budget, #choose, #start and the payments page).
+  - TOC sub-links; new first FAQ on how long earnings take to reach the Gulf (HTML and FAQPage JSON-LD, 23 entries, validated); meta/og description updated (158 chars, now names Kafiil, bidding cost and Gulf withdrawals); footer and sitemap lastmod 5 Nov 2026. Anchors (including cross-page), duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: added Kafiil referral programme (5% of a new customer's purchases, up to $50 per customer for one year), marked as temporarily paused per its official page.
+- Report: not a report hour (next at 06:00).
