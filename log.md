@@ -1578,3 +1578,14 @@
 - New page: none (quality-first; freeze section was the priority).
 - Opportunities: none added this hour (no solid new verified programme found beyond those already listed).
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-05 14:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (least recently improved page after freelance-oman.html, last touched 02:00 today; Oman was reviewed at 12:00 and is already dense). The home page reflected none of the sections added to inner pages since 03:00, and its #gulf-license Kuwait row still presented the 80 KWD licence as available although the 13:00 run documented the summer 2026 freeze on new licences. Summarised only from the site's own sourced sections (sources in the 05:00 to 13:00 entries):
+  - #gulf-license Kuwait row now leads with the temporary freeze (press reports from 28 Jul 2026, MOCI service pages 404, no resumption notice found as of 5 Nov 2026, existing licences valid, transfers/share changes also paused, fee marked as pre-freeze) and links #license-pause; table intro review range updated to 25 Oct–5 Nov 2026; first #problems row flags the freeze.
+  - #gulf-tax Bahrain row mentions the draft Corporate and Business Income Tax bill (Decree 79/2025, targeted 2027, not enacted as of 5 Nov 2026, 0% up to BHD 200,000) with a link to #income-tax.
+  - Nine new #problems rows: Kuwait licence freeze (#license-pause), Qatar Law 9/2026 (#law-9-2026), Saudi Fatoora vs freelance document (#e-invoicing), Bahrain draft income tax (#income-tax), UAE VAT registration documents and 20 working days (#vat-register), Upwork 0–15% per-contract fee (#upwork-fees), Behance Hire Gulf eligibility and fees (#behance), Remote USDC payouts (#remote-usdc), whole PayPal/Wise account limited (#account-limited).
+  - New FAQ on whether a Kuwaiti can get a new freelance licence now (37 FAQs, HTML and FAQPage JSON-LD in sync, validated); meta/og description now mentions the Kuwait freeze. All deep links checked against target ids; duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added. Checked Calendly: its official partner contact page says it has no affiliate, referral or reseller programme (do not list it).
+- Report: not a report hour (next at 18:00).
