@@ -1557,5 +1557,6 @@
   - TOC sub-link under #pay; 25th FAQ in HTML and FAQPage JSON-LD (validated, 25 entries); meta/og description updated (mentions USDC Gulf warning); footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
 - New page: none (quality-first; no strong uncovered topic this hour beyond improving the USDC gap).
 - Opportunities: added Buffer Partner / Affiliate Program (25% of referred subscription revenue for 12 months; free application via buffer.com/partners).
+- Commit: db15547 on main (remote-jobs USDC Gulf section, Buffer affiliate, sitemap, log).
 - Report: not a report hour (next at 12:00).
 
