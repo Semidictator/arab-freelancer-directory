@@ -1626,3 +1626,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 18:00 six-hour report (13:00–18:00) handed to the parent to send.
+
+## 2026-11-05 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently improved page with freelance-uae.html; UAE was reviewed and its thinnest section, corporate tax, is already sourced and current). The #contract section explained e-signature legal value only for Saudi Arabia, although the site serves UAE freelancers too. Sources read 5 Nov 2026: Federal Decree-Law No. 46 of 2021 on Electronic Transactions and Trust Services (u.ae English translation, Article 18: electronic form alone does not bar evidence; Advanced signature relied upon if conditions met; Qualified signature equal to handwritten), UAE PASS developer signing guide (unverified basic account cannot sign; Smart Pass/Dubai ID verified = Advanced; Verified = Qualified), TDRA digital government UAE PASS page (Sign Document, download PDF, Verify Signature), and the Zoho Sign pricing page re-checked (free plan: 5 envelopes/month, email OTP recipient authentication; SMS/WhatsApp OTP from Standard; trial capped at 50 envelopes, 3 recipients each, 5 per day).
+  - New #contract-uae with #contract-uae-table (3 signature levels: law text and practical example) and practical note; new #contract-uae-steps (5 steps linking #contract, #files, #invoice).
+  - Zoho Sign list: review date updated, email OTP bullet added, trial limits added.
+  - TOC sub-link; 25th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description updated (154 chars, mentions Zoho Sign and UAE PASS). Anchors, duplicate ids and tag balance checked. Sitemap lastmod already 2026-11-05. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (Zoho Sign is already covered by the Zoho Affiliate Program row).
+- Report: not a report hour (next at 00:00).
