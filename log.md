@@ -1687,3 +1687,15 @@
 - New page: none (quality-first; index sync after the Gulf SWIFT sweep is the clearest gap).
 - Opportunities: added Webflow Affiliate Program (50% revenue share up to 12 months on first eligible Site/Workspace subscription; 90-day cookie; via PartnerStack; https://webflow.com/solutions/affiliates).
 - Report: 00:00 six-hour report (18:00–00:00) handed to the parent to send.
+
+
+## 2026-11-06 01:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (the new #gulf-swift comparison covered only five Gulf countries and skipped Saudi Arabia, the site's main audience, even though receive-payments-saudi-gulf.html#swift-fees already documents the Saudi position).
+  - Sources re-checked 6 Nov 2026: Al Rajhi Products and Services Fees page (effective 20 Feb 2026; outbound international SAR 75 branch / 50 electronic; no inward line); Riyad Bank International Transfer page (publishes only outbound fees by segment, SAR 50 correspondent + SAR 50 execution with tier discounts; notes beneficiary/intermediary banks may deduct). SAMA Financial Institutions tariff guide and SNB schedule as already cited on the Saudi page (reviewed 29 Oct 2026).
+  - Added a Saudi row to #gulf-swift-table (no inward fee line in Al Rajhi/SNB schedules; SAMA caps outbound only; 3.75 peg; disclosure + SMS notice duty; links to #swift-fees and #swift-fee-dispute). Heading now says six countries; intro and source note updated.
+  - FAQ "كم يخصم البنك..." now covers Saudi Arabia (HTML + FAQPage JSON-LD in sync, 38 entries, validated) and the #problems row mentions Saudi too; meta/og description rewritten (140 chars, six countries). Duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first; no strong uncovered topic this hour).
+- Opportunities: added Proton Partners Program (30% new + renewals on Mail/Drive/Pass/Lumo; Proton VPN 100% first month / 40% 1–2 year / 30% renewals; https://proton.me/partners/affiliates).
+- Report: not a report hour (next at 06:00).
+
