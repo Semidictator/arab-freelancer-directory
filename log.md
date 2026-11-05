@@ -1589,3 +1589,12 @@
 - New page: none (quality-first).
 - Opportunities: none added. Checked Calendly: its official partner contact page says it has no affiliate, referral or reseller programme (do not list it).
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-05 15:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-oman.html (least recently improved page, last touched 01:00 today). The VAT section never mentioned Oman's mandatory e-invoicing (Fawtara), which binds every VAT-registered freelancer from 2027. Sources read 5 Nov 2026: Tax Authority Decision 189/2026 on qanoon.om (issued 3 Aug 2026, Official Gazette 1660 of 9 Aug 2026: 1 Apr 2027 above OMR 5m annual supplies, 1 Oct 2027 otherwise; amended art. 143 cases and 15-day deadline; arts. 143 bis, bis 1, bis 2 on accredited providers, system security, temporary exemption); OTA e-invoicing FAQ (Q5 threshold test on supplies Apr 2026–31 Mar 2027 or expected Apr 2027–Mar 2028; Q6 voluntary early adoption, still says SMEs in "third phase"); ONA report in Oman Daily 9 Aug 2026 (PDF/paper/emailed images not e-invoices; XML via OTA-accredited providers; 100-company pilot from end of Aug 2026).
+  - New #e-invoicing (h3 inside VAT) with #e-invoicing-table (8 rows), note on FAQ vs decision mismatch and no explicit rule for exported services, and #e-invoicing-steps (5 steps linking #vat and #vat-steps).
+  - TOC sub-link under VAT; 19th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description now mentions e-invoicing from 2027 (154 chars). Anchors, duplicate ids and tag balance checked. Sitemap lastmod already 5 Nov 2026. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
