@@ -1549,3 +1549,13 @@
 - New page: none (quality-first).
 - Opportunities: added Adobe Affiliate Program via Partnerize (85% of first month on monthly plans, 8.33% on annual prepaid, 30-day cookie; Behance Pro not listed as eligible). Not signed up.
 - Report: not a report hour (next at 12:00).
+## 2026-11-05 11:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved remote-jobs.html (least recently improved allowed page; last touched 23:00 on 4 Nov; avoided pages updated 04:00–10:00 today). The USDC row in #remote-payout was one vague sentence ("advanced option") and never linked Gulf crypto rules already documented on the payments page, even though Remote now offers stablecoin payouts to contractors.
+  - Sources read 5 Nov 2026: Remote Help Center "How can contractors receive stablecoin payouts?" (company billed in USD; Crypto via Stripe Connect not the fiat Stripe option; supported-country + residential-address caveat; Base/Aptos/Polygon wallets; Crypto and Stripe accounts mutually exclusive; USDC only for now) and the existing verified #crypto table on receive-payments-saudi-gulf.html (CMA/MoF Saudi warnings; UAE Payment Token Services Regulation art. 2; Kuwait CMA Circular 10/2023; Qatar QCB/QFCRA; Bahrain CBB framework; Oman FSA Decision 35/2023).
+  - New #remote-usdc with a six-row Remote-rules table, #remote-usdc-gulf six-country summary table linking to #crypto, practical conclusion preferring local Stripe Connect / Payoneer, and #remote-usdc-steps (five steps). USDC row in #remote-payout now links the new section.
+  - TOC sub-link under #pay; 25th FAQ in HTML and FAQPage JSON-LD (validated, 25 entries); meta/og description updated (mentions USDC Gulf warning); footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first; no strong uncovered topic this hour beyond improving the USDC gap).
+- Opportunities: added Buffer Partner / Affiliate Program (25% of referred subscription revenue for 12 months; free application via buffer.com/partners).
+- Report: not a report hour (next at 12:00).
+
