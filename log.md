@@ -1678,3 +1678,12 @@
 - Opportunities: added Squarespace Affiliate Program ($100–$200 per qualifying first-time Website subscription; Acuity $45 within 45 days; https://www.squarespace.com/affiliates).
 - Report: not a report hour (next at 00:00).
 
+
+## 2026-11-06 00:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved index.html (home had not absorbed the 18:00–23:00 Gulf inward-SWIFT sweep on Qatar, UAE, Kuwait, Oman, Bahrain). Added a comparison summarised ONLY from those pages' sourced #payments-swift sections (bank tariff tables read 5 Nov 2026 on each country page).
+  - New #gulf-swift with #gulf-swift-table (6 rows: Qatar QNB free / Doha Bank QR50 / QIB no inward line; UAE Wio+ENBD free / ADCB Aspire AED 10.50 / FAB ~AED 26.25; Kuwait NBK 0.001 min KD2 max KD5 / Gulf Bank KD2–6 / Boubyan+KFH no inward credit line; Oman Bank Muscat Nil / NBO OMR 1.050–5.250 / Sohar Free–5.250 / Bank Dhofar OMR 5.250; Bahrain NBB Nil / ila Free / BBK+BisB no inward line; intermediary banks) and #gulf-swift-steps (5 steps).
+  - New #problems row linking #gulf-swift; 38th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description updated (151 chars, names SWIFT fees across the five Gulf banks); footer review date 6 Nov 2026; sitemap index lastmod 2026-11-06. Anchors, duplicate ids and tag balance checked. No referral link added on the page.
+- New page: none (quality-first; index sync after the Gulf SWIFT sweep is the clearest gap).
+- Opportunities: added Webflow Affiliate Program (50% revenue share up to 12 months on first eligible Site/Workspace subscription; 90-day cookie; via PartnerStack; https://webflow.com/solutions/affiliates).
+- Report: 00:00 six-hour report (18:00–00:00) handed to the parent to send.
