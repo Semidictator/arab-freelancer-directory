@@ -1530,3 +1530,12 @@
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
 
+
+## 2026-11-05 09:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-bahrain.html (least recently improved page, last touched 22:00 on 4 Nov): the page covered VAT in depth but said nothing about the draft Corporate and Business Income Tax bill (Decree 79/2025) that the government wants to apply from 2027, which reaches natural persons' business income and adds a 5% withholding tax on services paid to non-residents. Sources read 5 Nov 2026: NBR press release 229 (30 Dec 2025: 10% above BHD 200,000, thresholds BHD 1m revenue or BHD 200,000 net profit, target 2027 subject to agreement with the legislature, Bahraini salaries excluded before the rate); Daily Tribune report on the referred text (5 Jan 2026: residence 183 days, employment and personal real estate income not taxable, WHT 0/5/5/5%, start date left blank); Deloitte summary (24 Aug 2026: natural persons' business income in scope, professional services exemption deferred to regulations, quarterly WHT remittance); Al Bilad 30 Apr 2026 (Legislative Committee flagged suspected unconstitutionality) and 28 Oct 2026 (Finance Committee still studying, meeting stakeholders). No enactment, Gazette publication or NBR registration rules found.
+  - New #income-tax (status paragraph), #income-tax-table (8 rows: rate, thresholds, natural persons, residence, professional services, 5% WHT on services, Bahraini salaries, start date) with sources note, and #income-tax-steps (5 steps linking #bank, #vat-records, free-tools.html#contract). Draft status flagged clearly; nothing presented as enacted.
+  - TOC entry, new step in #steps, new FAQ on whether a freelancer will pay income tax from 2027 (20 FAQs, HTML and FAQPage JSON-LD in sync); meta/og description updated (153 chars); footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
