@@ -1668,3 +1668,13 @@
 - New page: none (quality-first; no strong uncovered topic over this payments gap).
 - Opportunities: added Dubsado Affiliate Program ($35 per qualifying paid referral after 60-day hold; 20% off first payment for referred; free-trial users eligible; https://www.dubsado.com/affiliate-program).
 - Report: not a report hour (next at 00:00).
+## 2026-11-05 23:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-bahrain.html (clearest remaining Gulf payments weakness: #payments-swift existed but covered NBB only, while UAE/Qatar/Kuwait/Oman already had multi-bank tables). Sources read 5 Nov 2026: NBB Retail Fees October 2026 PDF (Inward Remittance: Nil paid in BHD cash; Nil to A/C in same currency; 1.1% max BHD 5.5 + SWIFT to other bank in FCY; outbound SWIFT BHD 5.5 + correspondent); ila Bank Schedule of Fees May 2026 PDF (Inward Remittance in BHD Free; Inward Remittance in FCY Free for ila and ila Premium; outbound International Payments BHD 5.500 / 2.750 Premium); BBK Fees and Charges effective 7 Sep 2025 PDF (Wire Transfer outbound Within GCC / Rest of World SWIFT BHD 5.500 branch / 4.400 e-channels; no inward credit line found); BisB Corporate Fees Nov 2025 PDF (outbound GCC & International BHD 9.900 manual / 6.600 electronic + correspondent; no inward credit line found); CBB peg 0.376 BHD per USD.
+  - Rebuilt #payments-swift with #payments-swift-table (5 rows: NBB, ila, BBK, BisB, intermediary/FX) and illustrative note (1,000 USD × 0.376); new #payments-swift-steps (5 steps linking #bank, #payments, #vat-records, receive-payments-saudi-gulf.html#swift-fee-dispute).
+  - #payments-choice foreign-client bullet now links the rebuilt section; TOC sub-links (#payments-swift-table / #payments-swift-steps); sources footer extended; payments intro note dated 5 Nov 2026 for SWIFT review.
+  - FAQ #14 updated and 21st FAQ added (HTML and FAQPage JSON-LD in sync, validated); meta/og description updated (132 chars, names NBB Nil / ila Free / BBK & BisB no inward line). Anchors, duplicate ids and tag balance checked.
+- New page: none (quality-first; expanding the thin Bahrain SWIFT section prioritized).
+- Opportunities: added Squarespace Affiliate Program ($100–$200 per qualifying first-time Website subscription; Acuity $45 within 45 days; https://www.squarespace.com/affiliates).
+- Report: not a report hour (next at 00:00).
+
