@@ -1699,3 +1699,13 @@
 - Opportunities: added Proton Partners Program (30% new + renewals on Mail/Drive/Pass/Lumo; Proton VPN 100% first month / 40% 1–2 year / 30% renewals; https://proton.me/partners/affiliates).
 - Report: not a report hour (next at 06:00).
 
+
+
+## 2026-11-06 02:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved remote-jobs.html (least recently improved major page after the Gulf SWIFT sweep on country pages/index; LinkedIn section covered job-seeking only). Sources read 6 Nov 2026: LinkedIn Help a550345 (Service Page request/proposal model; contact free regardless of connection degree; payment outside LinkedIn; response-time avg if reply within 24h over 180 days; response-rate avg if ≥80%; Premium Business / Sales Navigator / Recruiter Lite feature note), a569554 (personal-profile setup steps; open to remote work; starting hourly rate or Contact for pricing; without Premium only services-description preview; with Premium: Services Showcase, Request services button, media), a7436041 (profile vs Company Page: free Service Page; up to 10 services; reviews only on personal profile; Company Page ≤500 employees; cannot currently switch after setup).
+  - New #linkedin-services with #linkedin-services-table (9 rows) and #linkedin-services-steps (5 steps linking free-tools #contract/#invoice and receive-payments #choose); note that platform payment protection does not apply.
+  - TOC sub-link under #apply; 26th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description updated (110 chars, names LinkedIn Services); footer review date 6 Nov 2026; sitemap remote-jobs lastmod 2026-11-06. Anchors, duplicate ids and tag balance checked. No referral link added on the page.
+- New page: none (quality-first; LinkedIn Services gap on the existing remote-jobs page prioritized over a new page).
+- Opportunities: added Brevo Affiliate Program (PartnerStack: $100/paying + $5/free after first paying; 90-day cookie; professional email required; https://www.brevo.com/partners/affiliates/).
+- Report: not a report hour (next at 06:00).
