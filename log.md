@@ -1520,3 +1520,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-05 08:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-permit-saudi.html (least recently improved page, last touched 21:00 on 4 Nov): benefits and #vat-after mentioned e-invoicing, but the page never answered the common confusion that freelance.sa lists "أنظمة الفوترة الإلكترونية" as a document perk while ZATCA ties Phase 1 only to VAT-registered resident taxpayers. Sources read 5 Nov 2026: freelance.sa FAQ (perk + register with a provider); ZATCA "What is e-invoicing" and Phase 1 enter-into-force (4 Dec 2021; no handwritten/Word/Excel; QR on simplified invoices; buyer VAT number on tax invoices); Wave 24 news (26 Sep 2025: taxable revenue above SAR 375,000 in 2022/2023/2024, Fatoora integration by 30 Jun 2026); Wave 25 (24 Jul 2026: above SAR 187,500 in 2022–2025, integration by 1 Feb 2027); e-invoicing fines page (from SAR 5,000 / 10,000).
+  - New #e-invoicing (#e-invoicing-table / #e-invoicing-who, 3 rows: document-only vs VAT-registered vs client asking for a tax invoice while unregistered), #e-invoicing-phases (#e-invoicing-phases-table, Phase 1 + Wave 24 + Wave 25), #e-invoicing-steps (6 steps linking #vat, #vat-fines, #zakat, free-tools.html#invoice, solution-provider directory). Benefits e-invoicing row and #vat-after e-invoicing cell now cross-link the new section; tips week-1 invoice step updated.
+  - TOC sub-links; new FAQ on whether the document obligates Fatoora (21 FAQs, HTML and FAQPage JSON-LD in sync); meta/og/title refreshed; footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
+
