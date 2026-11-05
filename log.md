@@ -1539,3 +1539,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+
+## 2026-11-05 10:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (least recently improved page after remote-jobs.html, last touched 00:00 on 5 Nov; remote-jobs.html was older but was expanded at 23:00 and has no clear gap left): the design and portfolio section covered Canva, Figma and a GitHub Pages portfolio but said nothing about Behance, the portfolio network clients search directly, nor its "Hire" button fees and which Gulf countries can get paid through it. Sources read 5 Nov 2026 on help.behance.net: "What countries are Freelance Jobs available in" (updated 8 Dec 2025: UAE with Stripe and PayPal; Saudi Arabia, Kuwait, Qatar, Bahrain, Oman with PayPal only); "What are the fees" (updated 25 Mar 2024: freelancer 5% / 2% / 0% by tier, client 10% + $2 / 5.5% / 3%, Stripe 2.9% + $0.30 per payment, PayPal by country); "How do Freelance Job inquiries work" (18+, Edit Availability, proposal with upfront payment, final payment after acceptance); Behance Pro Features (updated 9 Oct 2026: no platform fee if either party has Pro, standard fees return if Pro ends) and Pro Overview (from $9.99/month with annual commitment, varies by country).
+  - New #behance with #behance-table (5 rows: eligibility by Gulf country, freelancer fee, client fee, processor fees, Behance Pro) and a note flagging the fees page vs Pro page wording difference; new #behance-steps (6 steps linking #design, #contract, freelance-platforms.html, receive-payments-saudi-gulf.html#paypal).
+  - TOC link; new FAQ on receiving Behance Hire projects from Saudi/Gulf (24 FAQs, HTML and FAQPage JSON-LD in sync); meta/og description updated to mention Behance; footer and sitemap lastmod already 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: added Adobe Affiliate Program via Partnerize (85% of first month on monthly plans, 8.33% on annual prepaid, 30-day cookie; Behance Pro not listed as eligible). Not signed up.
+- Report: not a report hour (next at 12:00).
