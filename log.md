@@ -1502,3 +1502,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-05 06:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-uae.html (least recently improved page, last touched 19:00 on 4 Nov): #vat gave the thresholds but never said how to register, which documents a freelancer needs, how long the FTA takes, or how to deregister when income drops or work stops (registrants must keep filing until deregistered). Sources read 5 Nov 2026: FTA service card "Value Added Tax (VAT) Registration" (last updated 19 Aug 2026: free, EmaraTax, ~45 min to submit, 20 business days to complete; natural-person documents incl. licence or official licensing document, Emirates ID and passport, signed monthly-sales declaration, supporting invoices/contracts, 5 VAT invoices for expense-based voluntary registration, optional bank letter where a personal or sole-establishment account is accepted; PDF up to 15 MB; six EmaraTax steps) and FTA service card "VAT Deregistration" (last updated 24 Sep 2026: free; documents by reason incl. cessation, below 187,500, between thresholds, multiple sole-establishment TRNs; mandatory application within 30 business days; FTA completes within 30 business days, plus 30 more after extra documents; final return and payment within 28 days of the effective date; certificate only after final return approved and all dues paid; files up to 5 MB).
+  - New #vat-register (#vat-register-table, 7 rows), #vat-register-steps (5 steps linking #tax-deadlines, #sbr, free-tools.html#invoice) and #vat-deregister (#vat-deregister-table, 4 rows, plus notes). Late-deregistration penalty and minimum period after voluntary registration not on the service card, so not stated (flagged on the page).
+  - TOC sub-links; new FAQ on registering and deregistering (22 FAQs, HTML and FAQPage JSON-LD in sync); meta/og description updated (169 chars); footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 06:00 six-hour report sent to the user (01:00 to 06:00: 0 new pages, 6 improvements on 6 pages, 2 new opportunities: Kafiil referrals at 03:00 (currently paused) and FlexJobs via Impact at 04:00).
