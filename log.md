@@ -1616,3 +1616,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-05 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-qatar.html (one of the least-touched pages). The #payments section explained Wise/PayPal/Payoneer/Fawran but never said what a Qatari bank deducts from a direct SWIFT transfer from a foreign client (Bahrain page already had this). Sources read 5 Nov 2026: QNB retail Tariff of Charges (inward credited to QNB account free; "if credited to beneficiary's bank in Qatar" QR25 + 1% exchange max US$250 + SWIFT QR35; IBAN certificate QR25), QNB SME tariff (April 2023; inward to QNB account free), Doha Bank Charges for Personal Customers (inward remittance from outside Qatar QR50 per transaction; Fawran QR0.50 up to 1,000 and QR1 up to 50,000), QIB tariff page (Sept 2025 PDFs list outgoing SWIFT QR15 retail, no inward line found).
+  - New #payments-swift with #payments-swift-table (5 rows: QNB retail, QNB SME, Doha Bank, QIB, intermediary banks) and an illustrative note (1,000 USD x 3.64 peg = 3,640 QAR, about 3,590 after Doha Bank's QR50; excludes intermediary and FX spread); new #payments-swift-steps (5 steps).
+  - Correction: Fawran row said Doha Bank charges nothing extra (per its Fawran page); now notes the personal charges schedule lists QR0.50/QR1 and advises confirming.
+  - TOC sub-links; 19th FAQ in HTML and FAQPage JSON-LD (in sync, validated); Article dateModified 2026-11-05; meta/og description updated (156 chars). Anchors, duplicate ids and tag balance checked. Sitemap lastmod already 2026-11-05. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 18:00 six-hour report (13:00–18:00) handed to the parent to send.
