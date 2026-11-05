@@ -1492,3 +1492,13 @@
 - New page: none (quality-first).
 - Opportunities: added the FlexJobs Affiliate Program (via Impact): $12 per subscription, 30-day cookie, application-based (official page read 5 Nov 2026).
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-05 05:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved receive-payments-saudi-gulf.html (least recently improved page, last touched 18:00 on 4 Nov): #holds covered a single held payment but said nothing about a whole account being limited or closed with money in it, which blocks withdrawals entirely. Sources read 5 Nov 2026: PayPal SA help "How long will it take to lift my PayPal account limitation?" (help531), PayPal SA user agreement (Arabic, last updated 28 May 2026), Wise help "My account was closed by Wise" and "How do I appeal my account decision?", Payoneer help "Why was my account blocked/closed?" (a_id 70).
+  - New #account-limited with #account-limited-table: PayPal (limited account may block sending/withdrawing; balance hold for liability risk or AUP breach, can exceed 180 days under court/legal requirement; only unrestricted funds paid on termination; you can't close while under hold/limitation/reserve, open dispute, pending transaction or negative balance; Resolution Center or bell icon, review usually 3 business days after steps); Wise (closure reasons not disclosed, examples duplicate/compromised account; pending transfers cancelled, incoming money returned to sender, balance refunded to a bank outside Wise after checks, statements via support; appeal/refund from the deactivation message needs ID photo, selfie with ID, purpose of transfers; complaint reviewed in about 14 calendar days and doesn't speed refunds); Payoneer (reason not disclosed; listed causes: 6 months inactive with no funds, mismatched registration details, duplicate account, security breach, T&C breach with no reopening). Note that no official refund timeline was found for Payoneer or Wise appeal review; fake limitation emails go to phishing@paypal.com.
+  - New #account-limited-steps: seven steps linking #payment-scams, #holds, #wise-to-bank, #choose.
+  - TOC sub-link; new FAQ on a limited/closed account with a balance (23 FAQs, HTML and FAQPage JSON-LD in sync); meta/og description updated (168 chars); footer and sitemap lastmod 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
