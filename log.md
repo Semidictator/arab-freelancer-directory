@@ -1636,3 +1636,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (Zoho Sign is already covered by the Zoho Affiliate Program row).
 - Report: not a report hour (next at 00:00).
+
+
+## 2026-11-05 20:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-uae.html (least recently improved Gulf page after Bahrain; Bahrain was densified at 09:00 with #income-tax). The #payments section compared Stripe/PayPal/Payoneer/Wise/Aani/Ziina but never said what a UAE bank deducts from a direct SWIFT transfer from a foreign client (Qatar and Bahrain pages already had this). Sources read 5 Nov 2026: Wio Business plans & fees guide and international-transfers help (Foreign Currency Inward Transfers Free; FAQ: no fee on incoming international funds; multi-currency IBAN); Emirates NBD personal banking schedule of charges poster and Islamic SOC (Inward Remittances if deposited in beneficiary's account: Free); ADCB Schedule of Fees effective 1 Jan 2026 Ver.45 (Aspire FCY inward AED 10.50 incl. VAT to AED or same FCY; Privilege/Excellency Free; AED inward Free); FAB Service & Price Guide conventional (Updated April 2026: inward foreign currency transfers AED 25 or equivalent + 5% VAT).
+  - New #payments-swift with #payments-swift-table (5 rows: Wio Business, Emirates NBD, ADCB Aspire, FAB personal, intermediary banks) and illustrative note (1,000 USD × 3.6725 peg); new #payments-swift-steps (5 steps linking #payments, #tax-records, #green, #bank).
+  - #payments-choice foreign-client bullet now links the new section; TOC sub-link under #payments.
+  - 23rd FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description updated (145 chars, names Wio/ENBD/ADCB/FAB inward fees). Sources line extended. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: added HoneyBook Affiliate Program ($50 per qualified new subscriber; 25% off first year for referred; payout after 100 days; https://honeybook.com/lp/affiliates).
+- Report: not a report hour (next at 00:00).
