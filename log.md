@@ -1560,3 +1560,13 @@
 - Commit: db15547 on main (remote-jobs USDC Gulf section, Buffer affiliate, sitemap, log).
 - Report: not a report hour (next at 12:00).
 
+
+## 2026-11-05 12:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-platforms.html (least recently improved page after freelance-oman.html and index.html; Oman was reviewed and is already dense, index summarises inner pages): in #fees, the Upwork entry was two bullets with no anchor, while Upwork's variable 0–15% per-contract fee and client-side fees are what Gulf freelancers most often misprice. Sources read 5 Nov 2026: Upwork Help "Learn about the Freelancer Service Fee" (0–15% per contract, set by undisclosed factors, shown on proposal/offer, locked once sent, no regular discounts, refund of fee on refunded amounts, exceptions Payroll / Any Hire / Direct Contracts / Enterprise typically 10%, official $20 net at 10% = $22.22 example with rounding); "What is the Client Marketplace Fee?" (up to 7.99% on Basic, 3% for eligible US bank-account clients); upwork.com/pricing/client (shows 5% example, flagged as differing from the Help Center); "What is the Contract Initiation Fee on Upwork?" ($0.99–$14.99 once per contract, not again for added milestones, non-refundable after first payment).
+  - New #upwork-fees (h3 with the original two bullets kept), #upwork-fees-table (7 rows), official pricing example and formula, #upwork-fees-steps (6 steps linking #apply-cost, #own-client, #pricing, receive-payments-saudi-gulf.html#platforms).
+  - TOC sub-link under #fees; new FAQ on client fees and whether the fee changes after the contract starts (24 FAQs, HTML and FAQPage JSON-LD in sync); meta/og description updated (mentions Upwork 0–15% per contract). Sitemap lastmod already 5 Nov 2026. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (only the Upwork pages were researched; no new verified programme).
+- Report: 12:00 six-hour report handed to the parent (07:00 to 12:00: Qatar, Saudi permit, Bahrain, free-tools, remote-jobs, platforms improved; opportunities Adobe and Buffer).
+
