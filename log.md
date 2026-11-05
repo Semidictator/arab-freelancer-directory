@@ -1598,3 +1598,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-05 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved receive-payments-saudi-gulf.html (least recently improved among the 05:00–08:00 cycle; last touched 05:00 on #account-limited). The main Payoneer fee table listed Saudi Arabia next to a 1.50 USD example without explaining that this row only applies to same-country local-currency withdrawals without FX, while the illustrative net example used 1.2%–4% — the gap freelancers misread most often. Sources read 5 Nov 2026: Payoneer Pricing (last updated 1 Jan 2026: same-country local-currency row names Saudi Arabia at 1.50 USD; local-currency and non-local with conversion both 1.2%–4%, min fee up to 20 USD in some countries), Withdraw funds page (typically within two business days; FAQ 1–3 business days; fee/rate shown before confirm; personal or business bank in your/registered name; declined withdrawals usually return to Payoneer balance; new bank review typically within three business days), Withdraw to bank FAQ a_id 18605 (individual/company name must match Payoneer account), Receiving accounts FAQ a_id 18786 (UAE AED receiving via RTGS/IPI; SAR not in the local receiving-currency list), Name-matching FAQ a_id 36765.
+  - New #payoneer-withdraw with #payoneer-withdraw-table (6 rows: when 1.50 USD applies, when 1.2%–4% applies, no SAR receiving account vs UAE AED, timing, bank-name rules, declined/reversed withdrawals) and practical note comparing Wise-to-bank and PayPal bank withdraw; new #payoneer-withdraw-steps (6 steps). Main Payoneer fee table withdrawal rows now point to the new section.
+  - TOC sub-link; 24th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description updated (152 chars, names Payoneer 1.50 vs 1.2%–4%); intro review date and footer already 5 Nov 2026; sitemap lastmod 2026-11-05. Anchors, duplicate ids and tag balance checked. No referral link added.
+- New page: none (quality-first; no strong uncovered topic beyond the Payoneer withdrawal gap).
+- Opportunities: none added this hour (no solid new verified programme found beyond those already listed; Calendly previously confirmed no affiliate).
+- Report: not a report hour (next at 18:00).
