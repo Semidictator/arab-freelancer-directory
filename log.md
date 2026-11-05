@@ -1647,3 +1647,14 @@
 - New page: none (quality-first).
 - Opportunities: added HoneyBook Affiliate Program ($50 per qualified new subscriber; 25% off first year for referred; payout after 100 days; https://honeybook.com/lp/affiliates).
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-05 21:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-kuwait.html (clearest remaining Gulf payments gap after UAE/Qatar/Bahrain already had #payments-swift; Kuwait payments covered Wise/PayPal/Payoneer/ومض/KNET but never said what a Kuwaiti bank deducts from a direct SWIFT transfer). Sources read 5 Nov 2026: NBK Consumers Bank Tariff PDF (Incoming Transfers 0.001 of amount, min KD 2 max KD 5, +0.25% FC cash); Gulf Bank Retail Fees April 2026 PDF (credit to GB account KD 2, non-GB KD 6, FC cash KD 2+1%); Boubyan tariff April 2026 PDF (outbound international SWIFT KD 11 + coverage, incoming inquiry KD 8, no inbound credit line); KFH tariff poster 10 Aug 2026 PDF (incoming inquiry KD 8, outbound KD 11, no inbound credit line); CBK exchange-rates page (~0.3078 KWD per USD at review).
+  - New #payments-swift with #payments-swift-table (5 rows: NBK, Gulf Bank, Boubyan, KFH, intermediary banks) and illustrative note; new #payments-swift-steps (5 steps linking #payments, #bank, #support, receive-payments-saudi-gulf.html#swift-fee-dispute).
+  - #payments-choice foreign-client bullet now links the new section; TOC sub-links under #payments.
+  - 21st FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description updated (139 chars, names NBK/Gulf Bank/Boubyan/KFH inward fees); sources line extended. Anchors, duplicate ids and tag balance checked.
+- New page: none (quality-first).
+- Opportunities: added Fathom Analytics Partners program (25% lifetime recurring; paying Fathom customers only; https://usefathom.com/affiliates).
+- Report: not a report hour (next at 00:00).
+
