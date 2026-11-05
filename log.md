@@ -1658,3 +1658,13 @@
 - Opportunities: added Fathom Analytics Partners program (25% lifetime recurring; paying Fathom customers only; https://usefathom.com/affiliates).
 - Report: not a report hour (next at 00:00).
 
+
+## 2026-11-05 22:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved freelance-oman.html (clearest remaining Gulf payments gap after Bahrain/UAE/Qatar/Kuwait already had #payments-swift; Oman #payments covered Wise/PayPal/Payoneer/ثواني/MPCSS but only told readers to "ask your bank" about inward SWIFT). Sources read 5 Nov 2026: Bank Muscat Schedule of Service Charges v2.12/2026 PDF (Inward Swift VOSTRO/NOSTRO Nil for Bank Muscat customers; non-customer to local banks OMR 5.250 incl. VAT, to international OMR 10.500; BMUSOMRXXXX from bank FAQ); NBO Digital Schedule of Charges Jan 2026 PDF (Inward Remittance OMR 1.050 if paid in OMR or same-currency NBO account, OMR 5.250 if FCY account with conversion, 1.05% min OMR 5 cash other currency); Sohar International Fees and Charges English V14 PDF via sib.om retail resources center (OMR credited Free; FCY credit in OMR or FCY OMR 5.250 Mass/First, Free Premier/Wealth; other banks OMR 10.500); Bank Dhofar tariff list Oct 2026 PDF (Inward Remittances in Foreign Currency Non-GCC OMR 5.000 + VAT 0.250 = 5.250); CBO Fixed Peg page (USD 2.6008 per RO = 0.3845 OMR per USD since 1986).
+  - New #payments-swift with #payments-swift-table (5 rows: Bank Muscat, NBO, Sohar International, Bank Dhofar, intermediary banks) and illustrative note (1,000 USD × 0.3845); new #payments-swift-steps (5 steps linking #bank, #payments, #e-invoicing, receive-payments-saudi-gulf.html#swift-fee-dispute).
+  - #payments-choice foreign-client bullet now links the new section; TOC sub-link under #payments.
+  - 20th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og description updated (132 chars, names Muscat Nil / NBO 1.050 / Sohar / Dhofar inward fees). Anchors, duplicate ids and tag balance checked.
+- New page: none (quality-first; no strong uncovered topic over this payments gap).
+- Opportunities: added Dubsado Affiliate Program ($35 per qualifying paid referral after 60-day hold; 20% off first payment for referred; free-trial users eligible; https://www.dubsado.com/affiliate-program).
+- Report: not a report hour (next at 00:00).
