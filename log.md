@@ -1781,3 +1781,11 @@
 - New page: none (quality-first; densifying the missing Typeform comparison prioritized).
 - Opportunities: updated Typeform Partner note to point at new #typeform section; added Jotform Affiliate Partner Program (30% of new paid user subscription for first year; 60-day confirmation; Tremendous→PayPal; https://www.jotform.com/partnership/affiliate/).
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-06 12:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (clearest remaining gap after 11:00 Typeform densify; Jotform Affiliate was listed in opportunities with no page section). Sources read 6 Nov 2026: https://www.jotform.com/pricing (Starter: 5 active forms, 100 submissions/mo, 10,000 views/mo, 100MB upload, 500 total storage, 10 payment submissions/mo, 10 signed docs/mo, branding stays; Bronze from $39/mo or ~$34/mo yearly), https://www.jotform.com/help/408-understanding-your-account-usage-and-limits/ (monthly vs total limits; exceeding storage deletes oldest; over-quota disables forms), https://www.jotform.com/help/how-to-align-your-forms-to-a-right-to-left-direction/ (Arabic/Hebrew auto RTL), https://tally.so/pricing.
+  - New #jotform with #jotform-table (Jotform Starter Free vs Tally Free, 6 rows) and #jotform-steps (5 practical steps for Arab freelancers choosing intake forms); summary-table Jotform row; TOC sub-links; starter optional bullet; 32nd FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og title+description updated to Jotform vs Tally.
+- New page: none (quality-first; densifying the missing Jotform Free comparison prioritized).
+- Opportunities: updated Jotform Affiliate note to point at new #jotform section; added Fillout Affiliate Program via Dub (30% recurring up to 12 months; $20 min; 30–45 day hold; paid ads banned; https://www.fillout.com/affiliate-program).
+- Report: 12:00 six-hour report window (06:00–12:00) — parent to compile/send if scheduled.
