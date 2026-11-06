@@ -1756,3 +1756,13 @@
 - New page: none (quality-first; densifying the missing Framer free-plan section prioritized).
 - Opportunities: added Cal.com Affiliate Program via Dub (20% of referred paid subscription revenue for 1 year; referred users 20% off 12 months; paid ads banned; https://cal.com/affiliate-program). Updated Framer opportunity note to point at new #framer section.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-06 09:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html `#scheduling` (Cal.com Affiliate was added at 08:00 with no page section; table previously compared only Google Calendar Free vs Calendly Free). Sources read 6 Nov 2026: https://cal.com/pricing (Free forever: 1 user, unlimited links, unlimited calendars, email & SMS notifications listed, 100+ integrations, mobile app, browser extension, Stripe & PayPal payments, Calendly import; team features / remove branding on Teams+); https://cal.com/help/workflows/credits (Free users: no free SMS/WhatsApp credits — purchase required or fall back to email); https://calendly.com/pricing (Free: one event type, one calendar connection, one-on-one, unlimited meetings on free tier per compare features; reminders/payments on paid); https://support.google.com/calendar/answer/16287038?hl=en (personal Google Account: single booking page; multi-schedule, auto email reminders, multi-calendar check, payments are premium).
+  - Expanded `#scheduling-table` to 3 columns (Google Calendar / Calendly / Cal.com); new `#scheduling-steps` (5 practical steps for Arab freelancers booking discovery calls with international clients; links to #contract, receive-payments, #invoice); kept timezone table and tips.
+  - TOC sub-links under scheduling; summary-table row now names Cal.com; starter pack + direct-client card mention Cal.com; 29th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og title+description mention Cal.com; footer already 6 Nov 2026; sitemap free-tools lastmod already 2026-11-06. Duplicate ids and tag balance checked. No referral link added on the page.
+- New page: none (quality-first; densifying the missing Cal.com scheduling section prioritized).
+- Opportunities: updated Cal.com row note to point at new #scheduling densify; added Tally Referral Program (20% of subscription up to $150/referral; referees 50% off 3 months; PayPal/Venmo; no paid ads; https://tally.so/help/referral-program).
+- Report: not a report hour (next at 12:00).
+
