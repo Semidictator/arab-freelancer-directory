@@ -1837,3 +1837,9 @@
 - New page: none (quality-first; densifying the missing Thinkific comparison prioritized over adding a thin new URL).
 - Opportunities: added LearnWorlds Partners Club (up to 30% recurring lifetime; 90-day cookie; monthly PayPal/Stripe/bank typically within 45 days; https://www.learnworlds.com/resources/partners/partners-club/). Thinkific Affiliates page currently states **not accepting new partners** — skipped as actionable signup this hour. Not signed up; no referral links.
 - Report: not a report hour (next at 00:00).
+## 2026-11-06 20:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still 404 (GitHub Pages not enabled). Live announcement not yet made.
+- Improved free-tools.html: new #gumroad / #gumroad-table / #gumroad-steps comparing Gumroad (no monthly fee; 10%+$0.50 direct + card fees per help; 30% Discover all-in; MoR tax since 1 Jan 2025; bank payouts listed for Saudi SAR and several Gulf countries; ~$100 minimum) vs Payhip Free Forever (0$/mo + 5% platform fee). TOC, summary row, Thinkific cross-link, 39th FAQ + JSON-LD, meta/title updated. Sources: gumroad.com/pricing, help fees + getting-paid, payhip.com/pricing (checked 6 Nov 2026).
+- No new page this run (quality-first; Gumroad densify continues free-tools digital-store pattern; no strong uncovered topic prioritized over this).
+- Opportunity added: Kajabi Partner Program (requires active Kajabi Hero account; Starter 100% first-month bounty for 1–4 referrals, then 10%/15%/20% recurring tiers; 60-day hold, payout ~25th; official Help + Partner Agreement linked).
+
