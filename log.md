@@ -1766,3 +1766,11 @@
 - Opportunities: updated Cal.com row note to point at new #scheduling densify; added Tally Referral Program (20% of subscription up to $150/referral; referees 50% off 3 months; PayPal/Venmo; no paid ads; https://tally.so/help/referral-program).
 - Report: not a report hour (next at 12:00).
 
+## 2026-11-06 10:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (clearest remaining gap after 09:00 Cal.com scheduling densify; Tally Referral was listed in opportunities with no page section). Sources read 6 Nov 2026: https://tally.so/pricing (Free: unlimited forms & submissions within fair use; payments, signatures, file uploads, conditional logic, 45+ languages & RTL; Pro from $24/mo removes branding, custom domains, collaboration, removes 10 MB per-file upload limit); https://tally.so/help/fair-use-policy (examples: ~50,000 submissions/month, 100 GB/month or 500 GB total file storage, 50,000 email notifications/month); https://tally.so/help/faq and https://tally.so/features.
+  - New #tally with #tally-table (6 rows) and #tally-steps (5 steps for Arabic client intake / brief); summary-table Tally row; TOC sub-links; starter optional + direct-client card; 30th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og title+description updated; footer review date already 6 Nov 2026; sitemap free-tools lastmod 2026-11-06. Anchors, duplicate ids and tag balance checked. No referral link added on the page.
+- New page: none (quality-first; densifying the missing Tally forms section prioritized).
+- Opportunities: updated Tally Referral note to point at new #tally section; added Typeform Partner/Affiliate via PartnerStack (Starter up to 20% y1; Intermediate 25% y1 + 5% y2; Expert 30% y1 + 10% y2; https://market.partnerstack.com/page/typeform). Webflow already listed earlier today — not re-added.
+- Report: not a report hour (next at 12:00).
+
