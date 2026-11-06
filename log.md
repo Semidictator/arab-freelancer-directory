@@ -1718,3 +1718,11 @@
 - New page: none (quality-first; densifying the Saudi inward-SWIFT section prioritized).
 - Opportunities: added Namecheap Affiliate Program (Impact/CJ; first purchase only within 30 days; Domains/Email/PremiumDNS 20%, Hosting/SSL 35%; https://www.namecheap.com/affiliates/).
 - Report: not a report hour (next at 06:00).
+## 2026-11-06 04:00 (Asia/Riyadh, UTC+3)
+- Live check: https://semidictator.github.io/arab-freelancer-directory/ still HTTP 404 (GitHub Pages).
+- Improved existing page (quality-first; not touched in overnight Gulf-SWIFT / LinkedIn / Saudi-SWIFT sweep): `freelance-platforms.html` — new `#upwork-badges` / `#upwork-badges-table` / `#upwork-badges-steps` on Upwork talent badges and Job Success Score (Rising Talent, Top Rated, Top Rated Plus, Expert-Vetted): JSS daily best of 6/12/24-month windows; Rising Talent invite or 4.8★ + $250/12mo + 30 free Connects; Top Rated top 10% needs JSS ≥90%, $1,000/12mo, first project >90 days ago; Top Rated Plus top 3% needs >$10,000/12mo + large contracts; off-platform payment/comms drops badges for 6 months. TOC link, 25th FAQ + FAQPage JSON-LD synced, meta/og description, footer review 6 Nov 2026 Asia/Riyadh; sitemap lastmod for this page → 2026-11-06.
+- Sources (fetched): https://support.upwork.com/hc/en-us/articles/211068358-All-about-your-Job-Success-Score ; https://support.upwork.com/hc/en-us/articles/38437458199059-How-is-my-Job-Success-Score-calculated ; https://support.upwork.com/hc/en-us/articles/360049702614-Learn-about-Upwork-s-talent-badges ; https://support.upwork.com/hc/en-us/articles/211063228-How-to-become-a-Rising-Talent-on-Upwork ; https://support.upwork.com/hc/en-us/articles/211068468-How-to-become-Top-Rated-on-Upwork
+- No new page (platforms densify preferred over new topic).
+- Opportunity: Kit (formerly ConvertKit) Affiliate via PartnerStack — https://kit.com/affiliate (50% first 12 months; Status recurring 10–20%; 90-day cookie; $5 threshold). Hostinger/Calendly skipped (Hostinger already listed; Calendly has no public affiliate).
+- Report: not a report hour (next at 06:00).
+
