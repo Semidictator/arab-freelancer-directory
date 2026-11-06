@@ -1748,3 +1748,11 @@
 - New page: none (quality-first; densifying the missing Buffer free-plan section prioritized).
 - Opportunities: added Framer Affiliate / Creator Program via Dub (50% of eligible self-serve subscriptions for first 12 months; 90-day cookie; $200 payout threshold via Stripe; join via Marketplace publish, Expert, or manual Links-tab application; https://www.framer.com/legal/affiliates).
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-06 08:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due.
+- Improved free-tools.html (clearest remaining gap after 07:00 Buffer densify; Framer Affiliate/Creator was listed in opportunities with no Framer section). Sources read 6 Nov 2026: Framer pricing (Free: Framer domain, 1 GB bandwidth, Design pages, MCP; FAQ: 10 CMS collections, 1,000 pages, 5 MB uploads, one locale, up to 3 editors without subscription; custom domain requires paid; Free described as non-commercial; Basic from $10/mo yearly for freelancers/students/small studios), Best use cases help (Free = testing/hobby with Made in Framer banner; Basic usually best portfolio with custom domain), AI credits blog 16 Jun 2026 (Free 500 credits daily, no rollover, monthly cap below Basic 1,000; ~300 credits per landing page), Made in Framer badge help (badge removed after custom domain or paid upgrade + republish), bandwidth help (monthly cycle / overage notices).
+  - New #framer with #framer-table (6 rows) and #framer-steps (5 steps); summary-table Framer row before GitHub Pages; comparison note vs GitHub Pages; TOC sub-links; starter optional + designer card; 28th FAQ in HTML and FAQPage JSON-LD (in sync, validated); meta/og title+description updated; footer review date already 6 Nov 2026; sitemap free-tools lastmod remains 2026-11-06. Anchors, duplicate ids and tag balance checked. No referral link added on the page.
+- New page: none (quality-first; densifying the missing Framer free-plan section prioritized).
+- Opportunities: added Cal.com Affiliate Program via Dub (20% of referred paid subscription revenue for 1 year; referred users 20% off 12 months; paid ads banned; https://cal.com/affiliate-program). Updated Framer opportunity note to point at new #framer section.
+- Report: not a report hour (next at 12:00).
