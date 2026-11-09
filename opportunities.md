@@ -103,3 +103,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://clickup.com/partners/affiliates · https://help.clickup.com/hc/en-us/articles/6311978850967-Sign-up-for-the-affiliate-program · https://market.partnerstack.com/page/clickup
 - Fit: low–medium; ClickUp is not yet covered on free-tools.html, so it would only fit if a genuinely useful project-management comparison is added there later. Per-signup amount for Arab countries is unknown.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## نفذلي للتسويق بالعمولة (Nafezly referral program) (added 2026-11-09 18:00 Asia/Riyadh)
+- What: Nafezly's built-in referral program; each account gets a referral link in the "التسويق بالعمولة" page of its dashboard.
+- Terms (official page https://nafezly.com/referral, read via search index 9 Nov 2026; direct fetch blocked by a Cloudflare challenge): $0.50 per completed deal (service purchase or hiring a freelancer) by a referred user, for a full year after signup; earnings available as soon as the deal completes; withdrawal from $5 via Vodafone Cash or PayPal.
+- Official: https://nafezly.com/referral
+- Fit: low–medium; fits the new freelance-platforms.html#nafezly section, but the flat $0.50 per deal is small and payout from the Gulf is effectively PayPal only.
+- Status: not signed up; no referral link on the site until the user provides one.
