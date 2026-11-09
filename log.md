@@ -1874,3 +1874,11 @@
 - New page: none (quality-first; the gap fit inside the existing remote-jobs page).
 - Opportunities: added Toptal Referral Program ($2,000 general client referral / $5,000 direct; credit within 60 days; official T&Cs PDF rev. 7 Oct 2024). Not signed up.
 - Report: 12:00 six-hour report window (06:00–12:00) handed to parent.
+
+## 2026-11-09 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled yet); no announcement due (`announce_live=false`).
+- Improved freelance-platforms.html (Braintrust — a zero-talent-fee network for tech/design talent — was not covered anywhere on the site). Sources read 9 Nov 2026 (Braintrust Help Center): Where does Braintrust send payments? (updated 15 Jun 2026: Wise and Stripe; supported Arab countries only UAE and Egypt; unsupported countries see only client-pays-directly jobs), When do I get paid? (updated 18 Sep 2026: paid when client pays; 0 talent fee, third-party bank fees may apply), Guide: Becoming Approved Talent (100% profile, 5+ skills, first application triggers Persona ID check and 5–10 min AIR screening; review ~24h, up to 72h), Why was I not approved (3+ years, W-2/1099/C2C, re-screen after 6 months), invoicing guides for talent (weekly invoice, 2FA, contact support after 10 days in Processing Payment) and clients (15% fee invoice).
+  - New h3 #braintrust with #braintrust-table (7 rows) and #braintrust-steps (5 practical steps; cross-links to receive-payments #swift-fees and main guide, #compare-money, Saudi permit and UAE pages, remote-jobs #eor); TOC sub-link after Contra; 28th FAQ in HTML and FAQPage JSON-LD (in sync); meta/og description rewritten (~150 chars). Duplicate ids, internal anchors and tag balance checked. Sitemap lastmod already 2026-11-09. No referral link added.
+- New page: none (quality-first; the gap fit inside the existing platforms page).
+- Opportunities: added Braintrust Connector Program (1% of referred talent billings up to $10k, 2% of referred client billings up to $100k, paid in BTRST tokens — flagged as crypto, not cash). Not signed up.
+- Report: not a report hour (next at 18:00); `report_due=false`.

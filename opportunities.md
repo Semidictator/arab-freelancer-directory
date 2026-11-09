@@ -68,3 +68,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://uploads.toptal.io/referral-program/toptal-referral-program-tcs.pdf (older 2015 talent-referral terms at /referral-partners/ PDF are outdated — ignore).
 - Fit: B2B — useful only if the site gets business/client traffic; low fit for current freelancer audience.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## Braintrust Connector Program (added 2026-11-09 13:00 Asia/Riyadh)
+- What: referral rewards for bringing talent or clients to Braintrust (site section freelance-platforms.html#braintrust).
+- Terms (official help, read 9 Nov 2026): talent referral → 1% of the referred talent's billings, paid in BTRST tokens when invoices are paid, capped at $10k worth of BTRST per talent (plus a BTRST reward to both when the referred freelancer is approved); client referral → 2% of new billings in BTRST, capped at $100k worth per client. Any Braintrust account can refer (approval not required); referees must sign up via the unique link.
+- Caveat: rewards are paid in the BTRST crypto token, not cash; value fluctuates and token use may have legal/tax implications in the user's country.
+- Official: https://support.usebraintrust.com/hc/en-us/articles/14305692793367-Referring-Talent-to-Braintrust · https://support.usebraintrust.com/hc/en-us/articles/14305695644567-Referring-Clients-to-Braintrust · https://docs.usebraintrust.com/communitydocs/earn-btrst
+- Status: not signed up; no referral link on the site until the user provides one.
