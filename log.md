@@ -1970,3 +1970,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (12 programs already listed today; no strong new candidate).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-10 00:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Checked freelance-permit-saudi.html and freelance-bahrain.html (oldest lastmod, 5 Nov) for gaps; both still accurate (HRSD service page 10 Nov 2026: freelance document free, automatic renewal) and already dense, so no change there.
+- Improved freelance-uae.html #payments: freelancers in the UAE are often told to "open Revolut", but the page did not say whether that is possible. Sources read 10 Nov 2026: Revolut newsroom 17 Jun 2026 (CBUAE Stored Value Facilities + Retail Payment Services Category II licences after in-principle approval Sept 2025; preparing local product "ahead of a full-scale launch", no date); BrokerMatch article (third party, flagged as unofficial: as of 6 Nov 2026 no accounts for UAE residents and no launch date); AGBI Jul 2026 interview (focus on launching products under current licences).
+  - New table row "Revolut (لم يُطلق بعد لسكان الإمارات)" with practical advice (don't rely on it yet, don't open an account with a foreign address, refuse "ready Revolut account" offers from middlemen, compare published UAE fees with Wise/Payoneer at launch); 25th FAQ in HTML and FAQPage JSON-LD (in sync); footer review date 10 Nov 2026; sitemap lastmod freelance-uae.html → 2026-11-10.
+  - Fixed sitemap lastmod for freelance-oman.html (edited 9 Nov 17:00 but still showed 2026-11-05) → 2026-11-09. Tag balance checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: 00:00 is a report hour; six-hour report (18:00–00:00) handed to parent (`report_due=true`).
