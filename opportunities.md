@@ -110,3 +110,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://nafezly.com/referral
 - Fit: low–medium; fits the new freelance-platforms.html#nafezly section, but the flat $0.50 per deal is small and payout from the Gulf is effectively PayPal only.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## قيود للتسويق بالعمولة (Qoyod Affiliate Program) (added 2026-11-09 19:00 Asia/Riyadh)
+- What: affiliate program of Qoyod, a Saudi cloud accounting / ZATCA e-invoicing software. Fits free-tools.html#invoice-phase2 (new this hour), which compares Zoho Invoice (free), Wafeq and Qoyod for Phase 2 integration.
+- Terms (official T&Cs last updated 4 Jun 2026, read 9 Nov 2026): 90-day cookie, renewed on each new click; tracking only via the affiliate's unique link; 50% share of revenue from each transaction via the link; commission due only after the customer completes the first 30 days of the subscription; paid monthly through the affiliate portal, verified and paid the month after confirmation; no bidding on Qoyod brand keywords (including negatives); no false or exaggerated claims; governed by Saudi law. The program page (search snippet) describes tiers of 50% / 60% / 70% of the first annual subscription for 1–4 / 5–9 / 10+ customers in a month, paid within 7 business days of month end, excluding VAT; it differs from the T&Cs, so confirm with Qoyod before relying on it.
+- Official: https://www.qoyod.com/partnerships/affiliate-program/ · https://www.qoyod.com/terms-and-conditions/affiliate/
+- Fit: medium; relevant only to VAT-registered Saudi freelancers needing Phase 2 integration. The page must keep saying free Zoho Invoice also supports Phase 2, so any link must not oversell Qoyod. Wafeq's partner program is for accounting firms (apply and get approved), so it wasn't added.
+- Status: not signed up; no referral link on the site until the user provides one.
