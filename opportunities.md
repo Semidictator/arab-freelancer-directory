@@ -124,3 +124,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://ruul.io/affiliate-program
 - Fit: medium; Ruul is not covered on the site yet, so a link would need a verified section first (fees, supported countries, how payouts reach Gulf banks).
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## كاف للتسويق بالعمولة (Kafiil referral program) — PAUSED, watch list (added 2026-11-09 21:00 Asia/Riyadh)
+- What: referral program of Kafiil (كاف), the Arabic freelance marketplace already covered on freelance-platforms.html#kaf.
+- Terms (official page https://kafiil.com/p/referrals, last updated 2026-05-04, read 9 Nov 2026): the page says the program is **temporarily paused** ("متوقف حالياً بشكل مؤقت"). When active: 5% of every purchase by a referred member who is new to Kafiil, for one year from their signup, capped at $50 per referred client, no overall cap; referral link from the dashboard's "التسويق بالعمولة" option or a service's share button; Kafiil pays the commission (no extra charge to the buyer); the program may stop during offers that cancel Kafiil's commission.
+- Official: https://kafiil.com/p/referrals
+- Fit: good audience match (Arabic buyers/sellers), but low value per client and currently paused — re-check the page before acting.
+- Status: not signed up; no referral link on the site until the user provides one and the program is active again.
