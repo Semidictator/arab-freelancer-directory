@@ -1988,3 +1988,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-10 02:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-permit-saudi.html (oldest sitemap lastmod with Kuwait, 5 Nov; Kuwait pause was re-checked at 23:00): the page covered unpaid clients and civil-service rules but never warned document holders that a client who sets fixed hours, a monthly salary and daily supervision may in fact be an employer under the Labor Law, whatever the contract is called. Sources read 10 Nov 2026: Saudi Labor Law on BOE (Art. 2 "worker" definition as amended by M/134 1440H incl. "ولو كان بعيداً عن نظارته"; Art. 5 scope), HRSD knowledge-centre article 64399 (Art. 50 contract definition), HRSD «علاقات العمل» page (Art. 51 as amended by M/44 1446H: contract exists even unwritten; the worker alone may prove it by all means).
+  - New h2 #contract-or-job with #contract-or-job-table (4 rows: text / what it says / what it means), h3 #contract-or-job-check (4 self-check questions, explicitly labelled as derived from the legal wording, not an official list), h3 #contract-or-job-steps (5 steps; cross-links to free-tools.html#contract, #e-invoicing, #unpaid), disclaimer note; TOC entry; 23rd FAQ in HTML and FAQPage JSON-LD (in sync); footer review date 10 Nov 2026; sitemap lastmod → 2026-11-10. Tag balance and duplicate ids checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
