@@ -75,3 +75,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Caveat: rewards are paid in the BTRST crypto token, not cash; value fluctuates and token use may have legal/tax implications in the user's country.
 - Official: https://support.usebraintrust.com/hc/en-us/articles/14305692793367-Referring-Talent-to-Braintrust · https://support.usebraintrust.com/hc/en-us/articles/14305695644567-Referring-Clients-to-Braintrust · https://docs.usebraintrust.com/communitydocs/earn-btrst
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## Lemon Squeezy Affiliate Hub (added 2026-11-09 14:00 Asia/Riyadh)
+- What: Lemon Squeezy's built-in affiliate system: an affiliate joins individual merchants' programs (digital products/software sold via Lemon Squeezy) and earns commission on sales through a unique `?aff=` link. Fits receive-payments-saudi-gulf.html#merchant-of-record (Lemon Squeezy covered there). It is not a referral program for Lemon Squeezy itself.
+- Terms (official docs, read 9 Nov 2026): commission rate and tracking window set by each merchant (default window 30 days, cookieless tracking); Lemon Squeezy deducts a 2% fee from each referral commission; referrals held 30 days, payouts created 1st/15th and paid 14th/28th; default minimum payout $10 (merchant can change); refunded orders void the referral. Affiliate Terms also mention a 1% platform fee per payout and an IRS W-9 form (US-oriented; check what applies to non-US affiliates).
+- Official: https://docs.lemonsqueezy.com/help/affiliates/generating-referrals · https://docs.lemonsqueezy.com/help/affiliates/fees · https://docs.lemonsqueezy.com/help/affiliates-for-merchants/payouts · https://www.lemonsqueezy.com/affiliate-terms
+- Fit: medium; useful only if the site later recommends specific digital products (templates, courses) sold through Lemon Squeezy.
+- Status: not signed up; no referral link on the site until the user provides one.
