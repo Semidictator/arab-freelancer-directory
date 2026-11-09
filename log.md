@@ -1980,3 +1980,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: 00:00 is a report hour; six-hour report (18:00–00:00) handed to parent (`report_due=true`).
+
+## 2026-11-10 01:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-bahrain.html #tamkeen (oldest lastmod, 5 Nov): the section described the Tamkeen/MoL freelance initiative (opened 12 Nov 2025) but never said whether it still accepts applications after Tamkeen's 2026–2030 programme review. Sources read 10 Nov 2026: https://www.tamkeen.bh/programs/faq/ (via search index; direct fetch returned 404) — programmes under review stopped taking applications after 15 Jan 2026 (incl. Start Your Business, Business Growth, Digital Solutions, Tamweel, Mashrooi); the Freelance Support Initiative stays open on current terms "until the upgraded versions are launched"; returned applications must be resubmitted within 60 days; rejected ones reapply via updated programmes; approved contracts and payments continue; new programmes in phases during 2026 with possible changes to eligibility and amounts. https://tamkeen.bh/programs/freelance/ re-checked (terms unchanged: BHD 200 × 12, SIO support 12 months, BHD 178 Sijili support).
+  - New #tamkeen-status subsection with #tamkeen-status-table (6 rows) and a practical note (confirm the initiative is still open on the same terms before paying for Sijili, since the 6-month clock starts at issuance); TOC link; new FAQ in HTML and FAQPage JSON-LD (in sync, 22 entries); footer review date 10 Nov 2026; sitemap lastmod → 2026-11-10. Tag balance and duplicate ids checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
