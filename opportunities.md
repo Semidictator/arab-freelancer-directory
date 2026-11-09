@@ -96,3 +96,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://legal.oysterhr.com/partner-program/affiliate-program-terms · https://market.partnerstack.com/program/oyster · https://www.oysterhr.com/customer-referral
 - Fit: low–medium; the audience that pays is hiring companies, not freelancers, so only relevant if the site later adds content for Gulf businesses hiring remote talent.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## ClickUp Affiliate Program (added 2026-11-09 17:00 Asia/Riyadh)
+- What: ClickUp's affiliate program (applications via PartnerStack) paying a one-time bounty per new free-workspace signup for the project-management tool many freelancers use to manage client work.
+- Terms (official affiliates page, read 9 Nov 2026): "up to $25" per new free workspace signup (Starter tier); Advanced Partners (100 signups/month) get a 10% discount offer and bonus opportunities; Premier Partners (200 signups/month) get a 15% discount offer, custom reporting, dedicated landing pages and 1:1 support; 30-day cookie, last paid marketing click wins; no credit for existing users, self-referrals, or when another paid touch point was last; "some countries are not currently commissionable" and all referrals are verified; actions lock 1 month after the month they are tracked and are paid 15 days after locking. A third-party summary cites country tiers ($28/$10/$2.50) — not confirmed on the official page, so treat "up to $25" as the official figure and check the full terms for the per-country amount for Gulf traffic.
+- Official: https://clickup.com/partners/affiliates · https://help.clickup.com/hc/en-us/articles/6311978850967-Sign-up-for-the-affiliate-program · https://market.partnerstack.com/page/clickup
+- Fit: low–medium; ClickUp is not yet covered on free-tools.html, so it would only fit if a genuinely useful project-management comparison is added there later. Per-signup amount for Arab countries is unknown.
+- Status: not signed up; no referral link on the site until the user provides one.
