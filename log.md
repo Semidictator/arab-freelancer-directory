@@ -1958,3 +1958,15 @@
 - New page: none (quality-first; topic fits the existing remote-jobs page).
 - Opportunities: added Preply Affiliate Program (official page; first-lesson commission, rates shown after approval, paid by the 10th). Not signed up.
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-09 23:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Re-checked Kuwait's freelance-licence pause (web search 9 Nov 2026): still no resumption announcement; freelance-kuwait.html#license-pause stays accurate.
+- Improved index.html (hub page, last touched 6 Nov): it linked to none of the sections added on 9 Nov. Using only facts already verified in those sections:
+  - #gulf-license: UAE row now names DMCC FreelanceUAE (AED 4,020, one year, one profession, visa packages "temporarily suspended") with a link to freelance-uae.html#dmcc-freelance; Qatar row now explains the QFC company route for expats (USD 500 non-refundable application, annual USD 500–5,000, ~5,000 typical, approved office, audited accounts) with a link to freelance-qatar.html#qfc-firm; review-date range updated to 9 Nov 2026.
+  - #problems: five new rows linking remote-jobs.html#tutoring (Preply vs italki), free-tools.html#invoice-phase2 (ZATCA Phase 2), remote-jobs.html#oyster-payout, freelance-oman.html#db-financing, freelance-platforms.html#nafezly.
+  - New FAQ (HTML + FAQPage JSON-LD, now 39 entries) on whether an expat in Dubai or Qatar can get a freelancer licence with residence now.
+  - Footer "آخر مراجعة" 9 Nov 2026; sitemap lastmod for the home page 2026-11-09. Tag balance, duplicate ids and every cross-page anchor checked.
+- New page: none (quality-first).
+- Opportunities: none added this hour (12 programs already listed today; no strong new candidate).
+- Report: not a report hour (next at 00:00); `report_due=false`.
