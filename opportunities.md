@@ -131,3 +131,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://kafiil.com/p/referrals
 - Fit: good audience match (Arabic buyers/sellers), but low value per client and currently paused — re-check the page before acting.
 - Status: not signed up; no referral link on the site until the user provides one and the program is active again.
+
+## Preply Affiliate Program (added 2026-11-09 22:00 Asia/Riyadh)
+- What: affiliate program of Preply, the online tutoring marketplace now covered on remote-jobs.html#tutoring (from the tutor side).
+- Terms (official page https://lp.preply.com/affiliate/, read 9 Nov 2026): register with contact details and how you plan to promote Preply; after approval you get offers, tracking links and a dashboard; commission is a fixed amount or a percentage of the total price of a referred student's **first lesson** bought through your link, and "the more students you refer, the higher the commission"; exact rates are shown only after approval; paid by the 10th of each month for the previous month. Contact: partnerships@preply.com (affiliates@preply.com). Rates quoted on third-party networks were not used since Preply doesn't publish them.
+- Separate programs not to confuse: Preply's tutor referral and student referral programs (personal links for tutors/students, not publishers).
+- Fit: low to medium; the site's readers are mostly would-be tutors, not learners, so a learner-side link would only suit a future page aimed at people buying lessons.
+- Status: not signed up; no referral link on the site until the user provides one.
