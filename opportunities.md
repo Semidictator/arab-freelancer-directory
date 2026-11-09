@@ -61,3 +61,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Terms (official, read 9 Nov 2026): refer a client who completes a $500+ project → $25 to your Contra wallet; refer an independent who subscribes to Contra Pro → annual plan $45 one-time, monthly plan $6/month for up to 12 months while subscribed (blog); referred independents get 30% off Pro. Rewards paid 30 days after conversion (help); Freelancer Referral Terms say payment no later than 60 days after subscription; self-referrals / closely associated accounts disqualified; limited-time offer per terms. Requires an active Contra account (link is inside Network → Referrals).
 - Official: https://help.contra.com/en/articles/9977359-how-referrals-work-on-contra · https://contra.com/blog/new-on-contra-build-your-network-and-earn · https://contra.com/freelancer-referral-terms · https://contra.com/refer
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## Toptal Referral Program (added 2026-11-09 12:00 Asia/Riyadh)
+- What: referral credit for introducing a new **client** (company) to Toptal; relevant because remote-jobs.html now covers Toptal (#vetted) and Turing (#turing).
+- Terms (official T&Cs PDF, last revision 7 Oct 2024, read 9 Nov 2026): General Referral $2,000 credit when the referred party is accepted as a Toptal client and pays its first invoice in full (within 12 months of the referral); Direct Referral $5,000; Additional Engagement Referral $2,000. Credit issued within 60 days of conditions being met, as Toptal account credit or (if you are not a client) via your selected payment method. Excludes Toptal Marketplace and coaching services. Toptal may reject any referral at its discretion. Referral link usage restricted (no trademark use, no spam).
+- Official: https://uploads.toptal.io/referral-program/toptal-referral-program-tcs.pdf (older 2015 talent-referral terms at /referral-partners/ PDF are outdated — ignore).
+- Fit: B2B — useful only if the site gets business/client traffic; low fit for current freelancer audience.
+- Status: not signed up; no referral link on the site until the user provides one.
