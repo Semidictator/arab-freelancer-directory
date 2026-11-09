@@ -82,3 +82,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://docs.lemonsqueezy.com/help/affiliates/generating-referrals · https://docs.lemonsqueezy.com/help/affiliates/fees · https://docs.lemonsqueezy.com/help/affiliates-for-merchants/payouts · https://www.lemonsqueezy.com/affiliate-terms
 - Fit: medium; useful only if the site later recommends specific digital products (templates, courses) sold through Lemon Squeezy.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## Airwallex Affiliate Programme (added 2026-11-09 15:00 Asia/Riyadh)
+- What: affiliate programme paying commission on qualified new business accounts referred to Airwallex via tracked links (Business Accounts, Payments, Spend, Platform APIs, Embedded Finance). Fits the site because Airwallex is the payout rail named in remote-jobs.html#turing (USD wallet, local payout to UAE/Bahrain) and in the Contra payout notes on freelance-platforms.html.
+- Terms (official pages, read 9 Nov 2026): free to join; approval at Airwallex's discretion, with prohibited categories in Section 1.1 of the Affiliate Marketing Agreement; commission is not published — the "$0" shown at sign-up is a placeholder and the affiliate team sets a tailored commission after reviewing the audience; no earnings cap; tracking, reporting and payouts run through impact.com; full T&Cs shown on the sign-up page. Airwallex's help centre says there is no general customer referral programme.
+- Official: https://www.airwallex.com/global/partners/affiliate-programme · https://help.airwallex.com/hc/en-gb/articles/13917802422799-Does-Airwallex-support-a-customer-referral-programme · contact global.affiliates@airwallex.com
+- Fit: medium; audience is businesses, so it suits licensed freelancers (UAE/Bahrain especially) more than individuals. Check Airwallex business-account availability per Gulf country before promoting.
+- Status: not signed up; no referral link on the site until the user provides one.
