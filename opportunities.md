@@ -89,3 +89,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Official: https://www.airwallex.com/global/partners/affiliate-programme · https://help.airwallex.com/hc/en-gb/articles/13917802422799-Does-Airwallex-support-a-customer-referral-programme · contact global.affiliates@airwallex.com
 - Fit: medium; audience is businesses, so it suits licensed freelancers (UAE/Bahrain especially) more than individuals. Check Airwallex business-account availability per Gulf country before promoting.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## Oyster Marketing Affiliate Program (added 2026-11-09 16:00 Asia/Riyadh)
+- What: affiliate program (run via PartnerStack) paying a share of subscription fees when a referred company signs a Service Agreement with Oyster, a global contractor-payments/EOR platform. Fits remote-jobs.html#oyster-payout (new this hour), next to the Deel and Remote programs already listed.
+- Terms (official Marketing Affiliate Program T&Cs, read 9 Nov 2026): 10% of Subscription Fees invoiced and paid by each Referred Customer during its first 12 months; one-off bonus $250 on the first and $500 on the second Referred Customer's first paid invoice; fees paid 45 days in arrears; no fee if the customer is delinquent; referred company must not already be in Oyster's sales records. Oyster may offer a custom rewards structure. Note: an older Oyster affiliate media kit PDF shows different tiers (10/15/20% and a $100 first-sale bonus) — the T&Cs page is the authoritative one. Separate Customer Referral Program ($1,000 one-time per qualified referral) is for existing Oyster customers, so it does not fit the site.
+- Official: https://legal.oysterhr.com/partner-program/affiliate-program-terms · https://market.partnerstack.com/program/oyster · https://www.oysterhr.com/customer-referral
+- Fit: low–medium; the audience that pays is hiring companies, not freelancers, so only relevant if the site later adds content for Gulf businesses hiring remote talent.
+- Status: not signed up; no referral link on the site until the user provides one.
