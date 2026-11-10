@@ -2052,3 +2052,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-10 10:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-platforms.html: the site never mentioned Fiverr Pro, although the #fiverr-levels section explains every other Fiverr tier and Arab freelancers often ask whether Pro needs a level or a fee. Sources read 10 Nov 2026 on help.fiverr.com: "How to become a Fiverr Pro freelancer" (open to new and existing freelancers, English-only application, no set number of notable projects, eight category groups with some subcategories closed, no membership fee but standard commission, does not change seller level, Pro and regular Gigs together, up to 5 off-platform endorsements, demotion/probation at Fiverr's discretion); "Creating and optimizing your Fiverr Pro Gig" (Pro Gigs only in approved subcategories and reviewed by the Pro team, no "Pro Vetted" badge under $100, custom offers up to $50,000, separate conversion form per Gig, separate expansion application per category, 6-month wait after rejection in the same category); "Fiverr Pro satisfaction guarantee - Freelancer guide" (Pro-client refund within 14 days of completion, not hourly orders, dissatisfaction cancellation does not affect freelancer revenue or cancellation rate, how to spot a Pro client); "Being a Pro freelancer" (complaints can remove the badge). No fixed review time is published, stated on page.
+  - New h3 #fiverr-pro with #fiverr-pro-table (9 rows) and h4 #fiverr-pro-steps (5 steps; links to #fiverr-fees, #fiverr-levels-steps, #account-safety); placed after #fiverr-levels-steps; TOC sub-link; 31st FAQ in HTML and FAQPage JSON-LD (in sync); footer 10 Nov; sitemap lastmod 2026-11-10. Duplicate ids, internal anchors and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
