@@ -2077,3 +2077,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: 12:00 report hour; six-hour report (06:00–12:00) handed to the parent (`report_due=true`).
+
+## 2026-11-10 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-platforms.html: the page had a full Upwork identity-verification section but nothing on Fiverr's, although new Fiverr sellers often find their Gig unlisted until verification is done. Sources read 10 Nov 2026 on help.fiverr.com: "Verifying your identity as a new freelancer" (task unlocks only after the first Gig is published; Gigs not shown in the catalog until verified; three steps phone → personal & business info (DSA status "outside/as part of my primary job") → ID or business check; some new freelancers may pay a one-time verification fee, included in Seller Plus Kickstart; computer + smartphone camera, no VoIP numbers, no VPN; English details exactly as on ID; attempts: phone 3 by text and one number per 24h, ID usually 5, business 2; wait 6h after a failed attempt, 30–60 min for a missing code; selfie kept 60 days, ID 30 days; EU-visible trader details) and "Verify your identity" (accepted ID types incl. residency permit, no digital copies/screenshots/scans; 14 days to verify after a notification or lose selling ability; may be required before premium programs; Fiverr never asks for ID by email; support cannot verify via ticket). Fee amount is not published, stated on page; the page's existing note that Kickstart closed to new subscribers in June 2025 is cross-referenced.
+  - New h3 #fiverr-verification with #fiverr-verification-table (8 rows) and h4 #fiverr-verification-steps (5 steps; links to #approval, #subscriptions, #account-safety, receive-payments-saudi-gulf.html), placed after the Upwork #verification section; TOC sub-link; 32nd FAQ in HTML and FAQPage JSON-LD (in sync). Duplicate ids and internal anchors checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- Also re-checked remote-jobs.html prices: FlexJobs pricing unchanged (2.95$ trial → 23.95$/4 weeks, 29.85$/3 months, 71.40$/year); Bayt Premium 19.95$ / Elite 49.95$ unchanged; no edit needed.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
