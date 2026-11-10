@@ -2094,3 +2094,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-10 15:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved index.html: the home page compared licences, tax, insurance, unpaid invoices, banks, SWIFT and advertising across the six Gulf countries, but had no single comparison for the most common question from non-citizen residents (can I freelance here, and what is the legal alternative). Each country page has a detailed expat section; the home page only had scattered rows.
+  - New h2 #gulf-expats with #gulf-expats-table (6 rows: licence availability for residents, nearest legal route, published penalty, remote work for foreign clients only, link to each country's expat section) plus a practical takeaway note and h3 #gulf-expats-steps (5 steps; links to #gulf-bank, #gulf-tax); new #problems row; 41st FAQ in HTML and FAQPage JSON-LD (in sync).
+  - Re-verified today (10 Nov 2026): freelance.sa FAQ (first condition "سعودي الجنسية"); u.ae work permits page (freelance permit for foreign nationals on self-sponsored residence, Article 6 of Law 33/2021; page dated 19 Oct 2026); LMRA "Apply for a Registered Worker Permit" (conditions, one-year first issue BHD 365, BHD 15 monthly, processing 2 working days LMRA + 7 working days cooperating entities); Kuwait Residency Law 114/2024 text on lawhub (Art. 19, Art. 27 penalty up to 2 years + KWD 5,000–10,000, Art. 20 deportation, Art. 31 settlement KWD 3,000 per worker — new detail). Qatar and Oman rows summarise the country pages (reviewed 28 Oct 2026 and later). Duplicate ids and internal anchors checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
