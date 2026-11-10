@@ -2121,3 +2121,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-10 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-kuwait.html (not touched since 08:10 today): the #expats-parttime section said the PAM administrative circular 1/2024 could not be opened and listed its extra conditions only second-hand, and the expats section had no practical steps. Source read 10 Nov 2026: full text of Kuwait Administrative Circular No. 1/2024 on Lexis Middle East (issued 4 Jan 2024, based on Ministerial Decision 10/2023; applies to migrant workers in the private and oil sectors; 4 conditions: application by the other employer with signed contract for the same registered profession, original employer approval, valid work permit of at least one year from issue, worker present in Kuwait; not published in the Official Gazette). Hours (4/day, contracting exempt) and fees (KWD 5/10/20/30) re-confirmed from PAM's Feb 2024 announcement as reported by Al-Jarida and Al-Anba. manpower.gov.kw returned 504 today, so no newer official fee table is claimed.
+  - New h4 #expats-parttime-table (9 rows: scope, who applies, profession, original-employer approval, permit validity, presence, hours, fees, channel) with source note; old "could not open the circular" sentence removed; new h3 #expats-steps (5 steps; links to #expats-parttime-table, #expats-law, #expats-remote, #gov-employee-table, #license, #license-pause); TOC sub-links; 23rd FAQ in HTML and FAQPage JSON-LD (in sync). Duplicate ids, internal anchors and tag balance checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: 18:00 report hour; six-hour report (12:00–18:00) handed to the parent (`report_due=true`).
