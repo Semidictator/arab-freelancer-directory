@@ -2004,3 +2004,11 @@
 - New page: none (quality-first; fits the UAE page). Candidate for a later run: Saudi "Mawthooq" advertiser licence, after verification on official sources.
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-10 04:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-permit-saudi.html: the page never covered the Saudi "Mawthooq" advertiser licence, which content creators and affiliate marketers holding a freelance document need when promoting others' products (candidate flagged in the 03:00 run). Sources (10 Nov 2026): Mawthooq official terms page mawthooq.gmedia.gov.sa (definition of advertising "بمقابل أو بغير مقابل" incl. explaining how to obtain the product; exemptions: government events, own product/service on personal account, sponsorship of under-18s in educational/sports/cultural activities; applicant conditions 18+, no honour/trust conviction, no final violation decision or non-compliant content in prior 6 months; residents/foreign investors need advertising/marketing office licence with ≥50% ownership); National Portal my.gov.sa (Elaam platform steps; AR page 30 working days, EN page 15 workdays and cost 15,000 — discrepancy stated on page); Istitlaa draft (15,000 SAR issue/renew for 3 years); GMedia news 16 Aug 2023 (obligations). Official sites blocked direct fetch (403/500/Cloudflare), so text was read via the search index; this is stated in the page note. No official penalty schedule found, so no fine figures were published.
+  - New h2 #mawthooq with #mawthooq-table (7 rows), h3 #mawthooq-steps (6 steps; links to #non-saudi, #e-invoicing, free-tools.html#contract, freelance-uae.html#advertiser-permit), note; TOC entry; 24th FAQ in HTML and FAQPage JSON-LD (in sync). freelance-uae.html #advertiser-permit note now links to the new section instead of "not covered yet". Duplicate ids and tag balance checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
