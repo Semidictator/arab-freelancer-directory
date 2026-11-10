@@ -2103,3 +2103,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-10 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved receive-payments-saudi-gulf.html: the SWIFT steps told readers to ask whether they have a USD account at their Saudi bank, but the page never explained whether that is possible or what the official sources say, although incoming USD SWIFT into a SAR account is converted at an unpublished bank buy rate. Sources read 10 Nov 2026: SAMA Rulebook, Account Opening Rules, item 10 "Foreign Currency Accounts" (circular 65681/67, in force: accounts in any available foreign currency, deposit/withdraw in it, SAR if the currency is unavailable, normal fees borne by customer); Riyad Bank current-account page (Arabic: available in SAR and various foreign currencies; English FAQ: digitally opened account currency is SAR); Al Rajhi "Additional accounts" page in the Business section (USD, EUR, GBP, AED, Gulf currencies and others; requires active current account; says it reduces exchange-difference costs); SNB current-account page (online, no minimum balance, no fees; no non-SAR option mentioned).
+  - New h3 #usd-account with #usd-account-table (4 sources) and a "what is not published" note (bank buy rate and any fee for USD SWIFT into a USD account not published; SAR peg 3.75), h4 #usd-account-steps (5 steps; links to #swift-fees, #swift-fees-steps, #swift, #wise-to-bank, #holds); TOC entry; #swift-fees-steps step 1 now links the new section; 28th FAQ in HTML and FAQPage JSON-LD (in sync).
+  - Re-verified the #wise-to-bank table on Wise's SA-resident pricing for USD balance → SAR bank transfer: 100/500/1,000/5,000 USD still 2.71/5.73/9.50/39.67 USD fees (1.97 flat + 0.76%), rate 3.7534, 365.17/1,855.19/3,717.74/18,618.10 SAR — unchanged; review notes in the section and in the 1,000-USD FAQ (HTML + JSON-LD) now say re-checked 10 Nov 2026.
+  - Duplicate ids, internal anchors and tag balance checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
