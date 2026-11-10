@@ -1996,3 +1996,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-10 03:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-uae.html: the page listed "مؤثر/مدوّن" and "مسوّق رقمي" among DMCC professions but never mentioned the mandatory UAE advertiser permit, which applies to anyone in the UAE publishing promotional content for others (incl. affiliate posts). Sources read 10 Nov 2026: National Media Authority service page (permit for paid or unpaid ad/media content; requirements UAE PASS, passport, photo, commercial licence; good conduct, content standards, council training, no cancelled permit, no dues; free first 3 years then AED 1,000; 3 working days); The National 23 Oct 2025 (deadline extended to 31 Jan 2026; exemptions for promoting own products/company via personal account and minors in educational/cultural/sports activities; display permit number, registered accounts only; visitor permit 3 months renewable to 6 via licensed agency); Cabinet Resolution 42/2025 official PDF on nma.gov.ae, Table 1 rows 11–13 read directly (no permit: written warning → AED 20,000 → AED 50,000, doubled on repeat; publishing after expiry AED 10,000 → 20,000; breach of Chairman's Resolution 9/2024: warning → AED 10,000; Art. 3 doubling within one year). Noted that the widely quoted AED 10,000 is the separate "media activity without licence" row.
+  - New h2 #advertiser-permit with #advertiser-permit-table (7 rows), h3 #advertiser-permit-fines, h3 #advertiser-permit-steps (5 steps; cross-links to #permit, #dmcc-freelance, #emirate-licences, #vat, #corporate-tax), note (Saudi Mawthooq not yet covered; visitors via licensed agency); TOC entry; 26th FAQ in HTML and FAQPage JSON-LD (in sync). Duplicate ids and internal anchors checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- New page: none (quality-first; fits the UAE page). Candidate for a later run: Saudi "Mawthooq" advertiser licence, after verification on official sources.
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
