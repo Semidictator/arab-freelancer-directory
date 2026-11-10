@@ -2086,3 +2086,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-10 14:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-platforms.html: the page covered Fiverr Gigs in depth but mentioned Upwork's Project Catalog (fixed-price productized services clients buy without Connects) only in passing. Sources read 10 Nov 2026 on support.upwork.com: "How to create a project in Project Catalog" (Find Work → Your services → Create Project; up to 20 live + 20 in review; up to 3 tiers + add-ons; $5–$500,000; up to 5 tags; max concurrent orders up to 20; gallery issues a top rejection reason), "How we review your Project Catalog project" (Top Rated / Top Rated Plus / Expert-Vetted usually within two business days, others may take a few weeks; no personal contact/payment info; category change hides project during re-review), "How to set and manage project requirements" (48h for mandatory requirements, 24h for consultations, else auto-cancel and refund; delivery clock starts on receipt), "How to manage your Project Catalog order" (client cancel within 24h of purchase; freelancer cancel within 24h of requirements; 14-day review then auto-approve; cancellation-after-delivery dispute with 5 business days to respond; 14 days for feedback), "Get started with Project Catalog" (fees same as other contracts) and "How to get paid on Upwork" (funds clear 5 days after approval).
+  - New h3 #upwork-catalog with #upwork-catalog-table (8 rows) and h4 #upwork-catalog-steps (5 steps; links to #upwork-fees, #protection, #apply-cost, #upwork-badges, receive-payments-saudi-gulf.html#platforms), placed before #fiverr-fees; TOC sub-link under fees; 33rd FAQ in HTML and FAQPage JSON-LD (in sync). Noted on page that Upwork does not state a Connects cost for publishing or a fixed review time for non-badge freelancers. Duplicate ids and internal anchors checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
