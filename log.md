@@ -2012,3 +2012,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-10 05:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-kuwait.html (least recently updated page, last touched 5 Nov): it had no coverage of Kuwait's new advertiser/influencer licence, completing the Gulf set after the UAE (03:00) and Saudi (04:00) sections. Source: full text of Decree-Law 102/2026 promulgating the Media Regulation Law and its explanatory memorandum on lawskw.com (read 10 Nov 2026); Lexis Middle East gazette index confirms Kuwait Al-Yawm issue 1811, decree dated 27 Sep 2026. Facts used: issuance Art 2 (executive regulations within 6 months of publication), Art 3 (existing activities regularise within 6 months of regulations), Art 5 (in force 6 months after publication, i.e. ~early April 2027); law Arts 1(36) definition, 30, 34 (citizen/resident/visitor targeting Kuwait audience, paid or unpaid; age 18; 60 days, silence = rejection; 2-year licence, renew ≥2 months before expiry; e-platform), 35, 37 (notice/warning, withdrawal up to 6 months), 51, 52 (disclosure), 55–56 (KD 1,000–50,000), 69 (legal person double), 70 (repeat ≥ half max), 80. No fee published (Art 6 cap of KD 10,000 does not apply since Art 34 exempts advertisers from Arts 5–7), stated on page.
+  - New h2 #advertiser-licence with #advertiser-licence-table (8 rows), note, h3 #advertiser-licence-steps (5 steps; links to free-tools.html#contract, #expats, media.gov.kw, UAE #advertiser-permit, Saudi #mawthooq); TOC entry; 22nd FAQ in HTML and FAQPage JSON-LD (in sync); meta/og description updated; dateModified and footer 10 Nov; sitemap lastmod 2026-11-10. Cross-links added from freelance-uae.html #advertiser-permit note and freelance-permit-saudi.html #mawthooq note. Duplicate ids and internal anchors checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
