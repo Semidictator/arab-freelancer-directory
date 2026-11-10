@@ -2129,3 +2129,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: 18:00 report hour; six-hour report (12:00–18:00) handed to the parent (`report_due=true`).
+
+## 2026-11-10 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-permit-saudi.html (last improved 04:00 today): every other Gulf page explains the local instant-payment system (Aani, Fawran, WAMD, Fawri+, Oman's free instant transfers), but the Saudi page and the payments page never explained Saudi "sarie" for a freelancer whose client is inside the Kingdom. Sources read 10 Nov 2026: SAMA "سريع" page (ar + en: owned by SAMA since 2021, low-value interbank transfers under SAR 20,000, 24/7; proxies mobile, national ID/iqama, email, unified number for establishments; no beneficiary activation under SAR 2,500; beneficiary name and corporate account verification), SAMA Rulebook launch circular (launch 21 Feb 2021; fee cap SAR 0.50 up to 500 and SAR 1 above), Riyad Bank sarie page (20,000 to activated beneficiary, above that normal local transfer; quick transfer max 2,500, default 0; explicit consent for proxy, opt-out anytime; fees excl. VAT), SAIB sarie page (one-time proxy setup to receive up to 2,500; branch 5/10; normal transfers 7 same-day / 5 next-day electronic), meem sarie page (no daily limit; above 20,000 handled in SARIE working hours, SAR 5; local only, no international).
+  - New h3 #sarie with #sarie-table (9 rows) and note (banks may set lower limits; Hala SAR 20,000 monthly wallet top-up), h4 #sarie-steps (5 steps; links to #bank, #bank-choose, #vat, free-tools.html#contract, receive-payments-saudi-gulf.html#local-pay/#swift/#wise); TOC sub-link under #bank; #bank-choose-steps step 1 links #sarie; 25th FAQ in HTML and FAQPage JSON-LD (in sync). Stated that no receive-side fee was found on these pages. Duplicate ids, internal anchors and cross-page anchors checked. Sitemap lastmod already 2026-11-10. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 00:00); `report_due=false`.
