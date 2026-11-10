@@ -123,6 +123,7 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Terms (official page https://ruul.io/affiliate-program and affiliate ToS https://affiliates.ruul.io/programs/ruul-affiliate/tos/, read 9 Nov 2026): 1% of every payment referred users receive through Ruul, for as long as they use it ("around $10 per user, each month" is Ruul's own marketing estimate, not a guarantee); referral must sign up via the link and complete an invoice transaction within 90 days of the click; cookie tracking only; no fee if the user or their client business is already in Ruul's database; credited quarterly (second Friday of the month after the quarter); affiliate must sign up to Ruul with the same email to withdraw; 18+; fee structure can change at Ruul's discretion.
 - Official: https://ruul.io/affiliate-program
 - Fit: medium; Ruul is not covered on the site yet, so a link would need a verified section first (fees, supported countries, how payouts reach Gulf banks).
+- Update 2026-11-10 09:00: now covered on receive-payments-saudi-gulf.html#ruul (verified fees, countries, payout methods). Referral link still only if the user provides one.
 - Status: not signed up; no referral link on the site until the user provides one.
 
 ## كاف للتسويق بالعمولة (Kafiil referral program) — PAUSED, watch list (added 2026-11-09 21:00 Asia/Riyadh)
