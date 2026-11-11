@@ -2282,3 +2282,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: report hour (12:00); 6-hour report (07:00–12:00) handed to parent.
+
+## 2026-11-11 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-bahrain.html (stalest page, last improved 01:00 on 11 Nov): the #data-privacy transfer row only said "Decision 42/2022 has a list of 83 countries" without saying which, so freelancers could not tell whether US/EU cloud tools or a client in Qatar are allowed. Sources read 11 Nov 2026: Law 30/2018 Arts. 12, 13, 17, 24, 58 (English translation on bahrain.bh); bahrain.bh Personal Data Protection page (description of Decision 42/2022: transfers to listed countries without authorisation; contract-based transfers outside the list need a permit and a copy of the contract); full 83-country list from Zu'bi & Partners (Feb 2024), cross-checked with the DLA Piper guide and Clyde & Co (Apr 2022) — US, UK, all EU, Switzerland, Norway, Iceland, Canada, Australia, Japan, South Korea, Singapore, Saudi, UAE, Kuwait, Oman, Jordan, Egypt, Morocco, India, Pakistan, China, Malaysia listed; Qatar, Turkey, Lebanon, Tunisia, Algeria, Iraq, Philippines, Indonesia not found; Recording Law summary (Art. 13(1) exceptions, Art. 13(2) contractual safeguards, Qatar absent). pdp.gov.bh returned 403, so the decision text itself was not opened (stated on the page); Art. 3 permit procedure and response time not read (stated).
+  - New h3 #data-transfer-bh (after #data-privacy-steps) with #data-transfer-bh-table (7 rows) and sources note (links Oman #data-privacy, Qatar #data-transfer, Saudi #data-transfer-sa, index #gulf-data-privacy), h4 #data-transfer-bh-steps (5 steps; links free-tools.html#privacy-policy and #contract). Transfer row in #data-privacy-table now names the key listed countries and links the new section; storage step links the new steps; TOC sub-link; 26th FAQ in HTML and FAQPage JSON-LD (in sync).
+- index.html: Bahrain cell of #gulf-data-privacy-table now notes the list covers US/EU/UK and GCC except Qatar, linking freelance-bahrain.html#data-transfer-bh.
+- Checks: no duplicate ids, internal and cross-page anchors exist, JSON-LD parses, tag balance unchanged from before. Footer date and sitemap lastmod already 11 Nov 2026. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
