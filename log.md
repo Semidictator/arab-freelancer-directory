@@ -2314,3 +2314,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-11 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-platforms.html (stalest page group: free-tools 06:00, platforms 07:00; clearest weakness: the #ai note said "we have not reviewed Mostaql, Khamsat and Kafiil policies on AI", although most readers sell on those platforms). Sources read 11 Nov 2026: mostaql.com/p/terms (account-suspension examples: "الاعتماد على البرامج الآلية في تنفيذ المشروع", e.g. copied content, machine translation, auto-generated logos/designs, work below portfolio quality; suspended-account earnings withdrawable after suspension if from fully delivered projects and ID verified; footer category "مشاريع ذكاء اصطناعي"); khamsat.com/terms (service, description and samples must be the seller's own; ban on samples copied or "مولدة بالذكاء الاصطناعي" in services that require own work such as all design; suspension for relying on automated programs); khamsat.com/ai-services (AI category: apps, drawing, video, content, ML); kafiil.com/p/terms (no AI/automation mention; bans publishing works not owned or copied; block without warning, balance freeze full or 30 days). None of the pages shows an update date (stated on page).
+  - h2 #ai title now includes مستقل وخمسات; intro links the new section. New h3 #ai-arab with #ai-arab-table (4 rows × 3 platforms, quoted terms), labelled "our reading" paragraph, h4 #ai-arab-steps (6 steps; links #account-safety, Mostaql support email, Khamsat help centre). Replaced the "not reviewed" note with dated sources. TOC sub-link; 35th FAQ in HTML and FAQPage JSON-LD (in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. Sitemap lastmod already 2026-11-11. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (Kafiil referral already on the watch list, still paused per earlier check; no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
