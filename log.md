@@ -2271,3 +2271,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-11 12:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-permit-saudi.html (#data-privacy had two open "not verified" gaps: SDAIA adequacy list and whether the National Register covers individuals; Saudi page last improved 03:00). Sources read 11 Nov 2026: SDAIA Transfer Regulation (English PDF on sdaia.gov.sa, via indexed text; direct fetch rejected) Arts. 3–4, 7; SDAIA Rules Governing the National Register of Controllers (official PDF via indexed text; direct fetch rejected) Arts. 1(6), 2(4), 3(3), 4(2), 5(2), and Lexology summary (Art. 11: certificate up to 5 years, public); Securiti, Recording Law and Wadira (no adequacy list published as of Sep–Oct 2026); Clyde & Co, Reed Smith, Wadira and azizme summaries of SDAIA's draft amendments to the PDPL Implementing Regulation (Istitlaa 6 Oct–5 Nov 2026; draft Art. 23(2) in-Kingdom storage with transfers still allowed, Art. 24 72h notice for any breach, Art. 28 consent for all promotional messages, Art. 33 "written" RoPA deleted, Art. 34 registration incl. any transfer abroad, in force 60 days after Gazette) — draft text itself not opened (Istitlaa needs an account), labelled as such.
+  - Replaced both "لم نتحقق" sentences in #data-privacy-table with the verified answers; new 8th step (register on the National Data Governance Platform) in #data-privacy-steps.
+  - New h3 #data-transfer-sa with #data-transfer-sa-table (7 rows: current text vs October 2026 draft vs what it means) and sources note (links Oman, Qatar #data-transfer, index #gulf-data-privacy), h3 #data-transfer-sa-steps (4 steps; links SDAIA SCCs, free-tools.html#privacy-policy). TOC sub-links; 28th FAQ in HTML and FAQPage JSON-LD (in sync).
+- index.html: Saudi cell of #gulf-data-privacy-table now notes no adequacy list and the non-binding October 2026 storage draft, linking freelance-permit-saudi.html#data-transfer-sa.
+- Checks: no duplicate ids, internal and cross-page anchors exist, JSON-LD parses, tag balance unchanged from before. Sitemap lastmod already 2026-11-11. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: report hour (12:00); 6-hour report (07:00–12:00) handed to parent.
