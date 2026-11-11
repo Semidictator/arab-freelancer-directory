@@ -2233,3 +2233,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-11 08:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved index.html (stalest page, last improved 13:00 on 10 Nov): the home page had six-country comparisons for licences, tax, insurance, unpaid invoices, banks, SWIFT, advertising and expats, but nothing for personal-data protection, although all six country pages gained detailed #data-privacy sections between 10 and 11 Nov.
+  - New h2 #gulf-data-privacy (before the sections grid) with #gulf-data-privacy-table (6 rows: law and regulator, freelancer exemption, breach notice, storage in tools outside the country, highest published penalty, link to each country's #data-privacy) compiled only from the country sections verified 10–11 Nov 2026 (no new figures); gaps stated (UAE regulation and fines unpublished; Qatar and Bahrain 72h only from legal summaries; Qatar transfer rules not yet summarised on the Qatar page; Kuwait has no general law found). Practical takeaway note and h3 #gulf-data-privacy-steps (5 steps; links to free-tools.html#contract and #privacy-policy).
+  - New #problems row; 42nd FAQ in HTML and FAQPage JSON-LD (in sync); meta/og description now mentions data-protection comparison; footer review date 11 Nov 2026; sitemap lastmod for home 2026-11-11. Duplicate ids, internal and cross-page anchors, JSON-LD and tag balance checked. No referral link added.
+  - Follow-up noted: freelance-qatar.html #data-privacy lacks a cross-border transfer row.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
