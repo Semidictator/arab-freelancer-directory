@@ -145,3 +145,9 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Terms (official page https://termly.io/partners/, read 11 Nov 2026): "earn 35% revenue share on each sale you refer to Termly"; tracking and links through Impact (join via impact.com, then apply to Termly's campaign); program described as tailored for professional advisors and ad network operators. The official page does not state whether renewals earn commission, cookie length, minimum payout or payout methods; third-party directories give conflicting figures (e.g. 180-day cookie, $50 minimum), so confirm inside Impact after approval.
 - Fit: medium; every freelancer with a portfolio site or intake form is a natural Termly free-plan user, but conversions to paid Starter (US$14/website/month billed annually) may be modest.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## Telr Partner Program (added 2026-11-11 18:00 Asia/Riyadh)
+- What: referral/partnership program of Telr (UAE/Saudi payment gateway, licensed by the Central Bank of the UAE), now covered on free-tools.html#telr.
+- Terms (official page https://telr.com/partner, read 11 Nov 2026): "We offer commission for successful referrals to Telr through our partnership agreement"; aimed at IT consultancies, development agencies, marketing agencies and companies with e-commerce customers; application form asks for name, company name, company email, phone and website; commission rate, cookie/attribution, payout terms not published ("contact our Sales Team").
+- Fit: low to medium; only freelancers with a UAE/Saudi trade licence can open a Telr merchant account, and the program expects a company applicant, so it suits a future page for licensed small businesses more than the current audience.
+- Status: not signed up; no referral link on the site until the user provides one.

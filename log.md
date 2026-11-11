@@ -2333,3 +2333,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-11 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved free-tools.html (stalest page by last improvement, 06:00 today; Oman 02:00 was re-checked at 15:00): two open "not verified" cells. Sources read 11 Nov 2026: Telr documents checklist (UAE and KSA versions identical: sole proprietorship needs trade licence, owner passport and visa, share certificate/LSA contract/MOA, 3-month bank statement or bank letter with IBAN/SWIFT), Telr website checklist (licensed activity, prices and currency, About, T&C with domicile and governing law, privacy and cookie policy, delivery and refund policy with 10–45 day refunds), Telr pricing (UAE Startup AED 0–9,999/month: AED 249/month and 0% fees; Entry AED 199 + 2.45% + AED 1, +0.50% international; all +5% VAT; KSA Startup up to SAR 30,000: SAR 99/month, cards 3% + SAR 1, mada 1%, STC Pay 0.90%, urpay 0.80%, +15% VAT, bank setup/monthly fees may differ; SME monthly fee shown as SAR 79 in table and SAR 179 in card, so not quoted), Telr terms (legal entities incl. sole proprietorships in UAE/KSA, trade licence number, passport, EID, selfie); no page mentions freelancers or freelance permits. Toggl docs "Toggl plans: what's included" and "Sharing Reports" (report sharing and public links from Starter; only workspace admins publish; Free has PDF export with watermark).
+  - #invoice-pay Telr row rewritten ("not confirmed" → no for Saudi freelance permit per published list; possible with a trade licence). New h4 #telr with 5-row table (eligibility, documents, website requirements, UAE prices, KSA prices) and note. #clockify Toggl "live report link" cell resolved with sources. Telr sentence added to the Zoho payment FAQ in HTML and FAQPage JSON-LD (in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. Sitemap lastmod already 2026-11-11. No referral link added.
+- New page: none (quality-first).
+- Opportunities: added Telr Partner Program (commission for referrals per telr.com/partner; rate and terms unpublished). Not signed up; no link.
+- Report: report hour (18:00); 6-hour report for 12:00–18:00 sent via parent (`report_due=true`).
