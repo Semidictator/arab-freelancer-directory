@@ -2373,3 +2373,12 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-11 22:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved receive-payments-saudi-gulf.html (stalest page, last changed 11:05; Wise data last checked 23 Oct–4 Nov and nothing on Swift payments in currencies other than USD/EUR/GBP or on countries Wise rejects). Sources read 11 Nov 2026: wise.com/sa/pricing/receive (USD wire/Swift 6.11 USD, EUR Swift 2.39, GBP Swift 2.16, local in 9 currencies free: unchanged; "Swift in an additional 19 currencies"); Wise help "Fees for receiving money by Swift" (22-currency fee table, e.g. AED 14.50, CHF 3.55, JPY 611, CAD 6.16, AUD 6.24); Wise help 2784317 "What payments can I receive in each currency" (GBP details take Swift in 22 currencies incl. AED; EUR details only EUR + AUD/CAD/GBP/JPY/USD; USD details USD only); Wise help "What countries can I receive international Swift payments from" (rejected incl. Iraq, Libya, Syria, Yemen, Sudan, Somalia; return 3–10 working days); Wise help 2813542 eligibility list re-checked (Saudi, Qatar, Kuwait, Bahrain personal-only; UAE/Oman absent: unchanged).
+  - New h3 #wise-swift-other (before #wise-to-bank) with #wise-swift-other-table (5 rows: accepted currencies, which details to send, fees, rejected countries, conversion en route) and note (no SAR/Gulf/EGP Swift receipt found), h4 #wise-swift-other-steps (5 steps; links to #payoneer, #swift, #wise-us-client, #wise-eu-uk, #wise-to-bank, #afaq). TOC entry; 30th FAQ in HTML and FAQPage JSON-LD (in sync); intro "last review" date updated to 11 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, FAQ HTML/JSON-LD match. Sitemap lastmod already 2026-11-11. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (Wise referral and affiliate already listed; no strong new candidate).
+- Report: not a report hour (next at 00:00); `report_due=false`.
