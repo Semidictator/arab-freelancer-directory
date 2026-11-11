@@ -2255,3 +2255,11 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-11 10:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved remote-jobs.html (stalest page, last improved 17:00 on 10 Nov): the Outlier section listed Airtm as a payout method but said "we have not reviewed Airtm fees yet", and Airtm was not covered anywhere on the site. Sources read 11 Nov 2026 on help.airtm.com: "How do you create an Airtm account and get paid from Outlier?" (modified 31 Jul: connect via Your Account → Payment → Airtm with the same email; weekly payout up to 12 hours; KYC with government ID + selfie, minutes to hours; free account, fee only on cash-out), "Where is Airtm available?" (modified 11 May: restricted list; airtm.com FAQ also lists Syria), direct bank withdrawal (modified 13 Aug: 16 countries, none Gulf/Arab; 1,800 USDC per transaction, 8,000/month; 2 business days), P2P withdrawal and escrow articles, P2P price composition and fee equations (dynamic, based on history; cashier commission + service + escrow fees), card add-funds via MoonPay (3.98%, min $3.99; all six GCC countries listed), mediation (2-hour window, up to 24h, in-transaction chat only), P2P marketplace rules (third-party payments prohibited; bank-freeze risk). Also airtm.com/en/outlier (FinCEN MSB, Delaware).
+  - New h4 #airtm (inside #ai-training, before #tutoring) with #airtm-table (10 rows) and note (no P2P minimum or per-country Gulf method list found; PayPal simpler if it works), h4 #airtm-steps (5 steps; links to #remote-usdc-gulf, receive-payments-saudi-gulf.html#crypto and #paypal, #contractor-country). Replaced the "not reviewed" sentence with a link to #airtm; TOC sub-link; 32nd FAQ in HTML and FAQPage JSON-LD (in sync); footer review date 11 Nov 2026; sitemap lastmod 2026-11-11. Duplicate ids, internal and cross-page anchors, JSON-LD and tag balance checked. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (Airtm referral not a public affiliate programme found; nothing added).
+- Report: not a report hour (next at 12:00); `report_due=false`.
