@@ -2342,3 +2342,13 @@
 - New page: none (quality-first).
 - Opportunities: added Telr Partner Program (commission for referrals per telr.com/partner; rate and terms unpublished). Not signed up; no link.
 - Report: report hour (18:00); 6-hour report for 12:00–18:00 sent via parent (`report_due=true`).
+
+## 2026-11-11 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Tried first to close the Qatar gap (NCSA "Personal Data Breach Notifications" guideline PDPPL-02050217E, 72 hours): assurance.ncsa.gov.qa now redirects to a JavaScript app on ncsa.gov.qa and the guideline PDF could not be located or opened, so freelance-qatar.html was left unchanged (still labelled as not opened). Follow-up: retry the guideline text.
+- Improved remote-jobs.html (stale since 10:00; clearest weakness: the #report table covered only the six Gulf states and said "we have not reviewed authorities outside the Gulf", though many readers are in Egypt, Jordan and Morocco). Sources read 11 Nov 2026: Egypt MOI General Administration for IT page (site.moi.gov.eg/IT: Computer and Network Crimes hotline 108, 0224065051/52, HQ at First Settlement, central reporting unit at Abbassia); Al-Ahram (acca.moi.gov.eg report tracking after MOI digital login, SMS with police record number); Voice Misr interview with the department director (report in person or by attorney with official power of attorney, national ID, screenshots with dates, account URL); Jordan PSD contact page (196, 911; via search index, direct fetch timed out), Nabaa Jordan 5 Oct 2026 (PSD spokesman: 911, cybercrime unit channels, criminal investigation detachments in nearest security centre), Council of Europe CyberSouth Jordan situation report (email/Facebook reports must be followed by an official complaint at a police station or public prosecutor); Morocco e-blagh.ma reporting form and online-fraud page (DGSN platform, 24/7 teams, for suspicious ads; victims must file a complaint with competent services; police 19).
+  - h3 #report retitled (Gulf, Egypt, Jordan, Morocco); intro review date updated; 3 new table rows (Egypt, Jordan, Morocco) before "other countries". New 33rd FAQ (Egypt/Jordan/Morocco) in HTML and FAQPage JSON-LD (in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. Sitemap lastmod already 2026-11-11. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 00:00); `report_due=false`.
