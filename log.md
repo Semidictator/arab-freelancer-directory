@@ -2413,3 +2413,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-12 02:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-bahrain.html (clearest weakness: the #insurance section's 2026 rate was our own calculation last checked 29 Oct, and the page had nothing on the October–November 2026 changes to social insurance). Sources read 12 Nov 2026: Decree-Law 44 of 2026 full text on legalaffairs.gov.bh (L4426; issued 5 Oct 2026, Official Gazette 3909 of 8 Oct 2026, in force the day after publication; new Art. 19 bis: contributions for old-age/disability/death insureds calculated on a Cabinet-set minimum wage, applies only to first-time registrants after entry into force; Art. 3: Bahrainis working abroad or for an employer outside the law choose Law 31/2005 at that minimum or a special scheme); crownprince.bh news 104242 (Decision 59 of 2026, contribution calculation mechanism) and 104250 (Decision 61 of 2026 amending Decision 39 of 2014 "to enhance flexibility of contributions"), both announced 10 Nov 2026 with no published text or figures; SIO optional-insurance FAQ (AR/EN) still states 21% rising 1%/yr to 24% in Jan 2028; Zoho Payroll Bahrain help (employer 15% in 2026, employee 7%), consistent with our 22% figure.
+  - Rewrote the #insurance caution paragraph (12 Nov check, Zoho corroboration, note that press 17%/18% figures include 3% injury and 1% unemployment for employees).
+  - New h3 #insurance-2026-changes with #insurance-2026-changes-table (4 rows: Decree-Law 44 Art. 19 bis, its Art. 3 for remote employees of foreign companies, Decision 59, Decision 61; what is known vs unpublished) and h4 #insurance-2026-steps (6 steps: existing registrants, new registrants with exact questions for SIO 17000707 / optionalins@sio.gov.bh, written answer, Tamkeen applicants keep the 6-month clock and 450 BD category, remote employees, where to watch for the texts). TOC sub-link added. No figure for the new minimum was published, so none was stated.
+  - New 28th FAQ in HTML and FAQPage JSON-LD (in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. sitemap.xml lastmod for freelance-bahrain.html set to 2026-11-12. No referral link added.
+- Follow-up: when Decisions 59 and 61 of 2026 appear in the Official Gazette, update #insurance (minimum base, income-category limits, 5% rule) and the examples table.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
