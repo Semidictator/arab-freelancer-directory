@@ -2292,3 +2292,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-11 14:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-kuwait.html (clearest weakness: the page still described new freelance licences as suspended with "no resumption announced as of 5 Nov", but MOCI announced new rules on 10 Nov 2026). Sources read 11 Nov 2026: Al-Jarida 150101 (MOCI statement to KUNA, 10 Nov: Decisions 216 and 217 of 2026; one-person company, Kuwaiti founder-manager 21+, address via PACI, 4-year renewable licence, company bank account and CBK-approved e-payments, CR number on website/social accounts, ban on receiving clients in private residence, contracting with licensed factories/printers/warehouses, exhibitions and e-platforms, application via Kuwait Business Center/Sahel/Sahel Business); Al-Jarida 150186 (11 Nov: 85 activities with qualification requirement per activity, multiple related activities on one licence); The Edge Consultancy (comparison with 168/2025: statement silent on start date, fees, capital, transitional rules, whether 168 repealed; 2025 table had 120/121 activities); Arab Times (same obligations). MOCI site returned 404 from the box on 11 Nov, so decision text not opened (stated on page).
+  - New h2 #decision-216 (before #license) with #decision-216-table (11 rows), h3 #decision-216-activities (digital-relevant activities and qualification; note that "دعاية وتسويق", graphic design, translation and social-media management were not found in the published list), h3 #decision-216-steps (5 steps). Update notes in #license-pause intro and #cost; existing FAQ on translation/design gained a 217 caveat; new FAQ (25th) in HTML and FAQPage JSON-LD (in sync); TOC entries; title and meta/og description updated.
+- index.html: "أنا كويتي وأريد ترخيص" row, Kuwait cell of licence comparison table, and Kuwait licence FAQ (HTML + JSON-LD) updated to the 10 Nov decisions, linking freelance-kuwait.html#decision-216.
+- Checks: no duplicate ids, internal and cross-page anchors exist, JSON-LD parses, tag balance unchanged. Footer date and sitemap lastmod already 11 Nov 2026. No referral link added.
+- Follow-up: re-check MOCI/Sahel Business for the decision text, fees and the date applications actually open.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
