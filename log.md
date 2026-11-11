@@ -2243,3 +2243,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-11 09:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-qatar.html (follow-up from 08:00: #data-privacy had no cross-border transfer row, and the home comparison said so). Re-read the English translation of Law 13/2016 (dataguidance.com PDF, official text in Gazette 15/2016 on almeezan.qa) on 11 Nov 2026.
+  - New row #data-transfer in #data-privacy-table: Art. 1 definition of cross-border data flows; Art. 15 forbids the controller from restricting cross-border flows unless processing breaches the law or may cause serious damage; Art. 15 is in the up-to-QAR 1M fine tier (Art. 23); stated that no transfer-specific consent or country list was found in the law, consent/notice/protection still apply, NCSA guidelines not read, ask government/regulated clients about in-country hosting.
+  - New row on handing data to a processor (Arts. 11 and 12: lawful purpose, identify/train processors, verify processor follows instructions).
+  - Note now compares with Oman/Saudi and links index.html#gulf-data-privacy; new step "اختر أدواتك واذكرها" in #data-privacy-steps (links free-tools.html#privacy-policy); TOC link to #data-transfer; 23rd FAQ in HTML and FAQPage JSON-LD (in sync); Article dateModified and footer review date 11 Nov 2026; sitemap lastmod 2026-11-11.
+- index.html: Qatar cell of #gulf-data-privacy-table (storage outside the country) replaced the "not yet summarised" placeholder with the Art. 15 rule and a link to freelance-qatar.html#data-transfer; practical-takeaway note mentions Qatar as the opposite of Oman.
+- Checks: no duplicate ids, JSON-LD parses, Qatar page tag balance clean (index parser count unchanged from before), new anchors exist. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
