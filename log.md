@@ -2393,3 +2393,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate; AI assistants above publish no consumer referral program).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-12 00:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-kuwait.html (stalest page after freelance-permit-saudi.html, which was checked and left unchanged at 23:00; clearest weaknesses: the #steps plan predated Decisions 216/217 and still sent readers to the old 168 flow, and the #tax table was last checked 28 Oct with no word on the draft Business Profits Tax). Sources read 11 Nov 2026: PwC Kuwait pages (personal income, corporate income, other taxes, withholding: all still "Last reviewed 22 July 2026", no BPT mention, VAT not applied); KPMG Kuwait Tax Guide 2026 PDF (VAT not applicable, no official date; no BPT section); EY MENA newsroom Nov 2024 (BPT in draft stage, would cover companies and natural persons above a threshold); Deloitte alert on the unofficial draft (phase two from FY starting 1 Jan 2027, 15%, exemption for annual turnover up to KD 1.5 million). No evidence of enactment found.
+  - New row #tax-bpt in the #tax table (draft, not in force, exemption covers practically all freelancers, figures may change; official text would appear in Kuwait Al-Youm); tax intro review date updated to 11 Nov 2026.
+  - #steps rewritten as a 12-step plan aligned with Decisions 216/217 (eligibility, 85-activity list, government employees, address and no clients at home, apply only when the service opens, PIFSS within 10 days, mandatory company bank account and e-payment, show CR number, advertiser licence, support/financing after licensing, 5% retention and tax residency, contracts/data/order for payment, transition for 168 licence holders). TOC entry updated.
+  - New 26th FAQ (BPT from 2027?) in HTML and FAQPage JSON-LD (in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. Sitemap lastmod already 2026-11-11 (no change needed). No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: report hour (00:00); 6-hour report (18:00–00:00) sent via parent; `report_due=true`.
