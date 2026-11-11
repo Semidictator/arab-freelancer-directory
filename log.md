@@ -2352,3 +2352,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-11 20:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Checked follow-ups first: Kuwait Decisions 216/217 (new coverage on alanba.com.kw 11 Nov 2026 repeats the KUNA statement; still no fees, opening date or decision text, so freelance-kuwait.html unchanged) and the Oman NEP freelance contracting guide (still only news coverage, no official text).
+- Improved freelance-oman.html (stalest page, last improved 02:00 today; clearest weakness: no coverage of Omani freelance platforms although the page links the government-contracting guide that mentions "licensed freelance platforms"). Sources read 11 Nov 2026: MTCIT cybersecurity freelancing page (lists local platforms Tawteen, Dot Next, Zameeli, Esnad); Oman Observer 23 Jan 2023 (NEP launched .NXT GIG with AWJ Innovation and Occidental Oman); gig.dotnxt.om about page (1,401 freelancers, 1,089 services, 47 projects, 31 total sales); App Store listing; Zameeli Google Play listing (10k+ downloads, updated 9 Aug 2026; photography, design, marketing, social media management, models); Oman Observer 23 Jan 2024 (Dawam freelance service for experts/retirees, MOUs with NEP and MTCIT, second local platform endorsed by NEP); jobs.wdawam.com about page.
+  - New h2 #local-platforms (before #pit) with #local-platforms-table (3 platforms) and "not found" note (commission, withdrawal and holding terms not published/opened; no official licensed-platforms list; no text saying a platform replaces the licence), h3 #local-platforms-steps (5 steps; links to #license-steps, #bank, #local-transfers, #unpaid, #expats, freelance-platforms.html). TOC entry; 25th FAQ in HTML and FAQPage JSON-LD (in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. Sitemap lastmod already 2026-11-11. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate; the Omani platforms publish no referral program).
+- Report: not a report hour (next at 00:00); `report_due=false`.
