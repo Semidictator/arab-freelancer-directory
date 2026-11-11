@@ -2362,3 +2362,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate; the Omani platforms publish no referral program).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-11 21:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Follow-ups checked first: Qatar NCSA breach guideline (assurance.ncsa.gov.qa now redirects to ncsa.gov.qa JS app; Lexis copy 404), so still not opened; Kuwait Decisions 216/217 (Al-Jarida coverage adds nothing beyond what freelance-kuwait.html already has; still no fees/date/text).
+- Improved freelance-qatar.html (stalest page, last changed 09:00; clearest weakness: nothing on e-invoicing although Qatar's Cabinet approved a draft law in May 2026 and articles circulate a "January 2027" date). Sources read 11 Nov 2026: QNA English report of the 6 May 2026 Cabinet meeting (draft e-invoicing law and executive regulations, Ministry of Finance with GTA) and the same text in The Peninsula; GTA Arabic homepage (tax list and latest news to 4 Nov 2026, no e-invoicing item); EY tax alert 7 May 2026 (pilot with select large entities since late 2025, expected Saudi-like clearance/reporting model, 1 Jan 2027 anticipated but unconfirmed, phased from large businesses); KPMG Qatar note (same Cabinet facts); search shows no Shura/Amiri enactment found.
+  - New h3 #e-invoicing-qa (inside #tax, before #tax-other) with #e-invoicing-qa-table (5 rows: legal status, GTA site, pilot/date, expected model, VAT relation) and h4 #e-invoicing-qa-steps (5 steps; links to free-tools.html#invoice, #tax-steps, #tax-penalties, freelance-permit-saudi.html#e-invoicing). TOC entry; 24th FAQ in HTML and FAQPage JSON-LD (in sync).
+  - Fixed The Peninsula home-licence-fees link from http (500) to https (200).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. Sitemap lastmod already 2026-11-11. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 00:00); `report_due=false`.
