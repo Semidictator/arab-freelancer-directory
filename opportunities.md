@@ -139,3 +139,9 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Separate programs not to confuse: Preply's tutor referral and student referral programs (personal links for tutors/students, not publishers).
 - Fit: low to medium; the site's readers are mostly would-be tutors, not learners, so a learner-side link would only suit a future page aimed at people buying lessons.
 - Status: not signed up; no referral link on the site until the user provides one.
+
+## Termly Affiliate Program (added 2026-11-11 06:00 Asia/Riyadh)
+- What: affiliate program of Termly (privacy policy generator, cookie consent banner), now covered on free-tools.html#privacy-policy.
+- Terms (official page https://termly.io/partners/, read 11 Nov 2026): "earn 35% revenue share on each sale you refer to Termly"; tracking and links through Impact (join via impact.com, then apply to Termly's campaign); program described as tailored for professional advisors and ad network operators. The official page does not state whether renewals earn commission, cookie length, minimum payout or payout methods; third-party directories give conflicting figures (e.g. 180-day cookie, $50 minimum), so confirm inside Impact after approval.
+- Fit: medium; every freelancer with a portfolio site or intake form is a natural Termly free-plan user, but conversions to paid Starter (US$14/website/month billed annually) may be modest.
+- Status: not signed up; no referral link on the site until the user provides one.
