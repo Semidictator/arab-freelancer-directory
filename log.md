@@ -2531,3 +2531,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-12 12:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved receive-payments-saudi-gulf.html (page last reviewed 11 Nov; its #withdraw-timing platform-fee table was the oldest-verified block on the page, 25 Oct, and re-checking it found a real change).
+  - Upwork row: new Direct to U.S. Bank (ACH) fee of 2.99 USD for freelancers with an international tax address, effective 1 Sep 2026 (free for US tax address); Direct to Local Bank 0.99 USD with Saudi Arabia and UAE listed, minimum 5 USD or more by country, arrival within four business days, 12:00 UTC same-day cutoff; 50 USD wire; name must match verified name; PayPal/Payoneer fee shown only when adding the method.
+  - Fiverr row: PayPal 0 USD fee, 1 USD minimum, 24h; Bank Transfer via Payoneer 20 USD minimum, 1–3 / 5–7 business days, fee 1 USD on the general page but 3 USD local currency / 1 USD USD wire on the Payoneer setup page (conflict flagged, trust withdrawal screen); Payoneer Account 3 USD, 10 USD minimum, up to two business days; one Payoneer method at a time, bank-transfer currency fixed once saved.
+  - New h4 #withdraw-method-steps (6 steps; example 4 withdrawals/month = 11.96 USD by ACH vs 3.96 USD by Direct to Local Bank; links #paypal and free-tools.html#bookkeeping); two sources added to the note.
+  - Sources read 12 Nov 2026: Upwork "How to get paid on Upwork"; Upwork "Fees, limits, and timing of Direct to Local Bank payments"; Fiverr "Withdrawing your earnings & managing payout methods"; Fiverr "Setting up Payoneer as a payout method". Checked and skipped as already covered: Payoneer annual account fee (29.95 USD under 6,000 USD/12 months, Gulf effective 23 Feb 2026 per Payoneer help 43738) and Fiverr gig limits/levels.
+  - New FAQ (ACH fee) in HTML and FAQPage JSON-LD (31 entries, in sync); intro review date 12 Nov 2026; sitemap lastmod already 2026-11-12.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: 12:00 is a report hour; `report_due=true`, 6-hour Arabic report sent to the user covering the 07:00–12:00 runs.
