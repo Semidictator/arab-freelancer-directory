@@ -2606,3 +2606,16 @@
 - New page: none (quality-first; topic fits the UAE tax section).
 - Opportunities: none added this hour (no strong new candidate; government service, no program).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-12 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Bahrain follow-up re-checked first: Decisions 59 and 61 of 2026 still only announced (crownprince.bh 104240/104250, Al-Ayam 11 Nov); no published text or minimum figure found, so #insurance-2026-changes left unchanged.
+- Improved freelance-qatar.html (stalest page after Bahrain, last improved 07:00; weakness: the UAE page now explains its Tax Residency Certificate and the Qatar #wht-qa steps tell foreign freelancers to bring one, but nothing told a Qatar-based freelancer how to get the Qatari certificate a foreign client or treaty claim needs).
+  - New h3 #trc-qa (after #wht-qa-steps, before #bank) with #trc-qa-table (6 rows): residency test under Income Tax Law 24/2018 Art. 1 as amended by Law 11/2022 (permanent home, >183 days in a year, or Qatari nationality, per PwC); service limited to GTA-registered taxpayers; individual documents per Dhareeba (travel movement record >183 days in 12 months, lease or electricity bill, employment contract) vs Sharek's list (Qatari ID, passport for residents, entry/exit record), with the gap for self-employed people flagged (no published substitute for an employment contract; ask 16565); company documents; fees 20 QAR individuals / 50 QAR companies (Sharek; Dhareeba lists none); est. 1h10m and 30-day validity (Sharek).
+  - Comparison note linking freelance-uae.html#trc; new h4 #trc-qa-steps (7 steps, Dhareeba path Requests > Tax Residency Certificate > Create); cross-link to freelance-permit-saudi.html#wht-non-resident.
+  - TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (26 entries, in sync); Article dateModified 2026-11-12; sitemap lastmod already 2026-11-12.
+  - Sources read 12 Nov 2026: Dhareeba service page "Request a Tax Residency Certificate" (last updated 18 May 2026, fetched directly); Sharek/Hukoomi service card "Issuance of a Tax Residency Certificate" (29 Jan 2025, fetched directly); PwC Qatar individual residence (reviewed 17 Sep 2026). Qatar NCSA breach-notification guideline still not opened (SPA library, no direct PDF), so the #data-privacy breach row was not expanded.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Qatar tax section).
+- Opportunities: none added this hour (government service, no program).
+- Report: 18:00 is a report hour; `report_due=true`, 6-hour Arabic report sent to the user covering the 13:00–18:00 runs.
