@@ -2520,3 +2520,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-12 11:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved free-tools.html (last reviewed 11 Nov; clearest gap after the tax/withholding series: the page covered invoicing only (Zoho Invoice) and said Wave refers users to Zoho Books, but nothing on the site helped a freelancer keep an income/expense ledger, although UAE 7-year records, Oman's 15%-or-actual-expenses PIT deduction and payment-hold proof requests all depend on one).
+  - New h3 #bookkeeping (after #invoice-pay, before #contract) with #bookkeeping-table (7 rows from Zoho Books SA and UAE pricing pages read 12 Nov 2026: Free plan free indefinitely while financial-year revenue ≤ 200,000 SAR / AED; 1 user + 1 accountant, email support; 1,000 invoices and 1,000 expenses a year; invoices/quotes/expenses/journals, bank reconciliation, recurring invoices, payment reminders, P&L, balance sheet, 50+ reports, receipt autoscans in SA edition; VAT tracking/returns and SA Phase 2 e-invoicing from Standard (60/month annual, 69 monthly); multi-currency transactions listed under Professional (90 annual, 129 monthly); add-ons not supported on Free; prices exclude local taxes), a spreadsheet-alternative note, and h4 #bookkeeping-steps (7 steps).
+  - Cross-links: freelance-uae.html#tax-records, freelance-oman.html#pit-freelance, receive-payments-saudi-gulf.html#holds and #wise-to-bank, freelance-permit-saudi.html#vat, freelance-uae.html#vat-register, #invoice-phase2, #backup.
+  - TOC link; new 44th FAQ in HTML and FAQPage JSON-LD (in sync); footer review date 12 Nov 2026; sitemap.xml lastmod for free-tools.html set to 2026-11-12.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
