@@ -2449,3 +2449,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-12 05:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved remote-jobs.html (stalest page, last improved 19:00 on 11 Nov; clearest weakness: the AI-training section covered only Outlier, which excludes Kuwait, Oman and Tunisia and pays only via PayPal/Airtm/ACH; Mercor was not mentioned anywhere on the site).
+  - New h4 #mercor with #mercor-table (9 rows: Arab countries supported via Stripe Connect (SA, KW, QA, BH, OM, JO, EG, MA, DZ, TN) and Wise (UAE), unsupported Arab countries (Iraq, Lebanon, Libya, Mauritania, Palestine, Sudan, Syria, Yemen); Stripe/Wise only, no PayPal/Payoneer/crypto; own-name personal bank account, SMS 2FA; USD contracts converted to local currency; week Sat 00:00–Fri 23:59 IST, payout Wednesdays ~12:00 PST, 7-day first-payout hold, standard payout free up to 5 business days, instant 1%; Wise claim-link flow for UAE; Insightful time tracking with screenshots and weekly cap; Persona ID + selfie video, VPN off; no tax withholding, W-8BEN as individual, no W-8BEN-E), Outlier-vs-Mercor note, and h4 #mercor-steps (8 steps).
+  - Sources read 12 Nov 2026 on talent.docs.mercor.com: policies/supported-countries, how-to/payments, policies/time-tracking-pay, policies/taxes-work-authorization, how-to/id-verification, support/project (3–7 business days bank delay; Reset Stripe option).
+  - Compare table: new Mercor row (heading now 15 sites/networks); TOC link; new FAQ (Mercor from Kuwait/Oman/UAE) in HTML and FAQPage JSON-LD (34, in sync); meta description mentions Outlier and Mercor; footer review date 12 Nov 2026. No pay rate stated (Mercor publishes rates per listing only).
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses, tag balance equal. sitemap.xml lastmod for remote-jobs.html set to 2026-11-12. No referral link added.
+- New page: none (quality-first).
+- Opportunities: added Mercor Referral Program (20% of referral earnings up to 4x hourly rate cap; official referral policy page).
+- Report: not a report hour (next at 06:00); `report_due=false`.
