@@ -2509,3 +2509,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-12 10:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved index.html (clearest gap after the 06:00–09:00 withholding series: the home page compared licences, tax, insurance, SWIFT, e-invoicing etc. across the six Gulf states but had no single answer to "a Gulf client deducted part of my invoice while I work from my own country").
+  - New h2 #gulf-wht (before the sections grid) with #gulf-wht-table (6 rows: KSA 5% technical/consulting regardless of place, 15% other KSA-source services and royalties, 20% management; UAE 0% WHT on State-sourced income of non-residents per MoF CT page and FTA Taxable Non-Resident guide, Cabinet can change it; Qatar 5% incl. services used/enjoyed in Qatar; Oman 10% regardless of place since March 2018, training excluded; Kuwait no WHT but PwC-cited 5% retention for juridical entities, applicability to individual freelancers abroad not settled; Bahrain none today, 5% proposed in Decree 79/2025 bill, not enacted), a note on not asking clients to skip withholding, and h3 #gulf-wht-steps (5 steps; gross-up 1,000/0.95 = 1,052.63 and /0.90 = 1,111.11). Facts taken from the verified country sections; UAE rate sourced fresh 12 Nov 2026.
+  - New problems-table row, #gulf-tax intro cross-link, 44th FAQ in HTML and FAQPage JSON-LD (in sync); footer date 12 Nov 2026.
+- freelance-bahrain.html #income-tax: status re-checked 12 Nov 2026 (still not enacted, no Official Gazette publication found); added Al-Bilad 21 Oct 2026 report that committee chair Ahmed Al-Salloum said the bill may reach the House before end-November 2026 if consensus is reached after summer consultations (a target, not a passage date); review date 5 Nov -> 12 Nov.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses, table tags balanced. sitemap.xml lastmod for index and freelance-bahrain.html set to 2026-11-12. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
