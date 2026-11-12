@@ -2665,3 +2665,15 @@
 - New page: none (quality-first; consolidation of existing verified content).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-12 23:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done at 22:00 (not repeated).
+- Improved freelance-kuwait.html (weakness: Kuwait was the only Gulf country whose tax residency certificate section had no fee, validity or practical cost check, and the home #gulf-trc table showed "not found" for its fee and time).
+  - New h4 #trc-kw inside #tax-residency with #trc-kw-table (7 rows): 183-day test from the MOI entry/exit printout per fiscal year; applicants (Kuwaiti/Gulf/foreign individuals, after account registration is approved); attachments (civil ID and/or passport, PDF 1–4 MB, both sides in one file, 300 dpi per manual); one year and one destination country per request; fee (portal confirms a charge without the amount; Executive Rule 61 as quoted by Al-Anba 14 Aug 2022: KD 50 per e-certificate, KD 5 for Kuwaiti individuals; e.gov.kw KD 1 listing describes the paper procedure); validity one Gregorian year (Executive Rule 17/2013 via gcctaxlaws.com); processing time not published, with manual contact email/phones.
+  - Comparison note linking the other five Gulf TRC sections and index.html#gulf-trc; new h4 #trc-kw-steps (7 steps incl. cost-vs-withholding check). New FAQ in HTML and FAQPage JSON-LD (29 entries, in sync).
+  - index.html: Kuwait row of #gulf-trc-table now shows the fee, validity and per-request rule and links #trc-kw; Gulf TRC FAQ (HTML and JSON-LD) adds the Kuwait fee.
+  - Sources read 12 Nov 2026: MOF TCRS portal (Arabic and English pages), MOF Tax Certifications System user manual v3 (EN PDF), Al-Anba article 1135202 (14 Aug 2022), gcctaxlaws.com Executive Rule 17/2013, e.gov.kw service page. Forum/blog figures (processing 2–4 weeks) not used.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00); `report_due=false`.
