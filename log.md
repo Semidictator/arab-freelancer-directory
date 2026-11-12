@@ -2643,3 +2643,15 @@
 - New page: none (quality-first; topic fits the Saudi tax sections).
 - Opportunities: none added this hour (government service, no program).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-12 21:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-bahrain.html (weakness: after the UAE, Qatar, Oman and Saudi tax residency certificate sections, Bahrain was the only Gulf page besides Kuwait's existing #tax-residency with nothing on how a Bahrain-resident freelancer gets the certificate a foreign client or treaty claim asks for; the #income-tax-steps only pointed to "your country").
+  - New h2 #trc-bh (after #income-tax-steps, before #expats) with #trc-bh-table (7 rows): 183-day physical-presence test verified with NPRA, same for Bahrainis and expats, failure means rejection; request letter must cite the treaty/foreign-law article backed by an independent legal adviser's opinion (flagged as the heaviest cost for freelancers); individual documents (CPR, passport, residence permit for non-Bahrainis, justification from the requesting body and its contacts, address proof options, WHT payment evidence if asked, agent authorisation); certification wording by independent lawyer/notary/auditor or originals shown to NBR staff; submission by mail/e-fax/email in Arabic or English to FTR@nbr.gov.bh (tel 17502322, e-fax 17910098, call centre 80008001); fee BHD 50 under Decision 33/2020 (in force 8 Jan 2021), payment method not stated; processing time not stated.
+  - Note: bahrain.bh "10 working days" belongs to certified VAT certificates, not used; certificate alone does not cut tax; comparison links to UAE/Qatar/Oman/Saudi TRC sections (online there, letter-based in Bahrain).
+  - New h3 #trc-bh-steps (7 steps). #income-tax-steps item 4 now links to #trc-bh; TOC entry added; new FAQ in HTML and FAQPage JSON-LD (29 entries, in sync); sitemap lastmod already 2026-11-12.
+  - Sources read 12 Nov 2026: NBR page "شهادة الإقامة للأغراض الضريبية" (nbr.gov.bh/FTR/certificate_of_tax_residence, via search-index text; direct fetch returned 403), LexisNexis Middle East summary of Decision 33/2020 fees, OECD Bahrain tax-residency sheet, bahrain.bh service psID=1624 (to rule out the 10-day figure).
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Bahrain tax sections).
+- Opportunities: none added this hour (government service, no program).
+- Report: not a report hour (next at 00:00); `report_due=false`.
