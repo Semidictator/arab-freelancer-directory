@@ -2696,3 +2696,14 @@
 - Opportunities added (researched only, not signed up): Booking.com Affiliate Partners via CJ; Skyscanner Affiliate via Impact (incl. official 5,000 UV/month criterion); Travelpayouts network (official payout minima); Agoda Affiliate (official 4%/4.5%/5% ACP and US$200 minimum from the v.2023 agreement PDF); Airalo Affiliate via Impact (official standard rate 10%, up to 10%). Airbnb: no current official public affiliate signup page found.
 - Checks: no duplicate ids on the new page or updated index; internal anchors exist; JSON-LD parses. No referral link added.
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-13 02:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done at 22:00 on 12 Nov (not repeated).
+- Improved travel-booking.html (weakness: the 01:30 page left flydubai, flyadeal and Qatar Airways without official links and gave no concrete fare-family comparison).
+  - Official links added to the airline list: flydubai fare types, flyadeal Help Centre hold-baggage and carry-on articles, Qatar Airways baggage allowance (all fetched 13 Nov 2026).
+  - New h3 #fare-gulf with #fare-gulf-table (3 carriers): flydubai Lite/Value/Flex (7 kg cabin; checked at a charge/20/30 kg, route-dependent; Lite no rebooking or cancel, Value AED 150 rebook / AED 200 cancel up to 24 h, Flex free rebook, free cancel to 24 h then AED 400; refunds as flydubai voucher); flyadeal fly/fly+/flyMax (7 kg cabin bag 55×40×20 plus under-seat item; none/20/32 kg checked; change and cancel fees from flyadeal's published fee schedule dated 9 Apr 2026, SAR); Qatar Airways Economy Lite/Classic/Convenience/Comfort (7 kg, 50×37×25 cm; 20/25/30/35 kg by weight on most routes; Africa/Americas piece concept, Lite 1×23 kg, Classic 2×23 kg); Qatar change/cancel fees marked as not reviewed. flynas and Air Arabia deliberately left out (destination-group fees).
+  - Practical note on cheapest fares being least flexible; new FAQ in HTML and FAQPage JSON-LD (13 entries, in sync).
+- Checks: no duplicate ids, JSON-LD parses. No referral link added.
+- New page: none (quality-first; travel page added 01:30).
+- Opportunities: none added this hour (five travel programs added at 01:30).
+- Report: not a report hour (next at 06:00); `report_due=false`.
