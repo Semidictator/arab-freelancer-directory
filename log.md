@@ -2707,3 +2707,15 @@
 - New page: none (quality-first; travel page added 01:30).
 - Opportunities: none added this hour (five travel programs added at 01:30).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-13 03:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ and travel-booking.html return 200; live announcement already done at 22:00 on 12 Nov (not repeated).
+- Improved travel-booking.html (weakness: the #fare-gulf table marked Qatar Airways change/cancel rules as "not reviewed").
+  - Qatar Airways row now states the official fare-family rules for sales from 18 Feb 2025: Economy Lite no changes or cancellations; Classic changes and refund for a fee; Convenience one free change then a fee, refund for a fee; Comfort free changes and refund. Fee amounts are not published on these pages and are left to the fare rules (not assumed).
+  - Added the official qatarairways.com booking condition: fee-free cancellation within 24 hours of booking online, excluding Lite fares and award bookings, with a possible fee for flights within 3 days of booking.
+  - Sources (Qatar Airways official, read 13 Nov 2026): trade-portal "Adjustments to fare attributes" (Feb 2025), trade-portal New Fare Families table, en-qa/book.html.
+  - Practical note under the table now includes Qatar Economy Lite; new FAQ in HTML and FAQPage JSON-LD (14 entries, in sync).
+- Checks: no duplicate ids, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00); `report_due=false`.
