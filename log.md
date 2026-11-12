@@ -2472,3 +2472,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: report hour (06:00); 6-hour report (01:00–06:00) handed to parent.
+
+## 2026-11-12 07:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-qatar.html (stalest page after Oman, last improved 21:00 on 11 Nov; clearest weakness: #tax-other had one line saying Qatar's 5% WHT covers services "performed wholly or partly in the State", which understates the scope, and nothing practical for non-resident Arab freelancers invoicing Qatari clients).
+  - Sources read 12 Nov 2026: GTA Withholding Tax Guide on services (dhareeba.gov.qa, Feb 2026 edition; Income Tax Law 24/2018 Art. 9(2), Executive Regulations Art. 21); PwC Qatar WHT summary (reviewed 17 Sep 2026) for the Trusted Entity regime from 16 Mar 2026.
+  - New h3 #wht-qa (before #bank) with #wht-qa-table (8 rows: 5% gross final tax with GTA example; "performed in Qatar" incl. services used/consumed/enjoyed in Qatar even if done abroad; who withholds; who is exempt (tax card, QFC, registered PE); remittance before 16th of following month via Dhareeba plus withholding certificate; deemed paid after 12 months; penalties equal to unwithheld tax plus 2% per month capped; treaty refund and Trusted Entity) and note (platform payments not addressed; link to Saudi #wht-non-resident). New h4 #wht-qa-steps (7 steps; gross-up 1,000/0.95 = 1,052.63; GTA 16565).
+  - #tax-other WHT bullet rewritten to state the wider scope and link #wht-qa; TOC sub-link; new 25th FAQ in HTML and FAQPage JSON-LD (in sync); meta description mentions WHT; footer review date 12 Nov 2026.
+  - freelance-permit-saudi.html: one note before the sources note in #wht-non-resident linking to freelance-qatar.html#wht-qa.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal on both pages. sitemap.xml lastmod for freelance-qatar.html set to 2026-11-12. No referral link added.
+- Follow-up still open: NCSA breach-notification guideline (Qatar) not located.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
