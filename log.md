@@ -2559,3 +2559,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-12 14:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved receive-payments-saudi-gulf.html (weakness: the site covered AdSense/YouTube income but nothing on audience-support platforms; Ko-fi, Patreon and Buy Me a Coffee were not mentioned anywhere on the site, although creators commonly open one and only later find they cannot withdraw in their country).
+  - New h2 #creator-support with h3 #creator-support-steps (6 steps), 3-row comparison table by country group, worked example for a 10 USD card payment (our calculation: Patreon 8.41; BMC in UAE ~8.76; Ko-fi via Saudi PayPal ~9.21 one-time / ~8.71 membership using the page's PayPal 4.90% + 0.30 rate).
+  - Sources read 12 Nov 2026: Patreon Creator fees overview (updated 11 Sep 2026: 10% standard plan for pages published after 4 Aug 2025; processing 2.9% + 0.30 card, 3.9% + 0.30 non-US PayPal; 2.5% currency conversion; payouts PayPal 1% min 0.25 cap 20, min 10; Payoneer Wallet 1 USD, min 25; Payoneer bank transfer country table lists UAE, Egypt, Morocco, Tunisia among Arab countries, not KSA/KW/QA/BH/OM/JO) and Payouts guide for creators outside the US; Ko-fi Help "Does Ko-fi take a fee?" (Free 0% one-time tips, 5% memberships/shop/commissions; new creators start on Standard 5% on everything, opt out in Settings > Payment) and "What is Ko-fi Gold?" (12 USD/month, monthly only); Buy Me a Coffee Help "Supported countries for payouts" (9 Oct 2026, Stripe only; UAE the only Arab country listed), "How to calculate charges" (5% + Stripe 2.9% + 0.30, 0.5% payout, +1% international, +0.5% subscriptions), FAQ (10 USD minimum payout after moderation).
+  - TOC link added; new FAQ in HTML and FAQPage JSON-LD (32 entries, in sync); sitemap lastmod already 2026-11-12.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; the topic fits the payments page).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
