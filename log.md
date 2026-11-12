@@ -2582,3 +2582,15 @@
 - New page: none (quality-first; topic fits the Kuwait page).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-12 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved remote-jobs.html (stalest page with freelance-uae.html, last improved 05:00; weakness: #vetted described Arc's vetting and that it is free, but said nothing about the contract and payout terms a freelancer signs, so readers could not tell how they are paid, what blocks the first payout, or what happens if the client offers to hire them directly).
+  - New h4 #arc-terms: 8-row table from Arc's Terms of Service and Talent page (Statement of Work with Arc; paid on a "time" basis plus approved expenses; tax form required before any payout; bank fees on the freelancer; public terms name no payout method, schedule or minimum; rate non-disclosure with the client; duty to notify Arc of a direct offer and of termination within 90 days, with the client's 20% first-year placement fee; US-sanctions eligibility; work performed personally, one account).
+  - New h4 #arc-steps (7 steps): set hourly rate, pass both vetting stages for freelance, read the Statement of Work, ask about payout in writing, fill the tax form early, prepare a USD-receiving account, notify Arc of direct offers.
+  - Sources read 12 Nov 2026: arc.dev/terms and arc.dev/talent (fetched directly). A third-party review site claiming bank-transfer payouts was not used as a source.
+  - TOC sub-link added; new FAQ in HTML and FAQPage JSON-LD (35 entries, in sync); sitemap lastmod already 2026-11-12.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the remote-jobs page).
+- Opportunities: none added this hour (Arc is free for talent and no talent referral program is published on the pages read).
+- Report: not a report hour (next at 18:00); `report_due=false`.
