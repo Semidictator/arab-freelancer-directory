@@ -2460,3 +2460,15 @@
 - New page: none (quality-first).
 - Opportunities: added Mercor Referral Program (20% of referral earnings up to 4x hourly rate cap; official referral policy page).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-12 06:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-permit-saudi.html (stalest page, last improved 12:00 on 11 Nov; clearest gap: nothing on the site covered Saudi withholding tax, which hits non-resident Arab freelancers invoicing Saudi companies directly).
+  - New h2 #wht-non-resident (before #gosi) with #wht-non-resident-table (8 rows: who withholds incl. natural persons only in business context; technical/consulting 5% regardless of place of performance; other services from KSA source 15% incl. services performed wholly or partly in KSA; royalties 15% excl. full sale; management fees 20%; remittance within first 10 days of following month and certificate to payee; payer personally liable plus 1% per 30 days and payee remains liable; DTT relief at source or refund, TRC with Saudi embassy attestation or apostille, Form Q7-B, 5-year limit; Arab treaty partners per PwC 29 Jul 2026) and a sources note (platform payments e.g. Upwork not addressed by ZATCA).
+  - New h3 #wht-non-resident-steps (7 steps; gross-up example 1,000/0.95 = 1,052.63; link to receive-payments-saudi-gulf.html).
+  - Sources read 12 Nov 2026: ZATCA Tax Circular on WHT implementation under DTAs (v1, Jan 2025) §§3.1.3, 3.1.5, 4.2; ZATCA General Guideline for Withholding Tax; Income Tax Law Art. 68 and Implementing Regulations Art. 68 (Arabic text); ZATCA Arabic guide on technical/consulting services; ZATCA Q7-B e-service page; PwC Saudi WHT summary (reviewed 29 Jul 2026).
+  - TOC link; new 29th FAQ in HTML and FAQPage JSON-LD (in sync); meta description mentions withholding tax; footer review date 12 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. sitemap.xml lastmod for freelance-permit-saudi.html set to 2026-11-12. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: report hour (06:00); 6-hour report (01:00–06:00) handed to parent.
