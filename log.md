@@ -2544,3 +2544,18 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: 12:00 is a report hour; `report_due=true`, 6-hour Arabic report sent to the user covering the 07:00–12:00 runs.
+
+## 2026-11-12 13:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-kuwait.html plus a site-wide consistency sweep (weakness: several pages still described the Kuwait licence and its activity table only by Decision 168/2025, after Decisions 216 and 217/2026 were announced on 10 Nov; the page's #activities intro still said 120 activities).
+  - New h3 #activities-2026: 16-row comparison of common freelance work, 2025 table item vs the 85-item 2026 list as published by Al-Jarida (11 Nov 2026, newspaper numbering) and the qualification each 2026 item requires. Findings from the published list: "دعاية وتسويق", "إدارة المشاريع" and "استشارات في المشاريع التجارية" not found; programming/web design need a university degree or diploma; IT, marketing, media, language, management consulting need a specialised university degree; photography, drawing, calligraphy, product promotion, packaged software sales, events and trademark registration need none. Practical note on what this means and on licences issued under a dropped item (ask 137 at renewal; no transitional rules announced).
+  - #activities intro now distinguishes the 120-item 2025 table from the 85-item 2026 list; marketing bullet flagged; #activities-map retitled as the 2025 map with a pointer to the new comparison; TOC link added.
+  - New FAQ (degree requirement after Decision 217) in HTML and FAQPage JSON-LD (27 entries, in sync); footer review date 12 Nov 2026; sitemap lastmod 2026-11-12.
+  - index.html: Kuwait rows updated to Decision 216/217 (problems "which activity" row now reflects the 2026 list and links #activities-2026; "Kuwaiti without an office" row; Gulf licence comparison row; bank row now cites 216's company bank account requirement; expats row; Kuwait card).
+  - remote-jobs.html: Kuwait row in #contractor-country updated to 216/217 with links to #decision-216 and #activities-2026.
+  - receive-payments-saudi-gulf.html: Kuwait crypto row now cites 216's electronic payment requirement alongside 168 art. 7.
+  - Source: Al-Jarida article 150186 (11 Nov 2026) read 12 Nov 2026; official decision text still not opened, stated on page.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
