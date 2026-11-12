@@ -2497,3 +2497,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-12 09:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-platforms.html (last improved 11 Nov; clearest weakness after the 06:00–08:00 Gulf withholding series: #tax-forms covered W-8BEN only for Upwork, and direct US clients got one paragraph with no answer to the common fear of a 30% US deduction, no treaty-country list and no steps).
+  - Replaced that paragraph with h4 #tax-forms-direct and #tax-forms-direct-table (8 rows: 30% applies to US-source income and personal-services income is sourced where performed regardless of contract/payment place or payer residence (Pub 515); valid W-8 exempts from backup withholding and Form 1099 reporting (Pub 515 tip); give to payer not IRS, before payment; W-8BEN vs W-8BEN-E vs W-9 and single-owner disregarded entity; line 3 permanent residence (no PO box/bank address); Part II treaty claims: Arab countries on IRS A–Z treaty list are Egypt, Morocco, Tunisia, none of KSA/UAE/KW/QA/BH/OM/JO; Form 8233 for services performed in the US; e-signature, validity to end of third calendar year, 30-day change notice), an ITIN note, and h4 #tax-forms-direct-steps (6 steps).
+  - Sources read 12 Nov 2026: IRS Instructions for Form W-8BEN (Rev. Oct 2021, irs.gov/instructions/iw8ben); IRS Publication 515 (2026); IRS "United States income tax treaties A to Z" (last updated 3 Jan 2026).
+  - New 37th FAQ in HTML and FAQPage JSON-LD (in sync); footer review date 12 Nov 2026.
+  - receive-payments-saudi-gulf.html: #wise-us-client W-8BEN bullet now states the place-of-performance rule and links #tax-forms-direct; footer date 12 Nov 2026; sitemap lastmod 2026-11-12.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses, tag balance equal on both pages. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
