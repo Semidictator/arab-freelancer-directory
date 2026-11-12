@@ -2425,3 +2425,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-12 03:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved index.html (stalest page, last improved 08:00 on 11 Nov; clearest weakness: the home page had six-country comparisons for licences, tax, insurance, banks, SWIFT, advertising, expats and data protection, but none for e-invoicing, although five country pages now have detailed e-invoicing sections and vendors push "mandatory" systems).
+  - New h2 #gulf-e-invoicing with #gulf-e-invoicing-table (6 countries: status, whether it covers a freelancer not VAT-registered, announced dates, link to the detailed section) and h3 #gulf-e-invoicing-steps (5 steps). Built from the site's verified sections (freelance-permit-saudi.html#e-invoicing, freelance-uae.html#e-invoicing, freelance-oman.html#e-invoicing, freelance-qatar.html#e-invoicing-qa, freelance-bahrain.html#vat-invoice, freelance-kuwait.html#tax). Re-checked 12 Nov 2026: no ZATCA wave 26 found (wave 25 still latest per EY tax news and ZATCA news coverage); Bahrain still has no mandate or date (Sovos, Tender Board 305/2023 page).
+  - New row in the problems table ("a vendor says e-invoicing is mandatory for me"), pointer from the #gulf-tax intro, new 43rd FAQ in HTML and FAQPage JSON-LD (in sync).
+  - #gulf-insurance Bahrain row: added Decree-Law 44/2026 note (minimum contribution base for first-time registrants, figure not yet published), in line with the 02:00 Bahrain update.
+  - SEO: meta description and og:description rewritten to mention e-invoicing, tax, insurance and data protection.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses, tag balance equal. sitemap.xml lastmod for the home page set to 2026-11-12. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
