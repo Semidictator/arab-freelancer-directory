@@ -2485,3 +2485,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 12:00); `report_due=false`.
+
+## 2026-11-12 08:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-oman.html (last reviewed 11 Nov; clearest gap: after the Saudi (06:00) and Qatar (07:00) withholding sections, nothing on the site covered Oman's 10% withholding tax, which hits non-resident freelancers invoicing Omani companies or government bodies directly).
+  - New h2 #wht-om (before #vat) with #wht-om-table (8 rows: scope incl. services, royalties, software, management, dividends/interest suspended; applies regardless of place of performance since March 2018; OTA excluded services incl. training and services linked to activity/property outside Oman; who withholds (any taxpayer or government body), platform payments not addressed; 10% of gross; remit within 14 days of month-end with statement, Moore-cited 1%/month late penalty; DTAs in force with Arab states per OTA list (Tunisia, Algeria, Lebanon, Yemen, Sudan, Syria, Morocco, Qatar, Egypt from 1 Jan 2026; not KSA, UAE, Kuwait, Jordan, Bahrain) and PwC services rates, prior OTA approval per Moore; OTA PIT FAQ 20 (updated 11 Nov 2026) saying a non-resident individual falls under the PIT law at 5% after repeal of ITL Art. 18 bis, with no date given and PIT in force from 1 Jan 2028) and a comparison note.
+  - New h3 #wht-om-steps (7 steps; gross-up example 1,000/0.90 = 1,111.11).
+  - Sources read 12 Nov 2026: OTA withholding-tax page; OTA Income Tax FAQs Q11–16 (updated 11 Nov 2026); OTA PIT FAQs (Arabic) Q20 (updated 11 Nov 2026); OTA double-tax-agreements list; PwC Oman WHT summary (reviewed 7 Jul 2026); EY alert March 2018; Moore Oman tax guide.
+  - TOC link; new 26th FAQ in HTML and FAQPage JSON-LD (in sync); meta and og:description mention the 10% withholding; footer review date 12 Nov 2026. Saudi #wht-non-resident note and Qatar #wht-qa note now cross-link #wht-om.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses, tag balance equal. sitemap.xml lastmod for freelance-oman.html set to 2026-11-12. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 12:00); `report_due=false`.
