@@ -2655,3 +2655,13 @@
 - New page: none (quality-first; topic fits the Bahrain tax sections).
 - Opportunities: none added this hour (government service, no program).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-12 22:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ now returns 200 for the first time (title loads; all 11 pages, style.css and sitemap.xml also return 200). Live-site announcement sent to the user in chat this run (`announce_live=done`, do not repeat).
+- Improved index.html (weakness: the six Gulf tax residency certificate sections added over the last hours (UAE #trc, Saudi #trc-sa, Qatar #trc-qa, Oman #trc-om, Bahrain #trc-bh, Kuwait #tax-residency) had no comparison on the home page, and #gulf-wht-steps item 4 only said "see the detailed sections above").
+  - New h2 #gulf-trc (after #gulf-wht-steps, before the sections list) with #gulf-trc-table (6 rows: residency test, authority/channel, fee, time/validity, link), facts copied from the verified country sections (reviewed 12 Nov 2026); Kuwait fee/time marked as not found rather than guessed. Note that the certificate alone does not reduce withholding; Bahrain adviser-opinion cost flagged.
+  - New h3 #gulf-trc-steps (4 steps). #gulf-wht-steps item 4 now links to #gulf-trc; new row in the #problems table; new FAQ in HTML and FAQPage JSON-LD (45 entries, in sync).
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; consolidation of existing verified content).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00); `report_due=false`.
