@@ -2570,3 +2570,15 @@
 - New page: none (quality-first; the topic fits the payments page).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-12 15:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-kuwait.html (weakness: #insurance explained brackets and pension but had no practical steps and did not say who is NOT obliged to register under Chapter Five, so private-sector employees, pensioners and over-55s could not tell whether the 10-day registration applies to them; it also had nothing on termination or moving to Chapter Three).
+  - New h3 #insurance-who: 7-row table by situation (full-time Kuwaiti 18–55 mandatory; private/oil-sector insured not obliged; government employee pointed to #gov-employee; pensioner optional with pension suspension; disability pensioner; unregistered over 55 optional; 65 at start not covered) plus a note that Decisions 216/217 as read mention no insurance change and no PIFSS statement on the new licence was found.
+  - New h3 #insurance-steps (7 steps): documents, register within 10 days via eservice.pifss.gov.kw with Kuwait Mobile ID (0 KD), bracket choice, monthly payment and 1% late addition, certificates (registered / not subject to Chapter Five), transfer of Chapter Five period to Chapter Three on employment, termination form with MoCI cancellation extract.
+  - Sources read 12 Nov 2026: PIFSS Arabic guide PDF and Insured page (pifss.gov.kw, registration/termination/period-transfer documents); KUNA 2 Dec 2024 (PIFSS statement listing pensioners, disability pensioners, private and oil sector insured and unregistered over-55s as not obliged, licence issued directly by MoCI); e.gov.kw Individuals E-Portal and Electronic Service for Individuals pages. KUNA and e.gov.kw pages timed out on direct fetch and were read via search-index text (stated on page).
+  - TOC sub-links added; new FAQ in HTML and FAQPage JSON-LD (28 entries, in sync); sitemap lastmod already 2026-11-12.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Kuwait page).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 18:00); `report_due=false`.
