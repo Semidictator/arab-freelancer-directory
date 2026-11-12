@@ -2677,3 +2677,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-13 00:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done at 22:00 on 12 Nov (not repeated).
+- Improved free-tools.html (weakness: the Trello vs Notion section, last checked 24 Oct, covered only the free plans and gave no guidance on when a paid plan is worth it, what it costs, or how cancelling/refunds work; its setup h3 had no id).
+  - Re-verified the free-plan table against trello.com/pricing and notion.com/pricing on 13 Nov 2026 (10 boards, 10 collaborators, 10MB/file, 250 command runs; Notion 10 guests, 5MB, 7-day history: unchanged).
+  - New h3 #organize-upgrade with #organize-upgrade-table (5 rows): Trello Standard $5/user/month annual or $6 monthly (unlimited boards, 250MB/file, 1,000 runs, single-board guests; multi-board guests billed as members; downgrade keeps features to end of paid period then 10-board free workspace) vs Notion Plus $10/member/month as listed (5GB uploads, 30-day history, custom forms/sites; guests free; full refund within 3 days monthly / 30 days annual); payment by major cards. Note that Trello does not state what happens to boards beyond 10 after downgrade (not assumed).
+  - New h4 #organize-upgrade-steps (6 steps); setup h3 now #organize-setup; TOC label updated; new FAQ in HTML and FAQPage JSON-LD (45 entries, in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 00:00 report hour; 6-hour report (19:00–00:00) sent to the user via the parent.
