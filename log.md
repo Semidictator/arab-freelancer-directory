@@ -2437,3 +2437,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no strong new candidate).
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-12 04:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-uae.html (stalest after freelance-permit-saudi.html, which was re-checked at 23:00 and is current; clearest weakness: #corporate-tax covered threshold, registration and Small Business Relief but had no practical steps and nothing on what comes after registration: return deadline, late-filing/payment penalties, record keeping, or the FTA late-registration penalty waiver).
+  - New h3 #corporate-tax-deadlines with #corporate-tax-deadlines-table (6 rows, worked for a freelancer first over AED 1m in 2026: register by 31 Mar 2027 or AED 10,000; waiver if first return filed within 7 months, i.e. by 31 Jul 2027, first period only, automatic; return and payment within 9 months, 30 Sep 2027, simplified return under SBR; late filing AED 500/month for 12 months then 1,000; late payment 14% p.a. monthly; records 7 years, cash basis allowed under SBR) and a caution note (no published end date for the waiver initiative as read).
+  - New h4 #corporate-tax-steps (7 steps; links to #sbr, #vat, #tax-deadlines).
+  - Sources read 12 Nov 2026: FTA waiver-of-penalties page; FTA news 14 May 2026 (waiver beneficiaries, 7 months, first period only, automatic credit); FTA CT registration service page; FTA Tax Returns guide (9 months, natural person calendar year); Cabinet Decision 75/2023 and amendments, items 7–8; FTA news 14 Sep 2025 and 3 Aug 2026 (SBR simplified return, same deadline); FTA CT Tax Bulletin 2026 (7-year records, cash basis under SBR).
+  - TOC sub-links added; new 30th FAQ in HTML and FAQPage JSON-LD (in sync); footer review date 12 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. sitemap.xml lastmod for freelance-uae.html set to 2026-11-12. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no strong new candidate).
+- Report: not a report hour (next at 06:00); `report_due=false`.
