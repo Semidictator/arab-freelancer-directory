@@ -2619,3 +2619,15 @@
 - New page: none (quality-first; topic fits the Qatar tax section).
 - Opportunities: none added this hour (government service, no program).
 - Report: 18:00 is a report hour; `report_due=true`, 6-hour Arabic report sent to the user covering the 13:00–18:00 runs.
+
+## 2026-11-12 19:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-oman.html (stalest page, last improved 08:00; weakness: after the UAE (17:00) and Qatar (18:00) tax residency certificate sections, the Oman page told foreign freelancers to bring a certificate from their own country but said nothing on how an Oman-based freelancer gets the Omani certificate a foreign client, platform or treaty claim asks for).
+  - New h3 #trc-om (after #wht-om-steps, before #vat) with #trc-om-table (6 rows): 183-day test (continuous or intermittent) per Gov.om service page and Tax Authority PIT FAQs; documents (Gov.om: visa copy, resident card copy, passport; TA form: passport, ID card, latest visa uploads plus passport no., country, email, mobile, optional place of work), with the gap for Omani nationals flagged (no stated substitute for the mandatory visa field); form fields for receiving authority, country and certificate period, and the form note that DTA info is added when Oman has a treaty with the chosen country; fee OMR 25; Gov.om 1 day, officer review then approval, payment and printing after approval (company guide); certificate alone does not reduce WHT, link to TA DTA list.
+  - Comparison note linking freelance-uae.html#trc, freelance-qatar.html#trc-qa and #wht-qa; new h4 #trc-om-steps (7 steps: TA portal sign-in by card reader, Theqa app or username, Income Tax profile, Personal Residency Certificate, add new).
+  - TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (27 entries, in sync); sitemap lastmod already 2026-11-12.
+  - Sources read 12 Nov 2026: Gov.om "احصل على شهادة الإقامة الضريبية للأفراد" (updated 19 Jan 2026; a duplicate listing updated 5 Aug 2026 shows the same content); Tax Authority illustrated guide "Personal Residency Certificate" PDF (created 25 Oct 2026) and "Taxpayers' Residency Certificates" PDF; TA Personal Income Tax FAQs.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Oman tax section).
+- Opportunities: none added this hour (government service, no program).
+- Report: not a report hour (next at 00:00); `report_due=false`.
