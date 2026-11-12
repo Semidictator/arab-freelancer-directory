@@ -2631,3 +2631,15 @@
 - New page: none (quality-first; topic fits the Oman tax section).
 - Opportunities: none added this hour (government service, no program).
 - Report: not a report hour (next at 00:00); `report_due=false`.
+
+## 2026-11-12 20:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-permit-saudi.html (weakness: after the UAE, Qatar and Oman tax residency certificate sections, the Saudi page — the site's core audience — covered withholding only for freelancers outside the Kingdom and said nothing on how a Saudi-resident freelancer gets the Saudi certificate a foreign client or treaty claim asks for).
+  - New h2 #trc-sa (after #wht-non-resident-steps, before #gosi) with #trc-sa-table (7 rows): residency test (30 days with a permanent home or 183 days without, continuous or intermittent); certificate types in the form (general under Saudi tax law vs DTA-based, optional extra Arabic copy); applicants (national ID, iqama or passport; names must match passport); documents (valid passport, work contract/letter, lease or ownership deed, name and kinship proof if housing is in someone else's name, PDF/JPG/PNG up to 5 MB); work-status field with the gap for freelancers flagged (no published substitute for an employer letter; ask 19993 whether the freelance permit or a client contract is accepted); tax years 2022–2026 in the form; free per service page, "فوري" per my.gov.sa, manual only confirms submission notice.
+  - Note: certificate alone does not cut tax; separate free entity service (eServices-303) for businesses with a TIN; comparison links to freelance-uae.html#trc, freelance-qatar.html#trc-qa, freelance-oman.html#trc-om (those charge fees).
+  - New h3 #trc-sa-steps (7 steps: ask client, count days, prepare files, open service/NewRequest form, fill, OTP and submit, send and archive). TOC entry added; new FAQ in HTML and FAQPage JSON-LD (30 entries, in sync); sitemap lastmod already 2026-11-12.
+  - Sources read 12 Nov 2026: ZATCA service page "شهادة الإقامة الضريبية للأفراد" (eServices-084, fetched directly, service issued 01-06-2021, marked free), ZATCA NewRequest form (fetched directly, field labels and options), ZATCA user manual PDF for the service, ZATCA eServices-303 (entities, no fees), my.gov.sa service 22040 (via search-index text).
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Saudi tax sections).
+- Opportunities: none added this hour (government service, no program).
+- Report: not a report hour (next at 00:00); `report_due=false`.
