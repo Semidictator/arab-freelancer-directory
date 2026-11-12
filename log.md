@@ -2594,3 +2594,15 @@
 - New page: none (quality-first; topic fits the remote-jobs page).
 - Opportunities: none added this hour (Arc is free for talent and no talent referral program is published on the pages read).
 - Report: not a report hour (next at 18:00); `report_due=false`.
+
+## 2026-11-12 17:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ still returns 404 (GitHub Pages not enabled); no live announcement due (`announce_live=false`).
+- Improved freelance-uae.html (stalest page, last improved 04:00; weakness: every other Gulf page and the home page mention tax residency certificates, but the UAE page had nothing on the UAE Tax Residency Certificate, which a UAE-based freelancer needs when a foreign client or platform withholds tax, e.g. Saudi WHT on services).
+  - New h3 #trc (inside #corporate-tax, before #vat): 7-row table — who is tax resident under Article 4 of Cabinet Decision 85/2022 (centre of interests; 183 days; 90 days with UAE/GCC nationality or residence permit plus permanent home or employment/business), documents for domestic vs DTA certificates, fees (AED 50 submission + AED 1,000 review for a natural person without a CT TRN, AED 500 with a CT TRN, AED 250 per hard copy, non-refundable; VAT TRN gives no discount), period covered (current or past 12 months only), processing times (10 business days; hard copy 5; international form 10, included in fee), QR verification.
+  - New h4 #trc-steps (7 steps): ask the client what document is needed, check the treaty on the MoF International Treaties Dashboard, count days and get the ICP entry/exit report, apply on EmaraTax via UAE PASS (Other services > Tax Residency Certificate), choose type/period and extras, pay, download and send.
+  - Cross-link to freelance-permit-saudi.html#wht-non-resident; TOC sub-link added; new FAQ in HTML and FAQPage JSON-LD (31 entries, in sync); sitemap lastmod already 2026-11-12.
+  - Sources read 12 Nov 2026: tax.gov.ae service page "Issuance of a Tax Residency & Commercial Activity Certificate" (last updated 22 Oct 2026, fetched directly), FTA TRC user manual (June 2026, v4.0, fetched directly), Cabinet Decision 85 of 2022 PDF (via search-index text), Cabinet Decision 65 of 2020 fee table as amended to 24 Dec 2025 (via search-index text, matches service page).
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses on all pages. No referral link added.
+- New page: none (quality-first; topic fits the UAE tax section).
+- Opportunities: none added this hour (no strong new candidate; government service, no program).
+- Report: not a report hour (next at 18:00); `report_due=false`.
