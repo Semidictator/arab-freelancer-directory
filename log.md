@@ -2843,3 +2843,13 @@
 - New page: none (quality-first; topic fits the Bahrain expats section).
 - Opportunities: none added this hour.
 - Report: not a report hour.
+
+## 2026-11-13 15:00 (Asia/Riyadh, UTC+3)
+- Improved travel-booking.html (smallest page; weakness: #visa-note was a single generic paragraph, and nothing on the site covered the UK ETA that Gulf nationals now need, the EU Entry/Exit System that went fully live on 10 Apr 2026, or the not-yet-live ETIAS that scam sites already sell).
+  - New h3 #entry-auth (after #visa-note) with #entry-auth-table (5 rows): UK ETA for GCC nationals (Qatar from 15 Nov 2023; Bahrain, Kuwait, Oman, UAE, Saudi from 22 Feb 2024; EVW discontinued); ETA £20 non-refundable, decision usually within a day up to 3 working days, valid 2 years or passport expiry, linked to passport, imitation-site warning; Standard Visitor business limits (meetings allowed; no paid/unpaid work for a UK company or self-employed except Permitted Paid Engagement); EES (progressive start 12 Oct 2025, fully operational 10 Apr 2026, 29 countries, replaces stamping, 90/180 days, visa holders face image only, visa-exempt 4 fingerprints + face, Cyprus/Ireland still stamp, refusing biometrics means refused entry); ETIAS (EUR 20, not in operation, no applications collected, date to be announced months ahead). Note: no Gulf Schengen visa-exemption list stated (changes; links to Commission).
+  - New h4 #entry-auth-steps (6 steps), TOC sub-links, #visa-note now points to the table, cross-links to #schengen-insurance and #contract; new FAQ in HTML and FAQPage JSON-LD (18 entries, in sync).
+  - Sources read 13 Nov 2026: gov.uk ETA overview and apply pages, gov.uk standard-visitor (fetched directly); gov.uk Appendix ETA National List, EVW page, ETA eligibility list, EC Home Affairs EES page, EES FAQ and data pages (search-index text); travel-europe.europa.eu ETIAS and EES pages (fetched directly).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the travel page's visa section).
+- Opportunities: none added this hour.
+- Report: not a report hour.
