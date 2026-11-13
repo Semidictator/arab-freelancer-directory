@@ -2776,3 +2776,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00); report_due=false.
+
+## 2026-11-13 09:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done (not repeated).
+- Improved freelance-qatar.html (stalest country page after UAE, last improved 18:00 on 12 Nov; weakness: the UAE page has #health-insurance but the Qatar page said nothing about Qatar's mandatory visitor health insurance, which decides whether a freelancer travelling to meet a Qatari client, or a visiting relative, can get a visa, nor about the resident health registration).
+  - New h2 #health-qa with table (8 rows): who must buy visitor insurance (prior-visa visitors; visa-on-arrival exempt for first 30 days, required to extend), who is exempt (GCC citizens, VOA up to 30 days, transit) and that exempt visitors pay full treatment cost; QAR 50 per person per month plus optional top-ups; cover (emergency QAR 150,000, emergency assistance/evacuation QAR 35,000, COVID-19 QAR 50,000, repatriation QAR 10,000, no waiting period/copay/pre-approval; non-emergency not covered); buy only from MOPH-registered or approved insurers, then apply/extend visa via MOI or Metrash; four acceptance criteria for international policies; resident health registration QAR 100 (QAR 50 GCC residents/domestic staff), Nar'aakom app needs Tawtheeq and QID valid 1 year, Circular 10 of 2026 ended printed health cards for residents (QID used, fees continue); resident mandatory-insurance phase marked unresolved (law requires employer/sponsor cover, but official MOPH pages still describe visitors as the implemented phase; no official start date found).
+  - New h3 #health-qa-steps (6 steps); TOC link; cross-links to freelance-uae.html#health-insurance and travel-booking.html#insurance; new FAQ in HTML and FAQPage JSON-LD (27 entries, in sync); dateModified and sitemap lastmod 2026-11-13.
+  - Sources (13 Nov 2026): MOPH Mandatory Health Insurance Scheme page, MOPH Visitor Guide PDF and registered-insurers page/list (MOPH site behind a captcha for direct fetch, read via search-index text), qhis.moph.gov.qa, PHCC health card page and e-service, HMC health card page, Qatar Tribune 17 Apr 2026 on Circular 10 of 2026. Third-party claims about a 2026 resident start date not used as fact.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Qatar page).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00); report_due=false.
