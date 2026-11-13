@@ -2729,3 +2729,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-13 05:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done at 22:00 on 12 Nov (not repeated).
+- Improved travel-booking.html (weakness: #insurance was the thinnest section, a generic checklist with no official requirement or practical steps).
+  - New #schengen-insurance table from the EU Visa Code (Regulation 810/2009, Art. 15, consolidated text on EUR-Lex) and the European Commission "Applying for a Schengen visa" page (both read 13 Nov 2026): required cover (urgent medical, emergency hospital, medical repatriation, death), EUR 30,000 minimum, valid in all Schengen states for the whole stay, multiple-entry rule (first visit + signed declaration), buy in country of residence where possible, exemptions (diplomatic passports, covered professional groups), apply 15 days to 6 months ahead, processing 15 days up to 45. Nationality list deliberately not reproduced (link to EU list); fees not stated (Commission page and consolidated Visa Code differ).
+  - New #insurance-steps (7 steps) before buying a policy for a work trip; links to #visa-note.
+  - TOC sub-links; FAQ + JSON-LD 16 (new Schengen insurance question, in sync).
+  - Markup fix: the two tables using undefined class "table-wrap" (passenger-rights and the new table) now use the site's ".wrap" (overflow-x:auto) for mobile scrolling.
+- Opportunity added (researched only, not signed up): SafetyWing Ambassador Program (official ~10% of premium flat fee). No referral link added.
+- No new page (no strong uncovered topic beyond this section improvement).
+- Checks: JSON-LD parses; no duplicate ids.
+- Report: not a report hour (next at 06:00); report_due=false.

@@ -208,3 +208,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - A current official public Airbnb affiliate/Associates signup page was not found on 13 Nov 2026. Airbnb remains relevant as a booking tool on travel-booking.html, with official cancellation-policy help, but no referral programme is listed here to join. News reports that an older Associates programme ended in 2021 were not treated as a substitute for an official Airbnb page.
 - Status: no official public programme confirmed; not signed up; no referral link.
 
+
+## SafetyWing Ambassador Program (added 2026-11-13 05:00 Asia/Riyadh)
+- Official page read 13 Nov 2026: https://safetywing.com/ambassador — "Sign-up instantly… in under 5 minutes"; "flat affiliate fee (currently benchmarked at approximately 10% of total premium amount) on completed applications received via your referral link"; dashboard tracking.
+- Product: Nomad Insurance (travel medical insurance for remote workers/nomads).
+- Not stated on the public page: cookie length, payout minimum/method, eligible countries for promoters, traffic minimums. Confirm in the programme terms after joining. Whether Nomad Insurance meets a given Schengen visa requirement (EUR 30,000, all Schengen states, whole stay, repatriation) must be checked per policy; the site must not claim it does.
+- Fit: medium alongside travel-booking.html#insurance, which deliberately recommends no insurer; any placement must stay a clearly labelled option, not a recommendation.
+- Status: researched only; not signed up; no referral link on the site.
