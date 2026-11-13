@@ -2964,3 +2964,13 @@
 - New page: none (quality-first; topic fits the Oman legal sections; other Gulf pages can get their own copyright notes in later runs).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-14 02:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-permit-saudi.html (among the stalest pages, last reviewed 12 Nov; weakness: no explanation of who owns delivered designs/code/texts under Saudi law; only the WHT royalties row touched IP).
+  - New h2 #copyright-sa (before #renew) with #copyright-sa-table (11 rows) from the consolidated Copyright Law (Royal Decree M/41 of 2/7/1424H, amended by Council of Ministers Decision 536 of 1439H) read on WIPO Lex 14 Nov 2026 (BOE official page timed out; linked): Art. 1 author = person who created the work; Art. 2–3 protected works incl. software, designs, photos, applied art, translations, original databases; Art. 4 ideas/methods/facts excluded; Art. 11 transfer must be proven in writing and define scope in time and place; Art. 8 moral rights perpetual, non-assignable, may publish without name; Art. 9 economic rights; Art. 10 author must not obstruct licensed right, compensation via committee; Art. 12 assignment of all future works void; Art. 6 joint/collective works; Art. 19 life+50, software/collective 50 yrs from publication, applied art/photos 25 yrs; Art. 15 exceptions (personal copy excludes software); Art. 21–22 infringements and penalties (warning, fine up to SAR 250,000, closure up to 2 months, confiscation, prison up to 6 months, compensation, publication, doubling on repeat).
+  - Voluntary registration regulation (1440H) noted via WIPO Lex; fees/channel not verified (flagged). Labelled as our reading, no ruling found for freelance contracts. New h3 #copyright-sa-steps (6 steps); TOC entry; cross-links to #wht-non-resident, free-tools.html#contract, freelance-oman.html#copyright-om; new FAQ in HTML and FAQPage JSON-LD (32 entries); footer review date 14 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first). Remaining Gulf pages without a copyright note: UAE, Qatar, Kuwait, Bahrain.
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
