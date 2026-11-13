@@ -2877,3 +2877,15 @@
 - New page: none (quality-first; topic fits the Kuwait expats section).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-13 18:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done at 22:00 on 12 Nov (not repeated).
+- Improved travel-booking.html (weakness: #coworking was two generic paragraphs with no verifiable checks on internet quality and nothing on public Wi-Fi safety for logging into bank, payment and platform accounts).
+  - New h3 #wifi-check: Airbnb host-run Wi-Fi speed test (Airbnb app on iOS/Android, at the property, measured via M-Lab; 50 Mbps+ shown as "fast wifi"), table of Airbnb's own speed tiers (1–6, 7–24, 25–49, 50+) with what each means for client video calls; host-measured so an indicator not a guarantee; "Dedicated workspace" definition (desk/table used only for work, power outlet, comfortable chair); ask other properties for a measured speed in writing.
+  - New h3 #public-wifi: NCSC "Connecting Securely" micro exercise (interception on public networks, evil-twin hotspots, ask staff for the exact network name, public Wi-Fi for browsing only, VPN when logging in to services); practical advice to use mobile data/hotspot for bank, PayPal, Wise and platform logins. UAE VPN note: Federal Decree-Law 34/2021 Article 10 (circumventing IP with intent to commit or hide a crime: temporary imprisonment and/or AED 500,000–2,000,000) and TDRA 2016 statement (no rule prevents companies, institutions and banks using VPN for internal networks; accountability for misuse); other countries' rules not reviewed and the page says so; cross-link to remote-jobs #ai-training on platforms banning VPN location masking.
+  - New h3 #coworking-steps (6 steps), TOC sub-links, new FAQ in HTML and FAQPage JSON-LD (19 entries, in sync); meta, og and JSON-LD descriptions updated.
+  - Sources read 13 Nov 2026: airbnb.com/help/article/3003 (fetched directly), Airbnb Resource Centre remote-workers article (fetched directly), NCSC connecting-securely PDF (fetched directly), uaelegislation.gov.ae Decree-Law 34/2021 and tdra.gov.ae 2016 press release (search-index text).
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the travel page).
+- Opportunities: none added this hour.
+- Report: 6-hour report (13:00–18:00) sent via parent.
