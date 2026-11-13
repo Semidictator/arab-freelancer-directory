@@ -2889,3 +2889,16 @@
 - New page: none (quality-first; topic fits the travel page).
 - Opportunities: none added this hour.
 - Report: 6-hour report (13:00–18:00) sent via parent.
+
+## 2026-11-13 19:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier).
+- Improved freelance-qatar.html (weakness: the other Gulf country pages now cover long-term expat residency routes, but the Qatar #expats section had only the entrepreneur residency and QFC firm, nothing on property-linked or permanent residency, a frequent question for expat freelancers).
+  - New h3 #expats-longterm with #expats-longterm-table (3 rows): property residency second class (QAR 730,000+ owned or usufruct in areas under Cabinet Decision 28/2020; sponsor-free, 5 years auto-renewed on fees while owning; 90 days a year in Qatar; spouse, children, parents; work at any entity only after a work permit per Aqarat brochure), first class (QAR 3,650,000+; permanent-residency-like health, education and investment privileges; not the PR card), and the permanent residency card under Law 10/2018 (20 yrs / 10 if born in Qatar, 60-day annual absence, sufficient income, good conduct, Arabic; Article 2 exempt categories; cap 100/yr; Articles 5–8 benefits incl. investment without Qatari partner via a company).
+  - Note: no published fee found; Cabinet Decision 21/2026 amending 28/2020 is press-reported only (text not read); residency lapses if the property is sold; not investment advice.
+  - New h4 #expats-longterm-steps (6 steps), TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (28 entries, in sync); meta description updated.
+  - Also fixed two tables using an unstyled `table-wrap` class to the site's `wrap` class (horizontal scroll on mobile).
+  - Sources read 13 Nov 2026: aqarat.gov.qa/en/faq (fetched directly: 90-day rule, both tiers, 5-year renewable), Aqarat Arabic brochure PDF (fetched directly: auto-renewal, family, work permit), Law 10/2018 text on Al Meezan (search-index text), MOI permanent residency page.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Qatar page).
+- Opportunities: none added this hour.
+- Report: not a report hour.
