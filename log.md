@@ -2752,3 +2752,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report (01:00–06:00) due and handed to the parent.
+
+## 2026-11-13 07:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done (not repeated).
+- Improved remote-jobs.html (stalest page after receive-payments, whose PayPal fee pages returned 403 and could not be re-verified this hour; weakness: #vetted had full contract and payout terms for Arc but nothing on how Toptal pays, its client trial or IP terms).
+  - New h4 #toptal-terms with table (8 rows): client trial up to 2 weeks with no billing if not satisfied (talent pay for trial not published), client invoicing twice monthly Net 10, credit-back when talent misses scheduled time, talent agreement gives Toptal exclusive IP ownership, Toptal Pay (Hyperwallet, PayPal group; account created by Toptal, activation email), bank transfer manual or daily/monthly auto transfer with threshold, 1–2 business days NA/EU and up to 3 elsewhere, conversion details shown before confirm (rate unpublished), prepaid card only if offered for program/country, possible activation fee, up to 6 weeks delivery (3 expedited) rest of world, 3% FX fee on non-card-currency use; plus a note on what is not published.
+  - New h4 #toptal-steps (6 steps); TOC sub-link; compare-table Toptal row links to it; new FAQ in HTML and FAQPage JSON-LD (36 entries, in sync); sitemap lastmod 2026-11-13.
+  - Sources read 13 Nov 2026: payment.toptal.com/hw2web/faqs/faqs.xhtml and toptal.com/faq. Toptal's talent payments FAQ requires login and was not used; third-party blogs (e.g. claims of a 3% bank conversion fee) not used as sources.
+  - Re-verified the #compare note: We Work Remotely FAQ (Pro $14.95/month, first month $2.95, 12-month commitment; TopAccess $29.95, no trial), Remote OK premium page ($14.95 and $29.95, 12-month commitment) and Remotive cost article (price shown at checkout, varies by country): no changes.
+  - Fixed two `table-wrap` wrappers (undefined class) to `wrap`.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (Toptal publishes no talent referral terms publicly).
+- Report: not a report hour (next at 12:00); report_due=false.
