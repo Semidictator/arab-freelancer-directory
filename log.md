@@ -2934,3 +2934,13 @@
 - New page: none (quality-first; topic fits the Fiverr levels section).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-13 23:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved receive-payments-saudi-gulf.html (stalest page, last improved 10:00 today; weakness: the page covered how a direct client pays but nothing on protecting a freelancer against non-payment on a large project with a new direct client; escrow was mentioned nowhere on the site except platform-internal escrow).
+  - New h3 #escrow-milestones (after #ruul-steps) with #escrow-table (8 rows) from official Escrow.com pages read 13 Nov 2026 (fee calculator, milestones how-it-works, payment options, unsupported countries, disputes, licences): full funding up front and per-milestone inspection; USD fees 2.6% min $50 up to $5,000, 2.4% min $130 to $50,000; fee payer buyer/seller/50-50; +$25 for international wire from buyers outside the US; card/PayPal +3.05%, max $5,000, not available if neither party completed a prior transaction; seller card/PayPal cap $20,000 per 6 months; disbursement $20 international wire per payout, no currency conversion; unsupported bank countries incl. Algeria, Egypt, Iraq, Lebanon, Libya, Somalia, Sudan, Yemen, Syria sanctioned; dispute 14+14 days, AAA/JAMS/net-ARB arbitration, refund to buyer if no arbitration notice.
+  - Illustrative cost example labelled as ours ($3,000 in 3 milestones = $163 ≈ 5.4%; $1,000 single = $95 = 9.5%) and new h4 #escrow-milestones-steps (5 steps); TOC entry; new FAQ in HTML and FAQPage JSON-LD (34 entries, in sync); footer date 13 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added. Sitemap lastmod already 2026-11-13.
+- New page: none (quality-first; topic fits the direct-client payments section).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
