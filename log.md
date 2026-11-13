@@ -2912,3 +2912,15 @@
 - New page: none (quality-first; consolidation of existing verified content).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-13 21:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Considered receive-payments-saudi-gulf.html first (PayPal fee tables last read 28 Sep page date), but PayPal merchant-fee pages still return 403 from both fetch routes, so they could not be re-verified; left unchanged.
+- Improved remote-jobs.html (weakness: #scams relied only on US sources (FBI/IC3/FTC) and said nothing about the pattern Gulf authorities actually warn about in 2026: "part-time remote job" offers that turn the applicant's bank account into a money-mule channel).
+  - New h3 #scams-gulf before #report with table (6 rows): Dubai Police Anti-Fraud Centre warning (WAM 24 Oct 2026, search-index text: licensed employers, never pay fees, no OTP/bank details, receiving and forwarding money for commission = stop, eCrime / 901); Dubai Police published case (Al Khaleej 5 Aug 2026: youth opened account for a "foreign financial services company", forwarded funds, summoned for questioning); UAE government portal tips (u.ae, updated 10 Nov 2026, fetched directly: MoHRE-issued offer verifiable by reference number, employer pays recruitment costs, visit visa no right to work, check company in National Economic Register) with link to MoHRE offer inquiry; Federal Decree-Law 33/2021 Article 6(4) (text read from the PCFC-hosted PDF: employer may not charge recruitment/employment fees directly or indirectly); Saudi HRSD sample fake message (SAR 300–1,500 daily, reply 1, WhatsApp; Al-Madina 4 Aug 2024, press-reported); Saudi AML Permanent Committee guidance on "renting" accounts and penalties up to SAR 7m / 15 yrs (Al Watan, press-reported; committee text not read).
+  - Note that Kuwait, Qatar, Oman and Bahrain warnings were not reviewed in this section, and that MoHRE offer verification only covers jobs inside the UAE.
+  - New h4 #scams-gulf-steps (5 steps); TOC sub-link; TOC FAQ count corrected from 31 to 37; new FAQ in HTML and FAQPage JSON-LD (37 entries, in sync); footer review date 13 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added. Sitemap lastmod already 2026-11-13.
+- New page: none (quality-first; topic fits the remote-jobs scams section).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
