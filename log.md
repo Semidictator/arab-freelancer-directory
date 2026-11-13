@@ -2787,3 +2787,16 @@
 - New page: none (quality-first; topic fits the Qatar page).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00); report_due=false.
+
+## 2026-11-13 10:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done (not repeated).
+- Improved receive-payments-saudi-gulf.html (stalest page, last improved 13:00 on 12 Nov; weakness: #wise-gulf told UAE/Oman residents that a client can send via Wise straight to their local IBAN but gave no numbers, so the reader could not tell how much the client's pay-in method costs them).
+  - New h3 #wise-direct-cost: table for a US personal sender sending USD 1,000 via Wise to a bank account in SAR/AED/QAR/KWD/BHD/OMR by pay-in method (Connected bank account (ACH) fee 11.08, Wire transfer 15.48 (AED 12.00), debit card 21.55 (AED 18.13), credit card 70.06 (AED 67.01); e.g. SAR 3,711.42 vs 3,490.06, AED 3,645.12 vs 3,426.87), note that the ACH vs credit-card gap is ~USD 59 (~6%), wire sender-bank fee extra, and the cheaper alternative for SA/QA/KW/BH residents (ACH to USD details then convert, #wise-to-bank).
+  - New h3 #wise-direct-steps (5 steps: name+IBAN and local currency, ask for ACH, agree who pays fees and use "Recipient gets", keep Wise receipt, ask bank about incoming fee).
+  - Cross-link from #wise-gulf; TOC link; new FAQ in HTML and FAQPage JSON-LD (33 entries, in sync); intro review date 13 Nov 2026; sitemap lastmod 2026-11-13.
+  - Re-verified #wise-to-bank: Wise USD balance to SAR bank for 1,000 USD today is fee 9.47, ~SAR 3,717.46 (page says 9.50 / 3,717.74; within rounding, left unchanged).
+  - Source: Wise official send-money pricing calculator (wise.com/us/pricing/send-money) read 13 Nov 2026; payment option names (Connected bank account (ACH), Wire transfer, Debit card, Credit card) taken from the same page.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the payments page).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00); report_due=false.
