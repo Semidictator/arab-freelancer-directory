@@ -2811,3 +2811,14 @@
 - New page: none (quality-first; topic fits the UAE permit section).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00); report_due=false.
+
+## 2026-11-13 12:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done (not repeated).
+- Improved freelance-oman.html (stalest page, last improved 19:00 on 12 Nov; weakness: the expats section covered labour-law limits and employer-linked routes but said nothing about sponsor-free residence routes, so readers sold an "Oman freelance visa" or considering the Golden Residency had no guidance on whether residence lets them freelance).
+  - New h3 #expats-residency (after #expats-remote, before the sources note) with #expats-residency-table (3 rows): Golden Residency (10 years renewable, launched 1 Sep 2025, OMR 200,000 minimum, routes incl. company, ITC property, bonds/MSX shares, fixed deposit, 50+ Omanis, nomination; official portal with Migrate World; "Talent Residency" mentioned without published terms); ROP Investor Visa (5 or 10 years per ROP catalogue as reported by secondary sources, fees not published by us; investor professions permit OMR 301 per 602/2025); ITC property owner residence (2 years, OMR 50 per Gov.om service page as quoted by secondary sources; ROP Decision 87/2026 reported in press) with explicit "not verified directly" notes.
+  - Note that residence is not a work permit (Labour Law Art. 28/143); new h4 #expats-residency-steps (5 steps); TOC sub-link; cross-links to freelance-uae.html#permit and freelance-bahrain.html#expats; new FAQ in HTML and FAQPage JSON-LD (28 entries, in sync); footer review date 13 Nov 2026; sitemap lastmod 2026-11-13.
+  - Sources read 13 Nov 2026: omanresidence.gov.om (official Golden Residency portal, fetched directly), Invest Oman launch announcement 1 Sep 2025 (fetched directly), MoCIIP (tejarah.gov.om) news on the programme (search-index text). Third-party pages used only to locate official services; their fee figures not published.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Oman expats section).
+- Opportunities: none added this hour.
+- Report: 12:00 report hour; 6-hour report (07:00–12:00) sent via parent.
