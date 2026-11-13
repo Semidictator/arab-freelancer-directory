@@ -2974,3 +2974,13 @@
 - New page: none (quality-first). Remaining Gulf pages without a copyright note: UAE, Qatar, Kuwait, Bahrain.
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-14 03:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-uae.html (weakness: no explanation of who owns delivered designs/code/texts under UAE law; flagged as missing in the 02:00 run).
+  - New h2 #copyright-ae (before #steps) with #copyright-ae-table (13 rows) from Federal Decree-Law 38 of 2021 on Copyright and Neighboring Rights (in force 2 Jan 2022, repealed Law 7/2002), English translation on uaelegislation.gov.ae/en/legislations/1534 read 14 Nov 2026 (Arabic page linked as prevailing text): Art. 2 protected works incl. smart apps/software/databases, applied art, photos; Art. 3 exclusions; Art. 4 registration optional (fees/procedure not verified, flagged); Art. 28(1) default: work created for another person belongs to that person unless otherwise agreed in writing; Art. 28(2)-(3) employee works; Art. 9 transfer/licence in writing specifying right, purpose, duration, place, unassigned rights stay with author; Art. 10-11 consideration and court reconsideration; Art. 13 original copy; Art. 15 future works void; Art. 5 moral rights non-assignable; Art. 26-27 joint/collective works; Art. 20 durations (life+50, 50 for legal-person collective, 25 applied art); Art. 39 fines AED 10k-100k / min 2 months (repeat AED 100k-500k, min 6 months); Art. 41 unlicensed software use AED 30k-100k per software (repeat 100k-1m, closure up to 3 months).
+  - Labelled as our reading, no published ruling found. New h3 #copyright-ae-steps (6 steps); TOC entry; cross-links to #unpaid, free-tools.html#contract, freelance-permit-saudi.html#copyright-sa, freelance-oman.html#copyright-om; new FAQ in HTML and FAQPage JSON-LD (34 entries).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first). Remaining Gulf pages without a copyright note: Qatar, Kuwait (Kuwait Law 75/2019 official PDF could not be downloaded this hour), Bahrain.
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
