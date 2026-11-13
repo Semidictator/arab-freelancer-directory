@@ -2902,3 +2902,13 @@
 - New page: none (quality-first; topic fits the Qatar page).
 - Opportunities: none added this hour.
 - Report: not a report hour.
+
+## 2026-11-13 20:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved index.html (stalest page, last improved 22:00 on 12 Nov; weakness: the six long-term or employer-independent residency sections added to the country pages over the last day (UAE #green/#virtual-work, Saudi #premium-sa, Qatar #expats-longterm, Kuwait #expats-longterm, Oman #expats-residency, Bahrain #expats-golden) had no comparison on the home page, and #gulf-expats only covered work permits).
+  - New h3 #gulf-residency inside #gulf-expats (before #gulf-data-privacy) with #gulf-residency-table (6 rows: closest route for an individual, published minimum, duration and fee, whether it allows working for yourself in-country, link). Facts copied from the verified country sections (reviewed 12–13 Nov 2026); unpublished fees (Qatar, Oman) and press-only figures (Kuwait KWD 500) marked as such. Conclusion: only the UAE ties long-term residency to freelance work itself; elsewhere residency is not a work permit.
+  - New h4 #gulf-residency-steps (4 steps). #gulf-expats-steps item 1 links to the new table; new row in the #problems table; new FAQ in HTML and FAQPage JSON-LD (48 entries, in sync).
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added. Sitemap lastmod already 2026-11-13.
+- New page: none (quality-first; consolidation of existing verified content).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
