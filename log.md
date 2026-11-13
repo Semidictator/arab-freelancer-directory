@@ -2800,3 +2800,14 @@
 - New page: none (quality-first; topic fits the payments page).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00); report_due=false.
+
+## 2026-11-13 11:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done (not repeated).
+- Improved freelance-uae.html (stalest page, last improved 17:00 on 12 Nov; weakness: #permit and #permit-steps still told readers to prepare supporting documents with "no official list", but MoHRE has since announced removal of all supporting-document requirements for its 13 work permit types, including the freelance permit).
+  - New h3 #permit-2026 (inside #permit, before #permit-steps): 6-row table on what was announced and what it means for a freelancer (supporting documents removed; data fields cut 75–97% for some permits, unspecified which; shorter processing, no day count; unified digital channels; no fee change announced, AED 250/2 years reference kept and the u.ae AED 250–3,450 range explained as employee permits; part-time work permit for employees wanting a second job, skill levels 1–2, no primary-employer approval if rules met, 2 years) plus an explicit "not verified" note (MoHRE service page not opened directly; Article 8/2 Cabinet decision still unpublished).
+  - Step 2 of #permit-steps rewritten to point to the update; TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (32 entries, in sync); sitemap lastmod 2026-11-13.
+  - Sources read 13 Nov 2026: Gulf News 8 Nov 2026 "UAE cuts paperwork for 13 types of work permits under Zero Bureaucracy drive" (fetched directly), earlier Gulf News article citing MoHRE's website (part-time permit details), u.ae work permits page (updated 19 Oct 2026, fetched directly).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the UAE permit section).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00); report_due=false.
