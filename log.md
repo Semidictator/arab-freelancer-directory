@@ -2765,3 +2765,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (Toptal publishes no talent referral terms publicly).
 - Report: not a report hour (next at 12:00); report_due=false.
+
+## 2026-11-13 08:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done (not repeated).
+- Improved travel-booking.html (smallest page; weakness: nothing on the site told a traveller returning to Saudi Arabia what customs allows for work equipment bought abroad or when cash must be declared; the page only linked ZATCA generically).
+  - New h2 #customs-sa with table (6 rows) from ZATCA pages read 13 Nov 2026 (luggage page, travellers' guidance page, e-service 217): personal items/gifts exemption up to SAR 3,000, non-commercial, invoice may be requested (GCC Unified Customs Law Art. 103(b)); items to declare (commercial quantities, samples over SAR 3,000, excise goods, restricted/prohibited); cash, bearer instruments, gold, precious metals, jewellery SAR 40,000 or more on entry or exit with proof of ownership/source; restricted examples (medicines, drones); how to declare (port form or e-service reference number); consequences of not declaring.
+  - Note on conflicting cash threshold: an older ZATCA e-services travellers' guide still says SAR 60,000; the site uses the lower 40,000 from the two current pages. Duty/VAT rates not stated (depend on tariff classification).
+  - New h3 #customs-sa-steps (6 steps); TOC link; new FAQ in HTML and FAQPage JSON-LD (17 entries, in sync); dateModified 2026-11-13.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00); report_due=false.
