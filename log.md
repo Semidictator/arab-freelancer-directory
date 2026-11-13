@@ -2741,3 +2741,14 @@
 - No new page (no strong uncovered topic beyond this section improvement).
 - Checks: JSON-LD parses; no duplicate ids.
 - Report: not a report hour (next at 06:00); report_due=false.
+
+## 2026-11-13 06:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done at 22:00 on 12 Nov (not repeated).
+- Improved freelance-platforms.html (stalest page, last improved 09:00 on 12 Nov; weakness: the #protection table was last verified 24 Oct, and nothing on the site covered the time limits that cancel a Fiverr order or reset Upwork's review clock before any payment protection applies).
+  - Re-verified #protection against the official Upwork (fixed-price protection, get paid for fixed-price, hourly protection), Fiverr order-process guide and Mostaql guarantee pages (13 Nov 2026): no rule changes; source note updated.
+  - New h3 #order-clock with table (7 rows): Fiverr requirements 14-day auto-cancel and Skip requirements; extension requests (48 h auto-accept, up to 60 days, added to the original date); Late, Very late after 24 h, 30-day auto-cancel from order date (email on day 15); Deliver Now misuse, 1 GB file limit, Share Draft (watermark, not for hourly); Order Timeline (single-payment orders over $200 and over 7 days, set up within 3 days); Upwork Submit work required even if shared elsewhere, review reset after changes, 7-day refund response, 5-day hold incl. bonuses, no faster payouts for fixed-price, agency payouts to the agency; Upwork hourly dispute pauses the contract and sets the weekly limit to zero, 3 days to respond.
+  - New h4 #order-clock-steps (6 steps); TOC link; new FAQ in HTML and FAQPage JSON-LD (38 entries, in sync); sitemap lastmod 2026-11-13.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report (01:00–06:00) due and handed to the parent.
