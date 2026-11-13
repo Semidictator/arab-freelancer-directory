@@ -2944,3 +2944,13 @@
 - New page: none (quality-first; topic fits the direct-client payments section).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-14 00:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-uae.html (stalest page, last improved 11:00 on 13 Nov; weakness: the permit section explained how to get the freelance permit but said nothing on the legal risk of working before it is issued or on a visit/tourist visa, and nothing on the 2024 employer fines that explain why UAE clients ask for a permit or licence).
+  - New h3 #no-permit-risk (after #permit-steps) with #no-permit-risk-table (6 rows): Labour Law Art. 6 per u.ae work-permits page (read 14 Nov 2026); u.ae "Preparing to work" page: work on visit/tourist visa prohibited paid or unpaid, fines and legal liability for workers and employers (no worker fine amount given); Entry and Residence Decree-Law 29/2021 Art. 5(4) (press-quoted via Khaleej Times legal column, text not read); Art. 60(1) as amended by Decree-Law 9/2024 (issued 29 Jul 2024, in force 30 days after publication): AED 100,000–1,000,000 for employing an unauthorised worker or misusing permits, previously 50,000–200,000 (decree text via legaladviceme.com; applicability to independent freelance contracts not settled by any official text found); existing 10,000 AED permit-conditions fine cross-linked; virtual work visa cross-linked.
+  - Note on what was not verified (worker fine amount, deportation rules). New h4 #no-permit-risk-steps (5 steps); TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (33 entries, in sync); fixed one table-wrap div to the wrap class used by style.css; footer review date 14 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the UAE permit section).
+- Opportunities: none added this hour.
+- Report: 00:00 report hour; 6-hour report (19:00–00:00) sent via parent.
