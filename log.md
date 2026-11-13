@@ -2822,3 +2822,14 @@
 - New page: none (quality-first; topic fits the Oman expats section).
 - Opportunities: none added this hour.
 - Report: 12:00 report hour; 6-hour report (07:00–12:00) sent via parent.
+
+## 2026-11-13 13:00 (Asia/Riyadh, UTC+3)
+- Improved free-tools.html (weakness: the #security section covered passwords and 2FA for platforms and payment accounts but nothing on Gulf government digital IDs — Nafath, UAE PASS, Kuwait Hawyti — which freelancers use for permits, banks, tax and e-signature, and where the main attack is tricking the user into approving a login request, not stealing a password; the section also had no verification date).
+  - New h3 #gov-id (before #hacked) with #gov-id-table (6 rows): Digital Dubai + TDRA warning 19 Mar 2026 (phishing can appear as login/verification requests inside UAE PASS; cancel requests you did not start; officials never ask for codes; scammers may ask for SIM replacement or facial verification; report via UAE PASS support); MOHAP UAE PASS guide (official app/typed URL, Face ID/fingerprint, update app); Saudi CST (forward fraud SMS to 330330 free; real promotional SMS show sender name with -AD; fraud crimes go to Public Security / Kollona Amn); CST "Inquire about my numbers" on Mutasil; Nafath number-matching mechanism with explicit note that no official Nafath warning page was opened; Kuwait Government Communication Centre advice on Hawyti as reported by Al-Kuwaitia (8 Sep 2026), marked press-reported.
+  - New h4 #gov-id-steps (6 steps), TOC sub-link, cross-links to #contract-uae, #security, #hacked and freelance-permit-saudi.html#verify; new FAQ in HTML and FAQPage JSON-LD (46 entries, in sync); footer review date 13 Nov 2026; sitemap lastmod 2026-11-13.
+  - Sources read 13 Nov 2026: digitaldubai.ae news (fetched directly), mohap.gov.ae guide, cst.gov.sa SMS-fraud and Spam-Reports pages, mutasilind.cst.gov.sa service page (search-index text for the last three and MOHAP).
+- Kuwait decisions 216/217 re-checked: no fee, start date or official text published yet beyond what #decision-216 already says; no change.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the security section).
+- Opportunities: none added this hour.
+- Report: not a report hour.
