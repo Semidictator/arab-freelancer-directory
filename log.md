@@ -2719,3 +2719,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00); `report_due=false`.
+
+## 2026-11-13 04:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200; live announcement already done at 22:00 on 12 Nov (not repeated).
+- Improved travel-booking.html (weakness: no guidance on what a traveller is owed when a flight is delayed or cancelled, or a checked bag is late or lost; not covered anywhere on the site).
+  - New h2 #passenger-rights with #passenger-rights-table and #passenger-rights-steps, based on GACA's Passenger Rights Protection Regulations (English text as published by Saudia, read 13 Nov 2026; gaca.gov.sa/en/passenger-rights linked but timed out during the run). Covers scope (Art. 3: all departures from Saudi airports, inbound national carriers unless compensated under departure-country rules); delay compensation 50 SDR (3–6 h arrival delay) / 150 SDR (>6 h), refund without fees for >2 h delay, >5 h treated as cancellation (Art. 10); cancellation refund plus 50%/75%/150% of the remaining part by notice window, alternative-flight rule, fees included in refund (Art. 12); bag delay 148 SDR day one then 60 SDR/day up to 1288, loss 1288, damage up to 1288 (Art. 15); care (refreshments, meal >3 h, hotel >6 h) and 10/30/100 SDR if not provided (Art. 17); force majeure limits and 3 h/6 h termination right (Art. 20, 28); 15-day refund/compensation deadline via original payment method (Art. 21); carrier complaint first (Art. 22), then GACA 1929 / 1929@gaca.gov.sa / @GACACare; Art. 26 court route for consequential damages. SDR amounts not converted to SAR (rate varies). Note that the rules are Saudi-only.
+  - TOC link added; new FAQ in HTML and FAQPage JSON-LD (15 entries, in sync); dateModified 2026-11-13.
+- Checks: no duplicate ids, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00); `report_due=false`.
