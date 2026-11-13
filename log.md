@@ -2924,3 +2924,13 @@
 - New page: none (quality-first; topic fits the remote-jobs scams section).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-13 22:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-platforms.html (stalest page, last improved 06:00 today; weakness: the page told sellers that Fiverr Ads unlock at Level 1 and that ad spend shows as an "Expense", but never explained how the ads are charged, capped or measured, so a new Level 1 seller could burn pending earnings on clicks).
+  - New h3 #fiverr-ads before #khamsat-levels with #fiverr-ads-table (8 rows) from the official Fiverr Help Center page "Promoting your Gigs with Fiverr Ads" (read 13 Nov 2026): eligibility (Level 1, Level 2, Top Rated, Pro; active gigs; tax consulting, accounting/bookkeeping and legal consulting excluded); setup via Growth & Marketing > Fiverr Ads with a changeable daily limit; first-price auction combining relevance/gig quality and bid; automatic bidding or CPC cap, "No CPC cap" bids up to $6 per click; pay per click only (duplicate clicks counted once, click fraud not charged, Inbox Ads first open not charged); billed monthly from Fiverr balance first, then saved card/PayPal or future earnings, taxes added at month end (regional taxes since April 2025; page lists UAE 5% VAT, other Gulf states not listed); ads paused on overdraft balance; 30-day attribution window; Seller Plus Standard/Premium $5 monthly ad credit, no rollover.
+  - Illustrative break-even example (labelled as ours, not an official average) and new h4 #fiverr-ads-steps (5 steps); TOC sub-link; cross-link to Upwork Boost in #apply-cost; new FAQ in HTML and FAQPage JSON-LD (39 entries, in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added. Sitemap lastmod already 2026-11-13.
+- New page: none (quality-first; topic fits the Fiverr levels section).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
