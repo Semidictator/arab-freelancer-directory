@@ -2954,3 +2954,13 @@
 - New page: none (quality-first; topic fits the UAE permit section).
 - Opportunities: none added this hour.
 - Report: 00:00 report hour; 6-hour report (19:00–00:00) sent via parent.
+
+## 2026-11-14 01:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-oman.html (stalest page, last improved 12:00 on 13 Nov; weakness: no page on the site explained who owns the designs, code or texts a freelancer delivers; free-tools.html#contract only had a one-line "ownership transfers after full payment" checklist item with no legal basis).
+  - New h2 #copyright-om (before #steps) with #copyright-om-table (11 rows) from the amended text of the Copyright and Related Rights Law (Royal Decree 65/2008, amended to RD 132/2008) on Qanoon.om, read 14 Nov 2026 (unofficial compilation; flagged on page): Art. 1 author = natural person who creates the work; Art. 2–3 protected works incl. software, databases, photos, applied art, translations; Art. 4 ideas/methods/data not protected; Art. 8 transfer/licence only by written contract naming right, purpose, duration and place, author keeps all not expressly assigned; Art. 9 lump sum or royalty; Art. 5 moral rights (attribution, integrity) non-transferable, disposal void; Art. 11 software within contract/licence limits; Art. 12 handing over original/copies does not transfer other economic rights; Art. 14 disposal of all future works void; Art. 21–22 joint and collective works; Art. 26 life + 70 years; Art. 34 optional deposit with the Ministry as presumption of ownership (fees and channel not verified); Art. 52 3 months–3 years and/or OMR 2,000–10,000.
+  - Clearly labelled as our reading (no court ruling or official interpretation found for freelance contracts; white-label/attribution waiver not settled; foreign governing law not researched). New h3 #copyright-om-steps (6 steps); TOC entry; cross-link to free-tools.html#contract; new FAQ in HTML and FAQPage JSON-LD (29 entries, in sync); footer review date 14 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Oman legal sections; other Gulf pages can get their own copyright notes in later runs).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
