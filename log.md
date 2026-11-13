@@ -2833,3 +2833,13 @@
 - New page: none (quality-first; topic fits the security section).
 - Opportunities: none added this hour.
 - Report: not a report hour.
+
+## 2026-11-13 14:00 (Asia/Riyadh, UTC+3)
+- Improved freelance-bahrain.html (weakness: the expats section covered only the LMRA registered-worker permit; nothing on Golden Residency, which UAE/Oman pages now address and which expats often confuse with a self-sponsorship work route).
+  - New h3 #expats-golden (after #expats-steps) with #expats-golden-table (7 rows): resident employee route (5 years, average basic salary BHD 2,000, continuous SIO insurance on that amount, basic salary only); property route BHD 130,000 (cut from 200,000 per NPRA 26 Nov 2025); retirees (resident 15 yrs/BHD 2,000, non-resident BHD 4,000); talent/entrepreneur route subject to committee (official FAQ: self-employed may apply via talent committee); fees BHD 5 application + BHD 300 issuance per person, BHD 300 every 10 years, same per dependent, 5 working days for residents, pay within 30 days; health insurance/passport/6-month bank statement; work: official FAQ says LMRA work permit still required, LMRA "work permit for Golden Residency holders" 1–2 years via employer, investor-partner exempt. Note: no official text found allowing freelance services inside Bahrain without a permit; remote-only work for foreign clients not addressed.
+  - New h4 #expats-golden-steps (5 steps), TOC sub-link, cross-links to freelance-oman.html#expats-residency and freelance-uae.html#permit; new FAQ in HTML and FAQPage JSON-LD (30 entries, in sync); footer review date 13 Nov 2026; sitemap lastmod 2026-11-13.
+  - Sources read 13 Nov 2026 (search-index text): npra.gov.bh golden residency service, resident service page and 26 Nov 2025 news; goldenresidency.gov.bh eligibility and FAQs; bahrain.bh LMRA service psID=2750.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Bahrain expats section).
+- Opportunities: none added this hour.
+- Report: not a report hour.
