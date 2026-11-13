@@ -2853,3 +2853,15 @@
 - New page: none (quality-first; topic fits the travel page's visa section).
 - Opportunities: none added this hour.
 - Report: not a report hour.
+
+## 2026-11-13 16:00 (Asia/Riyadh, UTC+3)
+- Live URL check: https://semidictator.github.io/arab-freelancer-directory/ returns 200 (already announced earlier; no announcement due).
+- Improved freelance-permit-saudi.html (stalest page, last improved 20:00 on 12 Nov; weakness: #non-saudi told residents the freelance document is Saudi-only and mentioned Premium Residency only in passing, while the UAE, Oman and Bahrain pages now explain their long-term residency routes; the Saudi page gave no products, fees or work rights).
+  - New h4 #premium-sa (end of #non-saudi, before #employees) with #premium-sa-table (7 products): Limited Duration SAR 100,000 per year (1–5 yrs, renewable, financial capability only); Unlimited SAR 800,000 once; Special Talent (whitelisted employer contract, monthly wage SAR 14,000 researchers / 35,000 health-science / 80,000 executives, points system; 5 yrs renewable once; permanent after 30 months in 5 yrs); Gifted (Culture/Sports ministry recommendation); Entrepreneur (MISA licence, SAR 400,000 round + 20% or SAR 15m + 10% + 10/10 jobs); Investor (SAR 7m share, 10 GOSI employees); Real Estate Owner (SAR 4m residential, unmortgaged, or off-plan with SAR 1m/10%); the five criteria products SAR 4,000 once.
+  - Work rights from the center FAQ: may own a private business under the Investment Law, work at private establishments and change employer at will, family included, Saudi-only professions excluded; general conditions (21+, solvency, clean record, medical report < 6 months, legal residence if inside KSA); fee within 30 days of approval, medical insurance required and lapse can cancel residency; no combining products. Marked unverified: no official processing time found; no text explicitly allows selling services as an individual without investment registration (points to MISA FAQ). No product page says "freelance".
+  - New h4 #premium-sa-steps (7 steps), TOC sub-link, cross-link from the MISA bullet, links to Oman #expats-residency and Bahrain #expats-golden; new FAQ in HTML and FAQPage JSON-LD (31 entries, in sync); sitemap lastmod 2026-11-13.
+  - Sources read 13 Nov 2026 (official English pages via browser): pr.gov.sa product pages pr_product_details_limited_unlimited, _apply_special_talent, _gifted_residency, _investor_residency, _entrepreneur_resident, _real_estate_owner, and pr.gov.sa/pr?id=faqs.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the Saudi page's resident section).
+- Opportunities: none added. Checked Bitwarden (recommended on free-tools): its official blog says it "does not have a monetary referral programme"; bitwarden.com/affiliates returns 404; partner page covers MSP/reseller/technology partners only, so not listed.
+- Report: not a report hour (next at 18:00).
