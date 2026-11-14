@@ -3046,3 +3046,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-14 10:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved remote-jobs.html (stalest page, last improved 21:00 on 13 Nov; weakness: no guidance anywhere on the site about non-compete, confidentiality or exclusivity clauses, although remote workers often move to a competitor or take a second remote job while employed).
+  - New h3 #non-compete (in #pay, before #first-pay) with #non-compete-table (7 rows: when allowed, form, required scope, maximum duration, confidentiality clause, employer claim deadline, second job alongside employment) comparing Saudi Labor Law Art. 83 (official text on hrsd.gov.sa: allowed if the job gives knowledge of clients, written, limited by time/place/type of work, max 2 years from end of relationship; separate confidentiality clause with no stated maximum; employer may sue within one year of discovery) and UAE Decree-Law 33/2021 Art. 10 as summarised on the official u.ae portal (page dated 12 Aug 2026: limited to what protects legitimate interests, time/place/nature of work, max 2 years from contract expiry; full-time = one employer only, part-time = one or more employers). Read 14 Nov 2026. The MOHRE PDF of the law failed to download (TLS error), so UAE cells not covered by u.ae are marked "not reviewed".
+  - Labelled as our reading, not legal advice; Kuwait/Qatar/Bahrain/Oman and foreign-law contractor agreements explicitly not reviewed. New h4 #non-compete-steps (5 steps) linking #eor and free-tools.html#contract-ip; new first item in #first-pay; new FAQ in HTML and FAQPage JSON-LD (38 entries); footer review date 14 Nov 2026; sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
