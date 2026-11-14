@@ -3097,3 +3097,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-14 15:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-uae.html (weakness: #copyright-ae covered copyright in delivered work, but unlike the Saudi page (#trademark-sa added at 14:00) nothing explained UAE trademark registration for a freelancer's own service/product name or client logos).
+  - New h3 #trademark-ae (after #copyright-ae-steps, before #steps) with #trademark-ae-table (7 rows) from the MoET "تسجيل علامة تجارية" service page and MoET trademark-fees announcement (text read 14 Nov 2026 via the search index because moet.gov.ae timed out directly; page tells readers to verify before paying) and Federal Decree-Law 36/2021 (MoET PDF / uaelegislation.gov.ae): target group companies, establishments and individuals; website/app; owners outside the UAE must file via a registered agent with attested, Arabic-translated POA; application AED 750, 45 working days to decision; publication AED 750, bulletin twice monthly, 30-day opposition; late publication fee AED 100/month up to 1,000/year after 30 days; final registration AED 5,000 (7,500 for control/inspection marks), certificate within 30 days of opposition end, late fee AED 1,000/month up to 10,000/year; fees per class even in one application; one-day examination AED 2,250; 50% exemption for National SME Programme members, full for People of Determination; Art. 21 10-year protection from filing, renewal without re-examination; Art. 22 struck off if not renewed; renewal AED 5,750 in final year / 6,500 within 6 months after expiry per the announcement (renewal service page may show a different amount; flagged); Art. 24 cancellation after 5 years non-use.
+  - New h4 #trademark-ae-steps (5 steps) linking #copyright-ae-steps; cross-link to freelance-permit-saudi.html#trademark-sa; TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (35 entries); sitemap lastmod 2026-11-14. Agent/lawyer fees not reviewed.
+- Checks: no duplicate ids, all internal anchors exist, cross-page anchor exists, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
