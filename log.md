@@ -2984,3 +2984,13 @@
 - New page: none (quality-first). Remaining Gulf pages without a copyright note: Qatar, Kuwait (Kuwait Law 75/2019 official PDF could not be downloaded this hour), Bahrain.
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-14 04:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-qatar.html (weakness: no explanation of who owns delivered designs/code/texts under Qatari law; flagged as missing in the 03:00 run).
+  - New h2 #copyright-qa (before #steps) with #copyright-qa-table (14 rows) from Law No. 7 of 2002 on the Protection of Copyright and Neighbouring Rights (Al Meezan status: in force, 58 articles, repealed Law 25/1995), English translation on almeezan.qa LawPage id=2637 read 14 Nov 2026 (portal marks it unofficial; Arabic page linked as reference): Art. 1 author = natural person who created the work; no automatic commissioned-work rule found (contrast UAE Art. 28); Art. 2-4 protected/excluded works; Art. 7 economic rights; Art. 8 written transfer specifying each right, duration, manner, quantity, purpose, place; Art. 9 assignee protection / withdrawal with fair compensation; Art. 10 & 17 moral rights perpetual, inheritable; Art. 11 future works void; Art. 12 original copy is not assignment; Art. 14 portraits need subject's consent; Art. 33-34 joint/collective works; Art. 15 durations; Art. 44-46 optional registration (current authority/fees not verified, flagged); Art. 48 QAR 30k-100k and/or 6-12 months; Art. 50 QAR 30k-50k; Art. 52 confiscation, closure 1 month-3 years, doubled on repeat; Art. 47 civil measures.
+  - Labelled as our reading, no published ruling found, amendments not checked. New h3 #copyright-qa-steps (6 steps); TOC entry; cross-links to free-tools.html#contract, #unpaid, freelance-permit-saudi.html#copyright-sa, freelance-oman.html#copyright-om, freelance-uae.html#copyright-ae; new FAQ in HTML and FAQPage JSON-LD (29 entries); dateModified and footer review date 14 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first). Remaining Gulf pages without a copyright note: Kuwait, Bahrain.
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
