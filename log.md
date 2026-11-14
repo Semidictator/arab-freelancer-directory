@@ -3076,3 +3076,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 12:00 report hour; 6-hour report (07:00-12:00) sent to the user in chat.
+
+## 2026-11-14 13:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (weakness: #passenger-rights covered only the Saudi GACA regulation, although the page targets freelancers travelling to client meetings and already covers Schengen insurance and ETA/EES/ETIAS for Europe trips; nothing told them when EU air passenger rights apply on Gulf-Europe flights). Oman page (stalest) was reviewed first; its remaining gap (Dhamani mandatory health insurance) has no confirmed official phase dates, so it was not added.
+  - New h3 #eu-flight-rights (after #passenger-rights-steps, before #stay) with #eu-flight-rights-table (6 rows) from the official Your Europe "Air passenger rights" page, read 14 Nov 2026: applies to all flights departing the EU (any airline), flights into the EU on EU airlines, intra-EU flights, Iceland/Norway/Switzerland; not if benefits already received under a non-EU country's law; non-EU airline into the EU not covered.
+  - Cancellation compensation EUR 250/400/600 by distance, 50% reduction to 125/200/300 on re-routing within 2/3/4 h; arrival delay 3 h+: 250/400, and for >3,500 km EU/non-EU flights 300 (3-4 h) or 600 (4 h+); departure delay 5 h+ refund; care thresholds 2/3/4 h, hotel when next day, reimbursement of reasonable expenses; extraordinary circumstances examples and non-examples (most technical faults, airline staff strikes). Distance tier for specific Gulf routes not asserted (reader told to check).
+  - New h4 #eu-flight-rights-steps (5 steps: carrier choice, single reservation, ask for written notice/care, one-off choice, claim to airline then national body via Your Europe); note that UK and other Gulf states' rules were not reviewed; TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (21 entries); sitemap lastmod already 2026-11-14.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
