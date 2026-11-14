@@ -3056,3 +3056,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-14 11:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-platforms.html (stalest page, last improved 22:00 on 13 Nov; weakness: nothing on the site told a freelancer what happens to their account, balance and visibility if they stop using a platform for months, although Freelancer.com silently charges a monthly dormant fee).
+  - New h3 #pause-account (after #countries, before #reputation) with #pause-account-table (4 platforms x what happens when inactive / official break tool / before closing or deleting): Freelancer.com maintenance fee up to $14/month after 6 months without login while funds or a linked funding source remain, refundable on request after reactivation, right to close inactive accounts (Fees and Charges, support "What are dormant fees?", User Agreement s.23/34); Fiverr Availability (no new orders, gigs removed from search, auto return, response rate unaffected with contact toggle off, >30 days in 180 may affect ranking), gig paused after 30 days inactivity, deactivation reversible 12 months then auto-deleted, pre-deletion checklist (Help Center articles); Upwork profile set to private after 2 years without earnings or 90 days for new freelancers, logout/login restores, Freelancer Plus prevents it, closure prerequisites, self-reactivation unless inactive >5 years; Khamsat suspended accounts can withdraw cleared earnings from fully delivered sales after ID verification (terms). No inactivity fee found in the Upwork/Fiverr/Khamsat pages reviewed (stated as such, not as a guarantee); Mostaql/Kafiil not reviewed. All read 14 Nov 2026.
+  - New h4 #pause-account-steps (5 steps) linking receive-payments-saudi-gulf.html#platforms, #order-clock, #subscriptions; TOC link; new FAQ in HTML and FAQPage JSON-LD (40 entries); footer review date 14 Nov 2026; sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
