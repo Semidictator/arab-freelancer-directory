@@ -3173,3 +3173,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-14 22:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved index.html (weakness: all six Gulf country pages gained trademark sections on 14 Nov, but the hub had no trademark comparison, no problems-table entry and no FAQ, unlike copyright, TRC, tax, etc.).
+  - New h3 #gulf-trademark (after #gulf-copyright-steps) with #gulf-trademark-table (6 rows: authority, state fees to certificate for one class, opposition window, who files alone vs needs an agent, 10-year renewal fees, link to the detailed section). Figures taken only from the verified country sections: SA 6,500 SAR (per-class unclear), UAE 6,500 AED per class + SME 50% / People of Determination exemptions, Oman OMR 170 fixed, Bahrain 600 BHD official (650 with secondary-source 50 publication), Qatar ~4,500 QAR, Kuwait 310 KWD. Unverified items kept flagged (Oman opposition/non-Omani eligibility, Bahrain publication and late renewal). No currency conversion.
+  - Practical note + h4 #gulf-trademark-steps (4 steps) incl. WIPO Global Brand Database link (https://branddb.wipo.int/, checked 200), link to #gulf-copyright-steps.
+  - New row in the problems table, new FAQ in HTML and FAQPage JSON-LD (50 entries), sitemap lastmod for the home page.
+- Checks: no duplicate ids, all internal anchors exist, all six cross-page #trademark-* anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
