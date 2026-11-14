@@ -3128,3 +3128,14 @@
 - New page: none (quality-first). Qatar/Kuwait trademark sections still missing.
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-14 18:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-qatar.html (weakness: #copyright-qa covered ownership of delivered work, but unlike the Saudi, UAE, Oman and Bahrain pages nothing explained registering a freelancer's own service name/logo as a trademark in Qatar).
+  - New h2 #trademark-qa (after #copyright-qa-steps, before #steps) with #trademark-qa-table (8 rows) from official sources read 14 Nov 2026: MOCI "جدول رسوم خدمات العلامات التجارية" PDF (May 2026): application QAR 1,000, publication 500 (+50 per gazette issue if issued by the authority), registration + certificate 3,000 (≈4,500 per class), opposition 1,000, hearing 500, appeal against refusal 1,000, renewal 3,000 in last year / 4,000 within 6 months after expiry + 500 publication, preliminary search 1,000, temporary protection 1,000; MOCI e-guide (Jun 2026): e-services > investor services > trademark application, attachments ID (individual) / CR (company) / POA (agent) + mark image; Law 7/2014 (GCC Trademark Law, via WIPO Lex) Art. 14: 60-day opposition, 30-day notice, 60-day reply or deemed abandoned; Implementing Regulation (Minister Decision 56/2023, via sjc.gov.qa) Art. 2: applicant must be domiciled in Qatar or file via a registered agent domiciled in Qatar; one class per application, multiple with approval.
+  - 10-year term / 5-year non-use stated as general GCC-law rules with a verify note; actual MOCI examination time and agent fees not verified (flagged on page).
+  - New h3 #trademark-qa-steps (5 steps) linking #copyright-qa-steps; cross-links to #trademark-sa, #trademark-ae, #trademark-om, #trademark-bh; TOC entry; new FAQ in HTML and FAQPage JSON-LD (30 entries); sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal anchors exist, cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first). Kuwait trademark section still missing.
+- Opportunities: none added this hour.
+- Report: 18:00 report hour; 6-hour report (13:00–18:00 runs) sent to the user via the parent.
