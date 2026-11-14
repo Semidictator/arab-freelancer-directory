@@ -3207,3 +3207,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report due (00:00) and sent via parent.
+
+## 2026-11-15 01:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-platforms.html (stalest page, last improved 11:00 on 14 Nov; weakness: the #apply-cost Connects notes were last verified 30 Oct and never mentioned that every Connect expires one year after issue with no email reminder, nor how Boost auctions, Boosted Profile/Messages, the Availability Badge and the optional 35-Connect identity badge are charged or returned).
+  - New h3 #connects-ledger (inside #apply-cost, before #freelancer-bids) with #connects-ledger-table (6 uses x when charged / is it returned), from Upwork Help "About Connects: costs, uses, balances, and expiration" and "Connects charges, returns, refunds, and transaction history" (read 15 Nov 2026; price still $0.15): 1-year expiry with no reminder, unlimited freelancer rollover, top-4 first-price boost auction and refund cases, ad credits count as used, Availability Badge hourly increments, ID badge 35 Connects non-refundable after 7 days; bullets on no Connects for invitations/direct offers, web-only purchase (not mobile app), cash refund only for duplicate purchase reported within 14 days, balance lost on closure/permanent suspension, freelancer vs agency balances (Agency Plus rollover 400/month). Unstated items (refunds for Boosted Profile/Messages) flagged as not stated.
+  - New h4 #connects-ledger-steps (5 monthly steps), TOC link, new FAQ in HTML and FAQPage JSON-LD (41 entries), footer review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
