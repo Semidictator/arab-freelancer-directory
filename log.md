@@ -3025,3 +3025,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-14 08:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved free-tools.html (stalest page, last improved 13:00 on 13 Nov; weakness: the #contract checklist still had only a one-line "ownership transfers after full payment" item, although the six Gulf copyright sections added today show that a valid transfer must be written and, in most countries, name each right, purpose, duration and place).
+  - New h3 #contract-ip with #contract-ip-table (6 rows: what transfers, purpose/duration/place, timing tied to full payment, what the freelancer retains, portfolio rights, third-party licensed elements), each with suggested Arabic clause wording (labelled as our drafting, not an official template or legal advice) and the reason, citing only the already-sourced articles (UAE Art. 9, Oman Art. 8, Kuwait Art. 11, Qatar Art. 8, Saudi Art. 11, Bahrain Art. 8) and linking index.html#gulf-copyright and #gulf-unpaid.
+  - Third-party element row: Google Fonts may be used commercially and in logos per the official Google Fonts FAQ (developers.google.com/fonts/faq, read 14 Nov 2026); Canva elements point to the existing #canva-clients section.
+  - Note on void future-works assignments and non-waivable moral rights (attribution waiver effect flagged as unsettled); new h4 #contract-ip-steps (5 steps); checklist item 6 and TOC link to the new section; new FAQ in HTML and FAQPage JSON-LD (47 entries); footer review date 14 Nov 2026; sitemap lastmod for free-tools.html 2026-11-14.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
