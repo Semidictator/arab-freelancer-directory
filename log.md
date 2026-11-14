@@ -3087,3 +3087,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-14 14:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-permit-saudi.html (weakness: #copyright-sa covered copyright in delivered work, but nothing on any page explained trademark registration, which freelancers need for their own service/product name and which designers face when delivering client logos; no page cited SAIP's trademark service).
+  - New h3 #trademark-sa (after #copyright-sa-steps, before #renew) with #trademark-sa-table (6 rows) from SAIP's official "Trademark Registration" (AR) and "Trademark renewal" (EN) service pages, read 14 Nov 2026: target group individuals and enterprises, online via Nafath/email, unified IP platform eservices.saip.gov.sa for filings since 19/12/2023; application fee SAR 1,000 paid before study; decision accept / accept with 90-day modification (else deemed waived) / refuse; publication SAR 500, 60 days; registration and certificate SAR 5,000, final invoice within 30 days; stated execution time 90 days; renewal for 10 years SAR 5,500 in last year or SAR 6,500 within 6 months after expiry + SAR 1,000 publication; agents must be in the agent registry. Per-class basis not stated on the page (reader told to ask SAIP); lawyer/agent fees not reviewed.
+  - New h4 #trademark-sa-steps (5 steps) linking #copyright-sa-steps; TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (33 entries); sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
