@@ -3217,3 +3217,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-15 02:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved receive-payments-saudi-gulf.html (stalest page, last improved 12:00 on 14 Nov; weakness: the #hsoub table was last verified 31 Oct and its Khamsat column said the hold period and withdrawal minimum were "not published, check your account", and the section had nothing on how withdrawal methods are added and reviewed in Hsoub Accounts).
+  - Rewrote #hsoub with #hsoub-table from Mostaql and Khamsat help centres (read 15 Nov 2026): both now publish the same rules: 14 working days hold starting the day after delivery, excluding weekends/public holidays; PayPal from $25, personal verified account, 48h, no commission, late requests scheduled next day, cancellable while processing; bank transfer from $250, up to 14 working days, platform pays sending fees but local/intermediary banks may deduct; bank withdrawal only for Saudi, Egypt, Morocco, Kuwait, UAE, Bahrain, Jordan, Qatar, Algeria, Tunisia (not Oman); self-topped-up balance via support only. Corrected the old "Khamsat minimum not published" statement.
+  - New h4 #hsoub-accounts from Hsoub help "manage bank accounts" and "PayPal accounts": methods added once in Hsoub Accounts (shared across Khamsat, Mostaql and Picalica as named by Hsoub), KYC required, PayPal linking via Log in with PayPal reviewed in at least 48h, bank fields (English name, IBAN at user's risk, SWIFT, address), review with no published duration; labelled arithmetic cash-flow estimate (about 18+ calendar days hold, up to 14 more working days for bank transfer).
+  - New h4 #hsoub-steps (5 steps, replacing the old 4-item list), TOC sub-link, updated existing Mostaql FAQ (HTML + JSON-LD) and added a new FAQ (FAQPage JSON-LD 36 entries), header review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
