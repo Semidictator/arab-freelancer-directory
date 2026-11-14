@@ -3015,3 +3015,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report (01:00-06:00) sent to the user via parent.
+
+## 2026-11-14 07:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved index.html (stalest hub, last improved 20:00 on 13 Nov; weakness: the six Gulf copyright sections added 01:00-06:00 today had no comparison or entry point on the home page, unlike residency, WHT, TRC, e-invoicing and data-privacy).
+  - New h3 #gulf-copyright (after #gulf-trc-steps) with #gulf-copyright-table (6 rows: law, default owner of commissioned work, transfer formalities, headline penalties, link to each country's #copyright-xx section), built only from the already-sourced country sections: UAE Art. 28(1)/9/39/41 and Bahrain Art. 36/8/65/64(2) default to the client unless written otherwise; Kuwait Art. 27 keeps rights with the author unless written otherwise; Saudi, Qatar and Oman have no automatic transfer rule found (our reading). Practical note on future-works bans and moral rights; new h4 #gulf-copyright-steps (4 steps) linking free-tools.html#contract and #gulf-unpaid.
+  - New row in the problems table pointing to #gulf-copyright; new FAQ in HTML and FAQPage JSON-LD (49 entries); footer review date 14 Nov 2026. Labelled as our reading, not legal advice.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
