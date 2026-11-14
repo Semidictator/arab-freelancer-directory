@@ -3066,3 +3066,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-14 12:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved receive-payments-saudi-gulf.html (stalest page, last improved 23:00 on 13 Nov; weakness: #card-tips said only that a card payment "can be charged back" and that Stripe's fee is not refunded if lost, with no amounts, deadlines or process, although #card-payments recommends Stripe for UAE residents).
+  - New h4 #card-chargeback (inside the card section, before #escrow-milestones) with #card-chargeback-table (9 rows) from Stripe UAE pricing and Stripe docs "How disputes work" / "Respond to disputes", read 14 Nov 2026: cardholders typically have 120 days; Stripe debits amount + dispute fee immediately and no refund outside the dispute while open; response window usually 7-21 days, issuer decision usually 60-75 days; dispute received fee AED60 (non-refundable outside Mexico); countered fee AED60 refunded on win; appeal AED60 non-refundable, no arbitration; Smart Disputes 30% of amount on win; inquiries closable without fee by evidence or full refund, closed after 120 days, partial refund does not stop escalation; Visa/Mastercard compliance disputes +$500 refunded on win.
+  - Illustrative example labelled as ours ($1,000 dispute: accept = $1,000 + AED60; win = AED60; lose after countering = $1,000 + AED120; Smart Disputes win = $300 + AED60), processing-fee fate explicitly not verified; Payoneer/PayPal card chargeback fees marked not reviewed. New h4 #card-chargeback-steps (5 steps) linking free-tools.html#contract, #escrow-milestones, #payment-scams-steps; #card-tips bullet now links to the new section; TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (35 entries); intro and footer review date 14 Nov 2026; sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 12:00 report hour; 6-hour report (07:00-12:00) sent to the user in chat.
