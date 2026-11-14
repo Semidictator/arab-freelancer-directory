@@ -3036,3 +3036,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-14 09:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (stalest page, last improved 18:00 on 13 Nov; weakness: #contract told freelancers to have the client reimburse travel but said nothing on whether a VAT-registered freelancer must add VAT to a reimbursed ticket/hotel, a common invoicing mistake).
+  - New h3 #travel-vat (inside #contract, before #visa-note) with #travel-vat-table (5 rows: invoice name, recipient/liability, amount without markup, VAT on the recovery, input-tax recovery) comparing disbursement (booking in the client's name, paying on their behalf) vs own-name recharge. Sources read 14 Nov 2026: ZATCA Guideline for Agents under VAT Provisions, 2nd version May 2026 (sections 8.1 disbursement criteria and recommended tax invoice marking it out of VAT, 8.2 compensation taxable incl. Example 13 at 15% even at cost, 10.1.1 no input-tax deduction for agent acting in principal's name) and UAE FTA Public Clarification VATP013 (disbursement out of scope with invoice in the other party's name, authorization, exact amount, separately shown; reimbursement follows the main supply). Both PDFs downloaded and read directly.
+  - Labelled as our reading, not tax advice; export-of-services treatment, other Gulf countries and passenger-named tickets explicitly not reviewed. New h4 #travel-vat-steps (5 steps) linking #contract, #invoice, freelance-permit-saudi.html#vat and freelance-uae.html#vat; TOC sub-links; new FAQ in HTML and FAQPage JSON-LD (20 entries); WebPage dateModified 2026-11-14; footer review date 14 Nov 2026; sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
