@@ -3139,3 +3139,15 @@
 - New page: none (quality-first). Kuwait trademark section still missing.
 - Opportunities: none added this hour.
 - Report: 18:00 report hour; 6-hour report (13:00–18:00 runs) sent to the user via the parent.
+
+## 2026-11-14 19:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-kuwait.html (weakness: Kuwait was the only Gulf country page without a trademark section; Saudi, UAE, Oman, Bahrain and Qatar pages already had one).
+  - New h2 #trademark-kw (after #copyright-kw-steps, before #steps) with #trademark-kw-table (7 rows) from official MOCI Kuwait service cards (moci.gov.kw/ar/es/c_service/detail/ 65452 filing KWD 45, documents civil ID + mark image, Hawyti app, foreign applicant needs local agent; 65451 publication KWD 25 within 30 days of acceptance notice; 65443 registration + certificate KWD 240 after 60 days from publication with no opposition, within 30 days of end of publication; 65457 opposition KWD 95, 60-day publication window, 30-day reply, 30-day decision; 65444 renewal KWD 265; 65459 renewal within 6 months after expiry KWD 310; 65460 renewal publication KWD 45). Total 310 KWD per class. 10-year protection from e.gov.kw (which still shows outdated 5/7 and 7/10/7 KWD fees; flagged on page).
+  - moci.gov.kw did not respond to our box or fetcher, so card text was read via the search index (flagged on page). One-class-per-application, non-Madrid membership, local law/regulation numbers, exam duration and search fee not asserted (flagged as unverified / secondary sources only). Agent fees not reviewed.
+  - New h3 #trademark-kw-steps (5 steps), cross-links to all five other Gulf trademark sections, TOC entry, new FAQ in HTML and FAQPage JSON-LD (32 entries), Article dateModified, sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, cross-page anchors exist. No referral link added.
+- All six Gulf country pages now have a trademark registration section.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
