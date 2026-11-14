@@ -3004,3 +3004,14 @@
 - New page: none (quality-first). Remaining Gulf page without a copyright note: Kuwait (Law 75/2019).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-14 06:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-kuwait.html (weakness: last Gulf page with no explanation of who owns delivered designs/code/texts; flagged in the 01:00-05:00 runs).
+  - New h2 #copyright-kw (before #steps) with #copyright-kw-table (13 rows) from Law No. 75 of 2019 on Copyright and Related Rights, Arabic Official Gazette text (Kuwait Al-Youm issue 1455, 28 Jul 2019) via WIPO Lex 19908, read 14 Nov 2026; key articles checked visually on the gazette pages (an unofficial English translation was used only to locate articles): Art. 3 protection on creation without formalities; Art. 4 ideas/methods/data excluded; Art. 27 work created for another person belongs to the creating author unless agreed otherwise in writing (like Qatar/Saudi/Oman, unlike UAE/Bahrain), employee works to employer when job-related or using employer resources; Art. 11 written disposition specifying each right, extent, purpose, duration, place; Art. 9 economic rights; Art. 6 moral rights non-waivable; Art. 13 original copy is not transfer; Art. 12 software licences bind users; Art. 15 future works void; Art. 29 portraits need consent; Art. 23 life + 50 years; Art. 38 optional deposit at the National Library (fees not verified, flagged); Art. 43 prison 6 months-2 years and/or KWD 500-50,000; Art. 44(6) unlicensed storing/loading of software KWD 1,000-100,000; Art. 45 confiscation and closure up to 6 months; Art. 46 max raised by half on repeat within 5 years.
+  - Labelled as our reading, no published ruling found, later amendments/executive regulations not checked. New h3 #copyright-kw-steps (6 steps); TOC entry; cross-links to free-tools.html#contract, #unpaid and the UAE/Bahrain/Saudi/Oman/Qatar copyright sections; new FAQ in HTML and FAQPage JSON-LD (31 entries); Article dateModified 2026-11-14 and footer review date 14 Nov 2026.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses. No referral link added.
+- Copyright coverage now complete on all six Gulf pages.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report (01:00-06:00) sent to the user via parent.
