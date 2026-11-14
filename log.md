@@ -3184,3 +3184,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-14 23:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved free-tools.html (stalest page, last improved 08:00 today; weakness: no guidance anywhere on the site on everyday PDF tasks freelancers do weekly: merging quotes with annexes, compressing portfolios, converting, extracting Arabic text from scanned images, or the privacy risk of uploading client files to online converters).
+  - New h3 #pdf-tools (inside #files, before #email) with #pdf-tools-table (4 rows): iLovePDF Basic free per-task limits from the official pricing page (merge 25 files/100 MB, compress 2 files/200 MB, Word<->PDF 1 file/15 MB, OCR 1 file/15 MB, protect 2 files, redact 1 file, sign 3 files/50 MB; no daily number published) and FAQ (files kept max 2 hours then deleted); Google Drive "Open with Google Docs" OCR (PDF/JPEG/PNG/GIF, ≤2 MB, text ≥10 px, Arabic (Modern Standard) supported, tables/columns/lists usually not detected); Mac Preview combine PDFs locally (auto-save warning, File > Duplicate); Smallpdf free plan "limited downloads" with no number published, retention not reviewed (flagged).
+  - Notes on not uploading confidential client files to public converters (links to #ai-privacy and remote-jobs.html#non-compete) and on black-box highlighting not being real redaction.
+  - New h3 #pdf-tools-steps (5 steps), TOC entry, new FAQ in HTML and FAQPage JSON-LD (48 entries). Sitemap lastmod already 2026-11-14.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no official iLovePDF affiliate page found; /affiliates returned 404).
+- Report: not a report hour (next at 00:00).
