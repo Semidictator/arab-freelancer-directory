@@ -3151,3 +3151,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-14 20:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (weakness: the #esim section was text-only, with no comparison of connectivity options and no practical setup steps, and did not address keeping the home line for bank SMS verification codes while abroad).
+  - New h3 #esim-options with #esim-table (3 rows: roaming with current carrier / local-carrier eSIM / worldwide data-only eSIM) from Apple Support 118227 "Use eSIM while traveling internationally" (published 22 Oct 2026): roaming with eSIM works like physical SIM, local plans may include a local number and may require passport; postpaid may need local residency/bank/credit card; data-only plans vary by data, duration, countries. No prices stated.
+  - New h3 #esim-steps (5 steps): carrier-lock check (Settings > General > About, "No SIM Restrictions"; iPhone XS/XR or later), install on Wi-Fi, Pixel path Network & internet > SIMs > Add SIM > Set up an eSIM (support.google.com/pixelphone 16115470), Pixel 3a+ physical+eSIM, Pixel 7+ two eSIMs (9449293), activate on arrival (16115741), choose data line, iOS 26 Turn On Travel eSIM prompt, keep home line on for SMS OTP (Apple notes possible roaming fees on home line), return-home steps.
+  - TOC sub-links, new FAQ in HTML and FAQPage JSON-LD (22 entries). No eSIM vendor named, no referral link.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
