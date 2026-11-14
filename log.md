@@ -3107,3 +3107,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-14 16:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-oman.html (weakness: #copyright-om covered ownership of delivered work, but unlike the Saudi (#trademark-sa) and UAE (#trademark-ae) pages nothing explained registering a freelancer's own service name/logo as a trademark in Oman).
+  - New h2 #trademark-om (after #copyright-om-steps, before #steps) with #trademark-om-table (6 rows) from the official gov.om service pages of the Ministry of Commerce, Industry and Investment Promotion, read 14 Nov 2026 (both updated 2 Jul 2026): "Apply for a trademark" — one class per application, OMR 170 fixed fee covering application, publication and registration, documents = mark image + legal power of attorney, stages submit/review/publish/register, stated duration 100 days, condition new/distinctive/not against public order/no country names; "Renew trademark (single class)" — after 10 years from filing date, in last year of protection and no later than 6 months after expiry, OMR 200 renewal + OMR 50 Official Gazette publication, 10 days. Late-renewal fine amount, search fee, opposition fee/procedure, and non-Omani eligibility not asserted (flagged as unverified; reader told to ask the ministry). Agent fees not reviewed.
+  - New h3 #trademark-om-steps (5 steps) linking #copyright-om-steps; TOC entry; new FAQ in HTML and FAQPage JSON-LD (30 entries); sitemap lastmod 2026-11-14.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
