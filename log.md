@@ -3162,3 +3162,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-14 21:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (weakness: no guidance on carrying work equipment on flights, although power bank rules tightened in 2025–2026 and the page targets freelancers travelling with laptops).
+  - New h2 #carry-on-tech with #carry-on-tech-table (3 rows): GACA circular to all airlines at Saudi airports (SPA, 22 May 2026: max two power banks per person, cabin baggage only, no recharging on board, use for charging devices discouraged; no Wh limit stated in the news item, refers to ICAO Doc 9284 updates); Emirates media centre (from 1 Oct 2025: one power bank under 100 Wh, capacity rating required, no use or charging on board, seat pocket/under seat, not overhead, not in checked bags); Qatar Airways restricted-goods page + Qatar CAA circular PDF (Jun 2026: max two, ≤100 Wh each, >100 Wh no longer allowed, no power bank charging in any phase, may charge personal devices in non-critical phases if kept in view, terminals protected).
+  - Wh formula from Qatar Airways page with a worked arithmetic example (20,000 mAh × 3.7 V = 74 Wh); laptop battery ≤100 Wh in equipment allowed in cabin/checked (Qatar table, up to 15 devices, fully off if checked), advice to keep laptop in cabin with link to #passenger-rights. Etihad and flydubai official pages not verified (flagged on page).
+  - New h3 #carry-on-tech-steps (5 steps), TOC entry, new FAQ in HTML and FAQPage JSON-LD (23 entries).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
