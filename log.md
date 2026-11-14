@@ -2994,3 +2994,13 @@
 - New page: none (quality-first). Remaining Gulf pages without a copyright note: Kuwait, Bahrain.
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-14 05:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-bahrain.html (weakness: no explanation of who owns delivered designs/code/texts under Bahraini law; flagged as missing in the 03:00 and 04:00 runs).
+  - New h2 #copyright-bh (before #steps) with #copyright-bh-table (13 rows) from Law No. 22 of 2006 on the Protection of Copyright and Neighbouring Rights (Arabic text on legalaffairs.gov.bh K2206, amended by Law 12/2008 and Law 5/2014 K0514; English on WIPO Lex 19867), read 14 Nov 2026: Art. 1 author = natural person; Art. 2 protection on creation without formalities; Art. 31 name presumption; Art. 36 economic rights of commissioned/contract work belong to employer/commissioning party unless agreed otherwise in writing (like UAE Art. 28, unlike Qatar/Saudi/Oman); Art. 8-9 written transfer or licence; Art. 6 economic rights; Art. 5 moral rights inalienable; Art. 10 original copy is not assignment; Art. 12 future works void (subject to Art. 36); Art. 32-33 joint/collective works; Art. 37/39/41 70-year terms; Art. 13 optional register (current authority/fees not verified, flagged); Art. 64(2) as amended 2014 statutory damages BD 500-9,000 per infringement, min BD 150 in good faith; Art. 65 prison 3 months-1 year and/or BD 500-4,000, doubled on repeat with closure 15 days-6 months.
+  - Labelled as our reading, no published ruling found. New h3 #copyright-bh-steps (6 steps); TOC entry; cross-links to #unpaid, free-tools.html#contract and the UAE/Qatar/Saudi/Oman copyright sections; new FAQ in HTML and FAQPage JSON-LD (31 entries); footer review date 14 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first). Remaining Gulf page without a copyright note: Kuwait (Law 75/2019).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
