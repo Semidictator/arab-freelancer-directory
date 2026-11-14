@@ -3195,3 +3195,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no official iLovePDF affiliate page found; /affiliates returned 404).
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-15 00:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved remote-jobs.html (stalest page, last improved 10:00 on 14 Nov; weakness: the site only mentioned background checks as a scam signal, with no guidance on legitimate post-offer background checks that foreign employers run on Gulf candidates).
+  - New h3 #background-check (between #salary and #scams) with #background-check-table (6 components from Checkr's international background checks page: country criminal record, global watchlists incl. OFAC/Interpol, education verification, last 3 employers, ID document verification, adverse media; what to prepare for each), consent requirement, Checkr International Candidate Portal link.
+  - US FCRA rights summary from EEOC and FTC employer guide (written permission, copy of report + summary of rights before adverse action, dispute, extra free report within 60 days), with a note that applicability to Gulf-resident candidates is unverified.
+  - UAE clearance certificate example: MOI service card (UAE PASS, Arabic/English only, 30-day validity, MOFA attestation for use abroad, non-refundable) and Dubai Police (AED 100 citizen / 200 resident / 300 or $88 from abroad + AED 20, 3-month validity). Saudi and other Gulf issuers not reviewed (stated).
+  - New h4 #background-check-steps (5 steps), TOC entry, new FAQ in HTML and FAQPage JSON-LD (39 entries), sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report due (00:00) and sent via parent.
