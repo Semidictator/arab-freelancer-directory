@@ -3320,3 +3320,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-15 12:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (weakness: business-trip entry rules covered only the UK/Schengen and the US; nothing on China, a common destination for Gulf freelancers and e-commerce sellers visiting trade fairs and suppliers).
+  - New h3 #china-business-trip with #china-business-trip-table: unilateral visa exemption for Saudi, Kuwaiti, Bahraini and Omani ordinary passports, 9 Jun 2025 to 31 Dec 2026, business/tourism/family/exchange/transit, ≤30 days (Chinese Visa Application Service Center Riyadh notice 24 Aug 2026; MFA spokesperson remarks via the Chinese embassy in Bahrain 4 Nov 2025); UAE mutual exemption effective 16 Jan 2018, ≤30 days, work/settlement/journalism need visa (MFA consular department notice 26 Dec 2017); Qatar mutual exemption flagged unverified (visa-centre FAQ seen only in search, page returned 404); 240-hour transit for 57 countries incl. UAE and Qatar, 65 ports in 24 provinces, third-country onward ticket required (NIA policy page and Announcement No. 4 of 2026, 20 Aug 2026); work/study/journalism need prior visa. Note that passport-validity/arrival-document rules were not stated (no unified official text found).
+  - New h4 #china-business-trip-steps (5 steps), TOC entries, new FAQ (FAQPage JSON-LD 25 entries). Footer review date and sitemap lastmod already 15 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 12:00 report hour; 6-hour report (07:00-12:00) sent to the user.
