@@ -3352,3 +3352,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-15 15:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved remote-jobs.html (stalest page, last improved 00:00 on 15 Nov; weakness: the 15-site comparison lacked Working Nomads, a long-running remote job aggregator whose paid Premium auto-renews with no refunds and whose name is being used in WhatsApp/Telegram task scams).
+  - New h3 #workingnomads (after #himalayas): browse/apply without an account (FAQ), aggregator that sends you to employer sites, Premium USD 17.95/month, 39.95/quarter, 79.95/year paid in advance via PayPal/card (premium-subscription page), Terms 5.1 auto-renewal, 5.5 no refunds, 10.1 cancel before renewal in account settings; no free trial found; location index has Saudi, UAE, Bahrain, Egypt, Middle East and Anywhere pages (no Qatar/Kuwait/Oman pages found); location restriction shown in each listing's left panel; official scam alert (WhatsApp/Telegram task scam, 20-30% commission, negative balance deposits, fake domains, never asks candidates for payment); report link/email. Marketing figures (50k jobs, 8k companies) flagged as unverified.
+  - New h4 #workingnomads-steps (5 steps), TOC entry, comparison table row (now 16 sites), new FAQ in HTML and FAQPage JSON-LD (40 entries), footer review date 15 Nov 2026 (sitemap lastmod already 2026-11-15).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance unchanged. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour (no official Working Nomads affiliate programme found).
+- Report: not a report hour (next at 18:00).
