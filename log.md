@@ -3278,3 +3278,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-15 08:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-kuwait.html (weakness: Bahrain, Qatar and Oman now cover selling to government; Kuwait said nothing about CAPT registration, SME price preference or the 2026 amendment of the Public Tenders Law).
+  - New h2 #gov-tenders-kw with #gov-tenders-kw-table: registration required (Art. 31); local supplier/service-provider documents (from local guides quoting CAPT pages; CAPT site behind a bot challenge); KD 100 registration fee incl. one signature, 1 week to 10 days; e-archive service KD 250 (Ministerial Decision 113/2017, whether mandatory flagged unverified); freelance-licence (Decision 216) eligibility for CAPT registration flagged unverified; pre-amendment SME preference 20% with 4 conditions (National Fund certificate, audited statements, workforce 50/150, CR covering activity; asset/revenue limits) from Times Kuwait 13 Oct 2025, flagged as press; Decree-Law 94/2026 (published 27 Sep 2026, effective ~27 Dec 2026, summarised from Wefaq law firm since the CAPT PDF text could not be extracted): Art. 62 bis mandatory award to SME within 10%, not combinable with Art. 62, fourth-category access, tender-document fee exemption removed, applies to earlier tenders too; contracting outside CAPT up to KD 1m (was 75k); agent ban; 30%/10% subcontracting; bid bond 1-5% (Art. 45, exec. regulation Art. 30), final bond (Art. 65), subcontracting (Art. 71), complaint 7 days / grievance 7 working days, 30-day decision.
+  - New h3 #gov-tenders-kw-steps (5 steps), cross-links to Bahrain/Qatar/Oman tender sections, TOC entry, new FAQ (FAQPage JSON-LD 33 entries), dateModified and footer review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul/h2/h3/p/tr/td balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
