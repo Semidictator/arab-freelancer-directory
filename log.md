@@ -3258,3 +3258,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-15 06:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-bahrain.html (least recently improved country page with Oman, last touched 17:00 on 14 Nov; weakness: Oman had #gov-contracts but the Bahrain page said nothing about selling services to government entities, the SME classification certificate or Tender Board SME preferences).
+  - New h2 #gov-tenders-bh with #gov-tenders-bh-table (Tender Board Contractors & Suppliers Guide PDF and Supplier FAQ, read 15 Nov 2026): eTendering registration steps, "active without licence" CR rejected, separate registration per branch CR; Sijili acceptance flagged unverified (ask helpdesk); MOIC SME Classification Certificate via eKey, response within 3 working days, no fees (MOIC pages read via search index, flagged); 10% price preference under Cabinet Decisions (6-2416)/2017 and (4-2516)/2019 except special-nature tenders, with the guide's worked example and a note on the "service facilities" wording ambiguity; SME-allocated tenders and MOIC's 20% procurement allocation; per-tender costs (non-refundable document fee, initial bond original to TB offices, performance bond; example tender June 2026: BD 15 fee, BD 500 bond); bid documents incl. Bahrainisation certificate (how a one-person establishment obtains it flagged unknown).
+  - New h3 #gov-tenders-bh-steps (5 steps), comparison link to freelance-oman.html#gov-contracts, TOC entry, new FAQ (FAQPage JSON-LD 33 entries), footer review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul/h2/h3/p/tr/td balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report (01:00-06:00) sent to the user via parent.
