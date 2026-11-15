@@ -3288,3 +3288,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-15 09:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-permit-saudi.html (weakness: Oman, Bahrain, Qatar and Kuwait now cover selling to government; the Saudi page said nothing about Etimad, the supplier subscription, guarantees or SME preferences).
+  - New h2 #gov-tenders-sa with #gov-tenders-sa-table: account opening via Nafath and the "supplier without commercial register" path for licensed-profession/foreign establishments (Etimad FAQ read via search index; site behind a bot challenge); freelance-permit eligibility as a supplier flagged unverified (only commercial guides claim it); annual subscription SAR 1,500.00 read from the confirmation-dialog screenshot in the official user guide "استعراض المنافسات المطروحة" v2 May 2025 (VAT unclear, flagged); current Government Tenders and Procurement Law (M/128, read in the MOH-hosted copy of the law + implementing regulation because BOE timed out): direct purchase ≤ SAR 100,000 with SME invitation priority (Art. 32/3), limited competition ≤ SAR 500,000 with ≥5 invitees and SME priority, bid bond 1-2% (Art. 41) not required for direct purchase or local SMEs, SME withdrawal fine equal to the bid bond (Art. 61/2), final bond 5% within 15 working days, not required ≤ SAR 100,000 (Art. 61); Preference Regulation Art. 4/2: 10% SME price preference in non-high-value contracts except supply contracts, local SME = Monshaat-classified with ≥50% Saudi ownership; new replacement law (Royal Decree M/76, Cabinet Decision 199 of 4 Aug 2026, published 4 Sep 2026, effective after 120 days, early Jan 2027 per law firms); Finance Minister statement via SPA/Al-Jazirah 6 Aug 2026: higher direct-purchase ceiling, limited competition to include freelance practitioners; SAR 1m ceiling flagged as law-firm reading; new executive regulation not final.
+  - New h3 #gov-tenders-sa-steps (5 steps), cross-links to Oman/Bahrain/Qatar/Kuwait tender sections, TOC entry, new FAQ (FAQPage JSON-LD 35 entries). Footer review date and sitemap lastmod already 15 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, cross-page anchors verified, JSON-LD parses, table/div/ol/ul/h2/h3/p/tr/td/li balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
