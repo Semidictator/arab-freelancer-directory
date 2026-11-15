@@ -3341,3 +3341,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-15 14:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved free-tools.html (stalest page, last improved 23:00 on 14 Nov; weakness: translation is one of the largest Arab freelance categories, yet the site had no guidance on CAT tools (OmegaT, Matecat) and nothing on where client files go when uploaded to an online CAT tool).
+  - New h3 #cat-tools with #cat-tools-table (OmegaT vs Matecat: price/licence, where it runs, file formats, Arabic/RTL, where client texts go, who it suits). Sources: omegat.org (GPL 3.0, Windows/macOS/Linux, Java 11+, "With JRE" build, RTL support, TMX), OmegaT manual appendix on bidi control characters; Matecat guides (free, no subscription or usage limits, browser-based, 30 offline segments, 77 formats, PDF/JPEG returned as DOCX, scanned files need OCR, Lara supports Arabic, default MT ModernMT Lite), Matecat Security and Privacy Policy (originals and all translations, public or private, stored long-term and used for internal statistics; segments not marked private with a TM key are Public Data shown to other users; job link gives access to original and translated files), Public/Private TM key guide.
+  - Note: Arabic MT quality not tested, paid tools (Trados/memoQ) not compared; Smartcat pricing page is business-oriented, first listed plan from USD 1,200/year with trial, no permanent individual free plan found, so not listed.
+  - New h4 #cat-tools-steps (5 steps, links to #backup and #contract); TOC entry; new FAQ in HTML and FAQPage JSON-LD (49 entries); footer review date 15 Nov 2026; sitemap lastmod for free-tools.html 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
