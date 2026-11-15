@@ -3309,3 +3309,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-15 11:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved index.html (stalest hub, last improved 22:00 on 14 Nov; weakness: all six Gulf country pages now have government-tender/contract sections (UAE, Saudi, Qatar, Kuwait, Bahrain added 06:00-10:00 today; Oman #gov-contracts earlier) but the hub had no comparison or entry point for them).
+  - New h2 #gulf-gov-tenders with #gulf-gov-tenders-table (6 rows: portal and who registers, registration fees, SME advantages, bonds/notes, link to each detailed section), summarising only facts already sourced on the country pages (Etimad SAR 1,500 subscription, 10% SME preference, bond rules, law M/76; UAE federal DPP "Freelancer" type no fee/30 working days, eSupply paid fee unpublished, Dubai bonds ≤2%/10%; Monaqasat classification QR 200/activity, micro privileges; CAPT KD 100 + KD 250 archive, 20% → 10% after Decree-Law 94/2026; Bahrain eTendering, free SME certificate, 10% preference, example BD 15/500; Oman circular 1/2026 ≤ OMR 5,000 for non-employed Omani freelancers). Unverified items kept flagged (freelance licence acceptance in SA/AE/QA/KW/BH).
+  - Note on citizen-only SME benefits and upcoming Kuwait/Saudi law changes; new h3 #gulf-gov-tenders-steps (4 steps) linking #gulf-license and #gulf-bank.
+  - New row in #problems table, new FAQ details + FAQPage JSON-LD (51 entries). Footer review date 15 Nov 2026; sitemap lastmod for index 2026-11-15.
+- Checks: no duplicate ids, all internal and cross-page anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
