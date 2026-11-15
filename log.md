@@ -3330,3 +3330,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 12:00 report hour; 6-hour report (07:00-12:00) sent to the user.
+
+## 2026-11-15 13:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-oman.html (stalest page, last improved 16:00 on 14 Nov; weakness: unlike the other five country pages it had no section on general government tenders, only the 1/2026 freelancer circular, and its only Esnad link pointed to www.tenderboard.gov.om, which no longer responds).
+  - New h3 #gov-tenders-om with #gov-tenders-om-table: Esnad user registration open to local/foreign companies and "أصحاب الأعمال الحرة" (PTLC service page), documents by category (4th grade: chamber membership certificate only), 15 days from review, fees by grade (3rd/4th OMR 5 + 50/yr up to 250 for 5 yrs; 2nd 10 + 75; 1st 10 + 150; Excellent 10 + 200; OMR 5 per extra sub-field), 50% SME discount via profile option and Riyada link issues (PTLC FAQ), tender visibility rules by field/grade/type; Tender Law RD 36/2008 Arts. 36 (10% SME national-product preference), 43 (≥1% bid bond), 44-46 (5% performance bond within 10 working days, cancellation, exemption). Bid-bond exemption circulars 1/2023 & 1/2024 and SME document-price decision 62/2025 flagged unverified (official PDFs are scans we could not read). Freelance-licence eligibility for Esnad flagged as unconfirmed.
+  - New h4 #gov-tenders-om-steps (5 steps); dead tenderboard.gov.om link replaced with etendering.tenderboard.gov.om + link to new section; TOC entries; new FAQ (FAQPage JSON-LD 31 entries); footer review date 15 Nov 2026; sitemap lastmod 2026-11-15.
+  - index.html #gulf-gov-tenders Oman row: added Esnad fee/discount/performance-bond summary and link to the new section.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance unchanged. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
