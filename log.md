@@ -3238,3 +3238,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-15 04:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-uae.html (stalest page, last improved 15:00 on 14 Nov; weakness: #green covered only the green residence with its AED 360,000 income test, with no long-residence option for creators/content makers below that threshold; the golden visa was not covered at all).
+  - New h3 #golden-creators with #golden-creators-table: u.ae golden visa page (updated 28 Jul 2026, read 15 Nov 2026: 5 or 10 years, no sponsor, >6 months abroad allowed, family sponsorship, "creatives in culture & arts" under exceptional talents 10 years); Creators HQ route (four published criteria, no published follower/income minimum, review 4-10 weeks, nomination email, Smart Salem medical, Services 1 printing, ICP Emirates ID, existing visa must be cancelled by current sponsor, dependents first); Dubai Culture "Creative and Talented Accreditation" (writers/poets/artists/calligraphers/actors; passport copy, residence + EID if resident, cultural CV, creative portfolio; PDF max 4 MB; form asks counts of participations, awards, certificates, works, memberships, dissemination; no published duration). Fees flagged as not verified from an official source. Note that the golden visa is residence, not a work licence (links to #permit, #emirate-licences, #advertiser-permit).
+  - New h4 #golden-creators-steps (5 steps), TOC sub-link, new FAQ (FAQPage JSON-LD 36 entries), footer review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
