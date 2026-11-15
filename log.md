@@ -3298,3 +3298,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-15 10:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-uae.html (weakness: it was the only Gulf country page with nothing on selling to government; Saudi, Oman, Bahrain, Qatar and Kuwait all have tender sections).
+  - New h2 #gov-tenders-ae with #gov-tenders-ae-table: federal Digital Procurement Platform (MoF service page read 15 Nov 2026: "Freelancer" supplier type for holders of a freelancer licence, documents licence + passport, UAE PASS login, 30 working days, "No Fees"; MoHRE freelance permit acceptance flagged unverified); SME benefits on the DPP (10% bonus to final score, ≥3 SMEs in limited tenders, catalogue section, performance-bond exemption replaced by retention) and MoF FAQ (Cabinet Resolution 4/2019: registration-fee exemption first two years, 10% price preference; 10% of procurement value to SMEs), National SME Programme membership free but 100% Emirati-owned; Dubai eSupply (40+ entities, trade licence number, per-entity pre-qualification, "paid portal" per 2018 Dubai Customs guide with no amount, flagged); Dubai Law 12/2020 bid bond ≤2% (Art. 31) and performance bond 10% (Art. 40) read on dlp.dubai.gov.ae; Dubai SME member preferences (fee exemption, 10% purchases, 5% price priority) flagged as from a news report on the amending law; Abu Dhabi ADGPG self-registration for AD-DED licence holders, "Request from Entity" form for others, documents from the official guideline; fees unpublished; Abu Dhabi freelancer licence treatment flagged unverified.
+  - New h3 #gov-tenders-ae-steps (5 steps), note with cross-links to the other five Gulf tender sections, TOC entry, new FAQ (FAQPage JSON-LD 37 entries). Footer review date and sitemap lastmod already 15 Nov 2026.
+- freelance-permit-saudi.html: added the UAE link to the Gulf tenders comparison line.
+- Checks: no duplicate ids, all internal anchors exist, cross-page anchors verified, JSON-LD parses, table/div/ol/ul/h2/h3/p/tr/td/li balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
