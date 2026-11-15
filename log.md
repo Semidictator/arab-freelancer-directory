@@ -3268,3 +3268,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report (01:00-06:00) sent to the user via parent.
+
+## 2026-11-15 07:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-qatar.html (least recently improved country page, last touched 14 Nov; weakness: Oman and Bahrain now cover selling to government, Qatar said nothing about Monaqasat, classification or the SME tender privileges).
+  - New h2 #gov-tenders-qa with #gov-tenders-qa-table (Monaqasat official pages SMEs, Create Company Profile, Supplier & Service Provider Classification, Modify Company Profile, read 15 Nov 2026 via search index because the site timed out; Law 24/2015 from the SJC legal encyclopedia; QNA 9 Aug 2022): classification required; company profile free (CR, licence, establishment card, audited budget); classification QR 200 per activity (first project contract, audited budget); micro/small/medium definitions (MoCI Decision 250/2018); Cabinet Decision 11/2022 privileges (micro exempt from temporary/final bonds <QR 1m, MSMEs exempt from tender document price <QR 1m, micro/small half classification fee, tenders <QR 5m may be restricted to MSMEs); Art. 14 QDB-backed bond exemption; 60/20/90 working-day deadlines; Ministerial Decision 22/2025 fees noted without amounts (not read). Home-licence eligibility flagged unverified; half-fee QR 100 flagged as our calculation.
+  - New h3 #gov-tenders-qa-steps (5 steps), cross-links to Oman #gov-contracts and Bahrain #gov-tenders-bh, TOC entry, new FAQ (FAQPage JSON-LD 31 entries), dateModified and footer review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul/h2/h3/p/tr/td balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
