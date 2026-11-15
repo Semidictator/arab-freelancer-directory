@@ -3248,3 +3248,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-15 05:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (smallest page, last improved 21:00 on 14 Nov; weakness: #visa-note/#entry-auth covered only UK ETA and EU EES/ETIAS, nothing for a business trip to a US client).
+  - New h3 #us-business-trip with #us-business-trip-table: Qatar is the only Gulf VWP country (DHS list, travel began 21 Nov 2024); ESTA fee $40.62 (esta.cbp.dhs.gov), $10.62 if denied, up from $40.27 on 16 Oct 2026 (CBP Customs Bulletin 14 Oct 2026); ESTA requirements (selfie, e-passport, onward ticket for Qatari travellers per CBP Qatar VWP sheet), 90 days per visit, 2-year validity (US Embassy Singapore); third-party site warning (US Embassy London); B-1/B-2 for other Gulf nationals, $185 fee flagged as from secondary guides (state.gov fee page could not be fetched); $250 visa integrity fee: law of 4 Jul 2025, collection not officially started per press trackers (flagged unverified); permitted B-1 activities and "not permitted to accept employment or work" (state.gov visitor page, USCIS B-1 page); remote work for non-US clients during a visit explicitly flagged as not settled by any official text found; nationality restrictions note (2026 proclamation, from press, not listed).
+  - New h4 #us-business-trip-steps (6 steps), TOC sub-links, cross-link from #visa-note intro, new FAQ (FAQPage JSON-LD 24 entries), dateModified 2026-11-15, footer review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul/h3/h4/p balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
