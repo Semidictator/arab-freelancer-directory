@@ -3228,3 +3228,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-15 03:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-permit-saudi.html (stalest page, last improved 14:00 on 14 Nov; weakness: #limits compared the freelance permit with a sole-proprietorship commercial register but carried no review date and said nothing about what a CR obliges you to do after registering, its deadlines or its fines, nor gave steps for switching).
+  - New h3 #cr-obligations with #cr-obligations-table from the Commercial Register Law Executive Regulation as published on Istitlaa (page last updated 19 Jan 2025, read 15 Nov 2026), cross-checked with my.gov.sa service 240802 (annual confirmation SAR 500, immediate): bank account details within 90 days of registration (fine 1,000), activity licence within 90 days or the activity is struck off, annual confirmation (suspension after 90 days overdue, fine 500), data update SAR 100 each (fine 500), unified e-code on the website for e-commerce (fine 1,000), misleading data 5,000, trading without CR 10,000; committee may reduce/increase fines; voluntary deregistration free, decided in 10 days, dues still payable; CR basic data public; exemption list (seasonal, street vendors, SDB productive families, Monsha'at incubators) does not mention the freelance permit.
+  - New h4 #cr-steps (5 steps), TOC sub-link, review date added to the #limits comparison intro, new FAQ (FAQPage JSON-LD 34 entries), footer review date 15 Nov 2026, sitemap lastmod 2026-11-15.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
