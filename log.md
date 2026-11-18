@@ -3455,3 +3455,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 00:00 report hour; 6-hour report sent to the user (covering 18:00–00:00).
+
+## 2026-11-19 01:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-permit-saudi.html (stalest page with index/uae/kuwait/remote-jobs, last reviewed 15 Nov; weakness: the e-invoicing section listed Wave 25 (deadline 1 Feb 2027, about 74 days away) but gave no practical guidance on what changes after integration or how to onboard, and still said the Wave 24 date "may have passed").
+  - New h3 #wave25-onboarding with #wave25-table (Phase 1 vs Phase 2: B2B tax invoices must be cleared by FATOORA before going to the buyer; simplified invoices reported within 24 hours; XML or PDF/A-3 with embedded XML; internet-connected solution; each EGS unit onboarded at fatoora.zatca.gov.sa with a 1-hour OTP to get a CSID that can be renewed/revoked), from ZATCA "How to get ready" PDF, FATOORA Portal user manual and E-invoicing Detailed Technical Guideline (read 19 Nov 2026). Re-checked: no Wave 26 announced as of 19 Nov 2026 (ZATCA Wave 25 page; Arcsen/EY corroborate).
+  - Flagged not found in ZATCA docs: any grace period after 1 Feb 2027, a specific late-integration fine beyond the existing violations table, and invoice type for export-only freelancers (readers told to ask ZATCA/provider).
+  - New ol #wave25-steps (5 steps), Wave 24 note updated (date has passed), TOC link, new FAQ in HTML and FAQPage JSON-LD (36 entries), footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+  - Re-verified freelance.sa FAQ core facts unchanged on 19 Nov 2026 (no issuance fee currently, 1-year validity, 3 working days, max 5 documents).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul/li/p/tr/td/h2/h3 balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
