@@ -3467,3 +3467,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-19 02:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-kuwait.html (stalest page with index/uae/remote-jobs, last reviewed 15 Nov; weakness: #decision-216, #license-pause and #steps still said the application date was unannounced and told readers to wait, and the decision text had not been read).
+  - Read the full text of Ministerial Decision 216/2026 on lawskw.com (private law portal, added 15 Nov 2026): issued 8 Nov 2026, effective on issuance (Art. 17), repeals Decision 168/2025 (Art. 16); Art. 8 all activity transactions through the company account and approved e-payment only; Art. 11 written contracts, keep copies, name + CR number on product/invoice; Art. 15 existing licences continue to end of term with regularisation, deleted activities not renewed, change of activity allowed; Art. 14 annual submission of company bank statement, financial statements, platform/social links and any data the minister specifies (first financial year from CR registration date).
+  - Applications reopened Wednesday 11 Nov 2026 per Acting Undersecretary Marwa Al-Jaidan (Al-Rai 11 Nov, Times Kuwait 12 Nov), ~86 activities; she confirmed government employees are barred (may own/partner without managing); her "may not exceed a week" estimate (general e-incorporation, no regulator approval) labelled as an estimate.
+  - New h3 #decision-216-annual with #decision-216-annual-table (4 rows) + note; flagged not found: annual deadline/channel/late penalty/whether audited statements are needed; fees and regularisation deadline not in the text; Decision 217 text still not read (activities list remains press-sourced); transfer/share-amendment service status not re-verified.
+  - Updated decision-216 heading/intro/table (apply, bank, contracting, "what the text settled" rows), 5 quick steps, #license-pause (now archive; pause ended), note at top of #license (168 repealed), note in #gov-employee, main #steps intro and 3 steps, cost FAQ wording (HTML + JSON-LD), TOC, new FAQ in HTML and FAQPage JSON-LD (34 entries), footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/ul/li/p/tr/td/h2/h3/a/strong balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
