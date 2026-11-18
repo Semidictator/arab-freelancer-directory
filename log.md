@@ -3385,3 +3385,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report due (18:00) and sent via parent.
+
+## 2026-11-18 19:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Re-verified (no change needed): Wise "where do I need to live to hold money" list still includes Saudi Arabia, Qatar, Kuwait and Bahrain (personal accounts only) and excludes UAE and Oman, matching receive-payments-saudi-gulf.html.
+- Improved free-tools.html (oldest review date on the page: #writing table last checked 26 Oct; weakness: nothing on how the paid trials convert to charges or how to cancel).
+  - Re-checked Grammarly, LanguageTool and DeepL free limits (unchanged: 100 AI prompts; 2,000 chars/field and 3 rephrasings/day; 50,000 chars, glossary 5 entries) and noted the re-check date in the #writing intro.
+  - New h3 #writing-trials with #writing-trials-table (3 tools x trial/guarantee, what happens if you forget, how to cancel), from Grammarly plans, Grammarly Support (cancel free trial, verification charge during 7-day trial, billing policy: auto-renew at standard rate, promo one period), LanguageTool Premium FAQ (no trial, 14-day money-back, card/PayPal, cancel anytime effective end of period), DeepL Pro pricing page (30-day trial Individual/Team, one per customer, Individual EUR 7.49/mo billed annually in German view, 16% annual saving), DeepL Help "Cancel subscription" and DeepL Pro terms 6.2/10.1/10.9 (read 18 Nov 2026).
+  - Flagged unverified: DeepL price in Gulf currencies, whether DeepL's consumer 14-day withdrawal right applies to Gulf residents, Grammarly trial length on the pricing page itself.
+  - New ol #writing-trials-steps (5 steps, links to #writing-privacy), TOC link, new FAQ in HTML and FAQPage JSON-LD (50 entries), footer 18 Nov 2026, sitemap lastmod 2026-11-18.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
