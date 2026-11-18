@@ -3420,3 +3420,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-18 22:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-bahrain.html (weakness: #trademark-bh flagged the publication fee (BHD 50) and the late-renewal fee (BHD 750) as read only in secondary sources).
+  - Verified both on official National Portal service cards on 18 Nov 2026: psID=2177 "Publish a trademark or a service mark" BD 50, 10 working days, e-service; psID=2126 "renew a trademark within six months from expiry and publish the renewal" BD 750, 10 working days. Updated the publication and renewal rows, the intro source list, and the "not verified" paragraph (total to certificate BHD 650 now fully from official cards).
+  - Still flagged as unofficial (J&C IP agency guide, which says it checked the MOIC fee schedule on 11 Oct 2026): 30-day payment deadlines for publication and registration fees, and the BHD 100 preliminary examination.
+  - New h3 #trademark-bh-budget with a stage-by-stage fee/timing/source table (10-year budget), updated step 5 with a link to it, new FAQ in HTML and FAQPage JSON-LD (34 entries), footer 18 Nov 2026, sitemap lastmod 2026-11-18.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/li/p/tr/td/h3 balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
