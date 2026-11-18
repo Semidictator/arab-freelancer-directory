@@ -3362,3 +3362,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour (no official Working Nomads affiliate programme found).
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-18 17:00 (Asia/Riyadh, UTC+3)
+- Note: no commits between 2026-11-15 15:00 and this run (the hourly runs in that gap made no repo changes; the 15:55 run on 18 Nov was marked failed).
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (smallest content gap found: nothing on the site covered Dynamic Currency Conversion, the "pay in SAR or local currency?" prompt at hotels, shops and ATMs abroad).
+  - New h2 #card-abroad with #card-abroad-table (local currency vs DCC: who sets the rate, when you know the final amount, Saudi bank fees, what must be disclosed, EU rules). Sources: European Commission cross-border payments FAQ Q19 (DCC definition); Visa "Decoding DCC" page (both amounts, symbols, rate, fees on screen and receipt; must not choose for you or steer; decline and report to issuer); Visa TADG v3.3 §2.16 (active choice, refusal processed in local currency); Regulation (EU) 2019/518 Art. 3a (mark-up over ECB reference rate disclosed before payment, inform payer of option to pay in payee currency); SAMA Guide to Financial Institutions Services Fees (mada international purchases 2%, international ATM outside GCC Net up to 3% max SAR 25, excl. VAT); SAMA Credit Card Rules Art. 48 (international purchase 2%, cash withdrawal 3% max SAR 75).
+  - Flagged unverified: whether choosing SAR (DCC) removes the bank's 2% international purchase fee; no "typical DCC mark-up" figure published (no official source); Mastercard rules not reviewed; other Gulf banks' card fees not checked.
+  - New h4 #card-abroad-steps (5 steps, links to #invoice and #contract), TOC entry, new checklist item, new FAQ in HTML and FAQPage JSON-LD (26 entries), dateModified and footer 18 Nov 2026, sitemap lastmod 2026-11-18.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
