@@ -3409,3 +3409,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-18 21:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-oman.html (weakness: the property-owner residency row in #expats-residency-table was flagged unverified: Gov.om service page and ROP decision 87/2026 not read directly).
+  - Read the text of ROP decision 87/2026 amending the executive regulations of the Foreigners' Residence Law on Qanoon.om (Official Gazette 1653, 21 Jun 2026, in force next day): Art. 4 "إقامة مالك" without sponsor for owner of a registered or not-yet-registered unit based on a certificate from the competent authority (also legal representatives of owning companies); Art. 2 "تأشيرة مالك", entry within 3 months; Art. 1 buyer of land/unregistered unit visa valid 6 months to 1 year, renewable, max 3 months per entry; Art. 5 residency ends on transfer of ownership, with spouse/relatives.
+  - Replaced the row with these verified points. Stated that the decision sets no minimum value, fee or duration and mentions no right to work; the "2 years / OMR 50" figures were dropped as unverified (Gov.om page still not opened). Added Gulf News report of the Ministry of Housing clarification that foreign ownership remains limited to designated areas (labelled as press report).
+  - New h4 #owner-residency-steps (5 steps before buying property for residency), TOC link, intro re-check note, new FAQ in HTML and FAQPage JSON-LD (32 entries), footer 18 Nov 2026, sitemap lastmod 2026-11-18.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/li/p/tr/td balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
