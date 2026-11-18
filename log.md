@@ -3431,3 +3431,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-18 23:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (weakness: the #insurance section was generic, unsourced checklist text with nothing on what to do when a travel insurance claim is refused or delayed in the Gulf).
+  - New h3 #insurance-complaint with #insurance-complaint-table (Saudi Insurance Authority vs UAE Sanadak: who you can complain about, first step, channel, cost, filing window, escalation), from the IA complaint e-service page (last modified 5 Nov 2026: free, Nafath login, asks for the company complaint number, 8001240551), IA FAQ (icare.ia.gov.sa, objections via IDC idc.gov.sa) and Sanadak "Submit a complaint" page (free; appeal AED 500 refunded if in your favour; 3 years from conduct or 2 years from awareness; insurance complaints go to Sanadak before courts; licensed-by-CBUAE insurers only; 800 72 623 25), read 18 Nov 2026. UAE Pass login cited to Gulf News.
+  - Key practical point: the regulator route covers locally licensed insurers only; a foreign online policy follows its own terms.
+  - Flagged unverified: Saudi "5 days" company response window (only an IA spokesperson quote via Ajel, Apr 2025); Sanadak's own pages give both 15 and 30 calendar days, so readers are told to wait 30 or ask. Other Gulf states not covered.
+  - New ol #insurance-complaint-steps (5 steps), TOC link, new FAQ in HTML and FAQPage JSON-LD (27 entries). Footer and sitemap lastmod already 18 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/li/p/tr/td/h3 balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
