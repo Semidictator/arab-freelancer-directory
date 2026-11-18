@@ -3398,3 +3398,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-18 20:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved receive-payments-saudi-gulf.html (weakness: #holds section was the oldest-reviewed part of the page, 25 Oct, and had a table only, no practical preparation steps).
+  - Re-verified Wise "prove the source of income (personal)" and Payoneer "status of my payment (payment request)" help pages on 18 Nov 2026: unchanged in substance. Added to the Wise row: all pages complete, up to 10 files, transfer resumes automatically after approval. PayPal SA help pages returned 403/timeouts, so the PayPal row is noted as not re-verified this date.
+  - New h3 #holds-prep with ol #holds-prep-steps (5 steps: contract must show pay period and total not hourly-only, 4 required details on any document, platform earnings statement / validated tax return, file format rules and do not cancel during review, Payoneer Timeline + Verification Center + ask payer to check email, review up to 4 business days).
+  - TOC link, new FAQ (hourly contract accepted by Wise? no) in HTML and FAQPage JSON-LD (37 entries), footer "آخر تحديث" 18 Nov 2026, sitemap lastmod 2026-11-18.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/li/p balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
