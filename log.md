@@ -3443,3 +3443,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-19 00:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-qatar.html (weakness: #law-9-2026 status was dated 5 Nov, and nothing covered the amended non-compete rule that affects employees leaving a Qatar job to freelance).
+  - Re-checked on 19 Nov 2026: still no published Council of Ministers decision regulating freelance/part-time work under Law 9/2026 (CRS Sept 2026 and Crowell & Moring alerts say to monitor future regulations). Updated the "حتى" dates in the section, table and FAQ (HTML + JSON-LD) to 19 Nov 2026.
+  - New h3 #non-compete-qa with #non-compete-qa-table from amended Art. 43 para 2 (Law 9/2026, Gazette issue 11/2026, Arabic text via Khan Advisory, corroborated by Crowell & Moring): allowed only where the job gives knowledge of clients or business secrets; bars competing or working in a competing project after the contract; max 2 years; enforceable only after approval of the Ministry's competent department; void if the contract ends in probation. Al Meezan official page is JS-rendered and could not be read; labelled as such.
+  - Flagged unpublished: approval procedure/timeline/fee, and whether approval applies to contracts signed before the law took effect.
+  - New ol #non-compete-qa-steps (5 steps; step 5 relies on Art. 115 bis requiring disputes to go to the Department first), TOC link, new FAQ in HTML and FAQPage JSON-LD (32 entries), footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/div/ol/li/p/tr/td/h3/ul balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 00:00 report hour; 6-hour report sent to the user (covering 18:00–00:00).
