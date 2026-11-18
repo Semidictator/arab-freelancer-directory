@@ -3374,3 +3374,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-18 18:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-platforms.html (stalest page, last improved 01:00 on 15 Nov; weakness: Guru, a long-running bid-based marketplace with a free tier, was not covered anywhere on the site).
+  - New h3 #guru (inside #fees, after #peopleperhour) with #guru-table (6 rows), from Guru's freelancer pricing page, Job Fee help, Terms of Service, PayPal / Wire Transfer / Non-U.S. Bank Account help pages, Payoneer-removal notice and Release Funds help (read 18 Nov 2026): Basic free 10 Bids/month (120/yr); Basic+ $11.95, Professional $21.95, Business $33.95, Executive $49.95 per month, 50 Bids/month, annual up to 27% off, rollover 100/200/300; job fee 9/9/7/6/5%, employer may cover up to 5%; employer handling fee 2.9%; SafePay release request auto-released after 7 days, AutoPay 7/14/28 days; PayPal no Guru fee min $25, wire $9 min $50, non-US local bank $1 min $100 in 48 countries (Arab: UAE, Egypt, Morocco, Algeria only), Payoneer withdrawals ended 5 Oct 2023; arbitration fee greater of $25 or 5%; memberships non-refundable, no downgrade.
+  - Flagged unverified: restricted-country list and PayPal receiving availability in every Gulf country. Labelled arithmetic: Professional break-even ~$1,097.50/month invoiced vs Basic; $300 arbitration example.
+  - New ol #guru-steps (5 steps), TOC link, rows in #compare and #compare-money tables, new FAQ in HTML and FAQPage JSON-LD (42 entries), footer 18 Nov 2026, sitemap lastmod 2026-11-18.
+- Checks: no duplicate ids, all internal anchors exist (incl. receive-payments-saudi-gulf.html#paypal), JSON-LD parses, table/div/ol/tr balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report due (18:00) and sent via parent.
