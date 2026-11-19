@@ -3594,3 +3594,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-19 12:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-qatar.html (stalest page, last improved 00:00 on 19 Nov; weakness: #insurance said the income-bracket Cabinet decision was "not found as of 29 Oct" and said nothing about the transitional rule for people already insured via the private sector who actually work for themselves).
+  - Re-checked 19 Nov 2026: no Cabinet decision setting income-bracket categories found; QNA 30 Sep 2026 workshop still says categories are set by Cabinet decision; law firm page (alsahlawi.qa, undated, non-official) says the decision is "in preparation" — flagged.
+  - New h3 #insurance-transition with #insurance-transition-table (6 rows: GRSIA inventory, status kept + contribution salary fixed at last salary before the law until the decision, transfer + payment of any differences after, size of differences unknown, transfer per the person's wish (Reg. Art. 14 / QNA), 100,000 QAR pension-salary ceiling with no published top bracket) + #insurance-transition-steps (5 steps). Noted Art. 4 last paragraph in force from publication (NATLEX).
+  - TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (33, in sync), Article dateModified 2026-11-19 (was 2026-11-15). Footer and sitemap already 19 Nov.
+  - Sources read 19 Nov 2026: al-sharq.com Law 1/2022 Art. 4 text (19 Apr 2022); qna.org.qa AR+EN workshop news (30 Sep 2026); natlex.ilo.org Law 1/2022 record; alsahlawi.qa overview (EN). NATLEX PDF of the regulation did not download (HTML returned); Art. 14 kept as cited earlier.
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report sent (12:00).
