@@ -3490,3 +3490,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-19 04:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved remote-jobs.html (stalest page with uae, last reviewed 15 Nov; weakness: the We Work Remotely section was last checked 29 Oct and its TopAccess row was outdated, and nothing covered WWR's payment/refund terms).
+  - Re-read WWR FAQ and Terms & Conditions on 19 Nov 2026: Pro $14.95/mo (12-month commitment, first month $2.95) and TopAccess $29.95/mo (12 months, no trial) unchanged; TopAccess now lists access to Toptal Marketplace, Arc, PeoplePerHour, Remote OK and NoDesk plus Toptal Resume Unlimited (terms); the one-time "up to $500" bonus is no longer in the FAQ (flagged as not found).
+  - New h4 #wwr-terms (5 bullets): both subscriptions non-refundable annual fees except where law requires; monthly instalments remain due through the 12 months even after cancelling; failed card payment late fee = lesser of 10% or $30; FAQ "Value" figures labelled marketing (Arc is free); JobCopilot AI auto-apply advertised on WWR "from $8.90" (weekly/monthly) with caution about location restrictions.
+  - Rewrote the TopAccess note: WWR and Remote OK TopAccess bundles now each list the other site + NoDesk; no official text found saying they are the same subscription, so readers told not to buy both.
+  - Updated compare-intro verification note, TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (41 entries), footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+  - Not re-verified this hour: Remote OK TopAccess bonus wording (still from 31 Oct review).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, table/tr/td/ul/ol/li/p/h3/h4/a/strong balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
