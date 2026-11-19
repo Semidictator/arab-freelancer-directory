@@ -3606,3 +3606,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report sent (12:00).
+
+## 2026-11-19 13:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-permit-saudi.html (stalest page, last improved 01:00 on 19 Nov; weakness: #mawthooq was last reviewed 10 Nov and its note said no penalty information was found, leaving readers with no answer on fines, who imposes them, licence suspension, or appeal deadlines).
+  - New h3 #mawthooq-penalties with #mawthooq-penalties-table (9 rows): Audiovisual Media Law Art. 17 ceilings (≤SAR 10m, ≤6-month suspension, cancellation; expedited enforcement, recovery of proceeds, doubling on repeat/continuation/non-correction); Art. 18/1 GAMR fines ≤SAR 1m via the violations schedule (Committees Secretariat page); unlicensed-activity minimum 30k/70k/100k by category per Al-Watan 2018 press report of the schedule, Mawthooq-in-category-1 per non-official legal sites — flagged unverified; 2,000 minimum for licence-condition breaches — flagged unverified (non-official source only); Art. 18/2 precautionary suspension ≤60 days, appeal to Appeal Committee in 15 days; Art. 18/1 + 19/2(b) 60-day objection to Primary Committee, Art. 20 Appeal Committee final, Art. 19/3 newspaper publication; Art. 19/2(a) Saudis abroad; press-reported enforcement (Oct 2024 six residents SAR 300k total; Sep 2025 five establishments referred); Aug 2024 CEO-announced amendments (lower fee, duration, shift to entities; Sabq 9 Aug 2024, Ajel) — no official text found as of 19 Nov 2026.
+  - New h4 #mawthooq-penalties-steps (5 steps), note rewritten (no longer says "no penalty table found"), TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (37, in sync). Footer and sitemap already 19 Nov.
+  - Sources read 19 Nov 2026: laws.boe.gov.sa Audiovisual Media Law Arts. 17–20 (via search index; direct fetch blocked); gmedia.gov.sa/ar/committees-secretariat (direct); gmedia.gov.sa Mawthooq service page (fee/duration not in static HTML); alwatan.com.sa/article/392144; sabq.org/article/CjdWaBx; ajel.sa/local/pwgmlxozpi; alkananilibrary.com and rx-designer.com (non-official, used only for flagged items and press references).
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
