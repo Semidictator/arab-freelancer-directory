@@ -3666,3 +3666,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-19 18:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved free-tools.html (stalest content page, last improved 07:00; weakness: #hacked was last reviewed 29 Oct and gave detailed recovery steps only for Gmail and Upwork — nothing on how Fiverr, Payoneer, Wise, PayPal or Mostaql/Khamsat handle a compromised or locked-out account, or what proof of ownership each asks for).
+  - New h4 #hacked-platforms with #hacked-platforms-table (5 rows × still-logged-in / locked-out / prepare-in-advance): Fiverr (auto logout + forced reset on suspicious activity, 2FA + Connected devices + antivirus after, ownership proof = security answer, full phone, Payoneer ID or PayPal withdrawal email, one security detail updated per 24h, fastest from registered email); Payoneer (change password + security questions, change email if email hacked — username changes too, password retrieval tool, call +1 646 386 2434 24/7, never asks for password/full card/OTP); Wise (Log out everywhere in Security and privacy, change password, confirm 2FA, call/chat → account and cards suspended, email from linked address or any email with name, DOB, linked email/phone and selfie holding ID + "Wise + today's date" paper; T&C: delays may make you liable); PayPal (change password + security questions, Resolution Center → Report a problem → unauthorized activity, app path, email within 10 days, check Automatic Payments first; no official locked-out path found — stated as such); Hsoub/Mostaql/Khamsat (account help category has no compromised-account article — stated; linked change/reset password, email, bank, PayPal, KYC pages and hsoub.com/help; KYC–recovery link flagged as not officially stated).
+  - Shared-rule paragraph (store Payoneer ID, PayPal email, security answers, backup codes in Bitwarden). #hacked intro updated (Google page re-verified 19 Nov; Upwork page 403, left at 29 Oct). TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (52, in sync).
+  - Sources 19 Nov 2026: support.google.com/accounts/answer/6294825, payoneer.custhelp.com a_id 33971, support.hsoub.com/category/account (direct); help.fiverr.com 37331889184017 and 360010239658, wise.com/help xfWMm6axrxXwk3CdoCgGG, paypal.com help136 and /security/report-fraud, payoneer.com security-center (via search index).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report sent (18:00 run).
