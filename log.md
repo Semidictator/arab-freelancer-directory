@@ -3554,3 +3554,18 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-19 09:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-oman.html (stalest page, last improved 21:00 on 18 Nov; weakness: #bank was last reviewed 31 Oct and covered only Bank Muscat and Bank Dhofar, and the page misnamed NBO (National Bank of Oman) as «البنك الأهلي العُماني», which is a different bank's name).
+  - Fixed NBO's Arabic name to «البنك الوطني العُماني» everywhere (#payments-swift table, worked example, steps, FAQ in HTML and JSON-LD).
+  - New #bank table row for NBO from its SME Key Facts Statement: sole proprietorship/partnership/LLC; CR + OCCI membership + owner ID; OMR/USD/EUR/AED/SAR/QAR/GBP; minimum balance to open and maintain OMR 200; closure within 1 year OMR 3; fees exclusive of 5% VAT; bank may decline; Tijarati loans need 2 years in business + 6 months' statements. Flagged: KFS does not mention the e-commerce (freelance) licence as a substitute for CR.
+  - New row for Sohar International: April 2026 "Ta'awn" agreement with Riyada incl. "reduced fees" for Riyada cardholders (no amounts published, flagged).
+  - New h3 #bank-riyada: Riyada signed ten cooperation programmes with ten banks on 26 Apr 2026 (bank list, focus on financial literacy, training, tailored financing, banking incentives; ~30,000 Riyada cardholders per report); flagged that no per-bank benefits list was found.
+  - New 6th step in #bank-steps, TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (33, in sync), intro review note 19 Nov, footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+  - Bank Muscat Najahi page returned "Request Rejected" to our fetch; its figures were kept as reviewed earlier (tariff 2.12/2026 checked 5 Nov).
+  - Sources read 19 Nov 2026: nbo.om NBO KFS SME English.pdf, nbo.om SME Current Accounts page, NBO Download Centre; zawya.com Sohar International–Riyada press release (29 Apr 2026); omanobserver.om article 1188574 (26 Apr 2026).
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
