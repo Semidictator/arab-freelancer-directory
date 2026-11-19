@@ -3581,3 +3581,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-19 11:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (stalest page, last improved 23:00 on 18 Nov; weakness: #entry-auth was last reviewed 13 Nov, ETIAS row was time-sensitive, and the page said nothing about ETA strict enforcement, landside transit, or what to do when a UK ETA is rejected/refused before a client trip).
+  - Re-verified 19 Nov 2026 on GOV.UK: ETA fee £20, non-refundable, decision usually within a day up to 3 working days, 16-digit reference (unchanged).
+  - ETA row: added strict enforcement from 25 Feb 2026 ("no permission, no travel", carriers check before boarding; GOV.UK news 24 Nov 2025) and landside vs airside transit rule.
+  - ETIAS row: still not operating, date to be announced months ahead (Commission ETIAS page); added 19 Nov update that the "last quarter 2026" window was dropped and 2027 is expected per press (Travelling for Business, 18 Nov 2026), flagged as not officially confirmed; official travel-europe site could not be loaded by our fetch (JS app). Step 5 updated.
+  - New h4 #eta-refused with #eta-refused-table (6 rows: no amend/withdraw after submit, rejected at identity stage can reapply, refused = no admin review/appeal and human decision, mandatory refusal examples (12+ month sentence, conviction within 12 months, previous visitor refusal, adult overstay, previous ETA cancellation), Standard Visitor visa £135/3 months ahead/~3 weeks, dual British/Irish citizens cannot get ETA) + #eta-refused-steps (5 steps); TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (28, in sync); existing ETA/ETIAS FAQ updated in both; footer 19 Nov 2026; sitemap lastmod 2026-11-19.
+  - Sources read 19 Nov 2026: gov.uk/eta (print guide), gov.uk/eta/apply, gov.uk/government/news/no-permission-no-travel-uk-set-to-enforce-eta-scheme, gov.uk ETA caseworker guidance (accessible, updated 3 Aug 2026), gov.uk/standard-visitor/apply-standard-visitor-visa; home-affairs.ec.europa.eu ETIAS page; travellingforbusiness.co.uk ETIAS article (18 Nov 2026).
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
