@@ -3677,3 +3677,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report sent (18:00 run).
+
+## 2026-11-19 19:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved receive-payments-saudi-gulf.html (stalest content page, last improved 08:00; weakness: #paypal-disputes was last reviewed 30 Oct and explained only what Seller Protection covers — nothing on what happens at each dispute stage, the seller's response deadline, what evidence counts for a service, partial-refund offers, when the dispute fee is waived, chargebacks, or what happens after losing).
+  - New h4 #paypal-dispute-response with #paypal-dispute-response-table (7 rows): dispute stage (amount held, 20 days to message, respond within first 10 days or buyer wins if escalated, evidence recorded once); offers (full/partial refund in the case; no dispute fee if resolved without escalation); claim stage (no messaging after escalation, offers on hold, SA article: decision usually 14 days, may take 30+); service evidence (compelling evidence tied to buyer name/email/transaction ID/invoice ID, server/access logs); chargeback (issuer decides, up to 75 days per US guide; chargeback fee for non-PayPal-account card transactions regardless of outcome); dispute fee rules from SA user agreement (charged after decision; Standard fee waived if not escalated, resolved between parties, unauthorized claim, Seller Protection met, value < 2× fee, decided in seller's favour; High Volume ≥1.5% with >100 sales in previous 3 months, no waiver for won cases); losing (full amount + fees, negative balance must be covered immediately or collection/limitation; appeal option "I disagree with the claim…" from developer docs, no official appeal deadline found — 10-day figure only on unofficial sites, flagged).
+  - New h4 #paypal-dispute-steps (5 steps); #paypal-disputes intro notes SA user agreement (updated 28 May 2026) re-read 19 Nov; TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (39, in sync). Fee amounts in #paypal table ($8/$16) not re-verified this hour (SA fees page 403).
+  - Sources 19 Nov 2026: paypal.com/sa/legalhub/paypal/useragreement-full (direct, last updated 28 May 2026); pep.paypal.com/sa help237 (via search index; direct fetch returned empty shell); paypal.com/ma help1083 Arabic, paypal.com/us help1103 and brc customer-disputes article, developer.paypal.com use-resolution-center (via search index). Buyer-protection page (180/30/20-day buyer timelines) 403 today, left at 30 Oct.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
