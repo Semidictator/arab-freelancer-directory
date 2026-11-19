@@ -3503,3 +3503,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-19 05:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-uae.html (stalest page, last reviewed 15 Nov; weakness: #emirate-licences comparison was last checked 28 Oct and had no application steps, nothing on banking, renewal obligations, payment methods or follow-up).
+  - Re-verified every figure on the official pages 19 Nov 2026: ADRA freelancer licence AED 1,200 incl. 6 activities, AED 100 per extra activity, sole proprietorship only; DDA permit AED 7,500 + AED 10 Knowledge + AED 10 Innovation Dirham, 2 working days; DIC/GoFreelance visa AED 4,600 (1 yr) / 5,042 (2 yrs), establishment card AED 2,000. All unchanged.
+  - Four new table rows from the GoFreelance FAQ and ADRA FAQ: banking (personal bank account, cheques and all transactions in your name), working at a client's premises (only from its free-zone premises as an independent contractor), renewal (annual; no bank details or yearly audit report required; keep records anyway; tax records still apply), follow-up and payment (TAMM via UAE PASS → My Locker, 800555; GoFreelance card/bank transfer/cash at Dubai Knowledge Park Block 8 or Dubai Studio City Building 1). Abu Dhabi renewal fees, residency fees and client-premises rule marked as not on the page.
+  - New h4 #emirate-licences-steps (6 steps: activity check, documents, apply via TAMM or GoFreelance portal/TECOM, visa via axs incl. fly in immediately after entry permit and axs 800-4297, non-refundable fees, renewal/records), TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (38 entries, in sync), footer and sitemap lastmod 19 Nov.
+  - Sources read 19 Nov 2026 (fetched directly): adra.gov.ae freelancer-licence page, dda.gov.ae freelancer licence service card, gofreelance.ae (FAQ), dic.ae/offerings/gofreelance.
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first; topic fits the UAE page).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
