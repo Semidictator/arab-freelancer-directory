@@ -3641,3 +3641,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-19 16:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-uae.html (stalest content page after index, last improved 05:00; weakness: #uae-financing was last reviewed 28 Oct, had no application steps, and — unlike the Bahrain and Kuwait financing sections refreshed today — nothing on the July 2026 Khalifa Fund relaunch, post-loan obligations, or Dubai's governing text).
+  - Re-read khalifafund.ae funding-scheme and FAQ pages on 19 Nov 2026: seven programmes unchanged; FAQ still conflicts (21–60 age, 2 years operating) — bullet now marked as still present on 19 Nov.
+  - Intro rewritten (reviewed 28 Oct + 19 Nov; Decision 57/2025 linked; two Dubai exceptions to 100% Emirati ownership noted: strategic-impact projects and GCC nationals for establishment support).
+  - New h3 #uae-financing-2026 with #uae-financing-2026-table (7 rows): Khalifa seven programmes announced 20 Jul 2026 (WAM) with no published limits; legacy FAQ amounts (microfinance ≤500k, small ≤1m/2m manufacturing, operating capital ≤600k, 20% min contribution, 12–36 months after 3-month grace) flagged as not confirmed for the new programmes; Khalifa post-loan obligations (individual-licence partners, one business at a time, yearly licence + yearly/semi-annual financials, support ends if membership lapses, full personal liability); Khalifa membership (licence fee exemption "in most of the emirates"); Dubai Administrative Decision 57/2025 (1 Oct 2025) Art. 6 interest-free direct financing + partner-bank guarantees, HQ may be member's residence or virtual location, feasibility study, accounting-system reports, undertakings; Intelaq home licence (Arts. 1, 9, 10; fee and non-national eligibility not found); MBRF 5-stage application process (thefund.ae via search index; site is JS-rendered).
+  - New h4 #uae-financing-steps (5 steps), TOC sub-links, new FAQ in HTML and FAQPage JSON-LD (39, in sync). Footer and sitemap already 19 Nov.
+  - Sources read 19 Nov 2026: khalifafund.ae/services/funding-scheme/ and /faq/ (direct); wam.ae and mediaoffice.abudhabi 20 Jul 2026 (via search index); dlp.dubai.gov.ae Administrative Decision 57/2025 (direct); thefund.ae/auth/register and /application-process (via search index; funding-criteria page content is client-rendered).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
