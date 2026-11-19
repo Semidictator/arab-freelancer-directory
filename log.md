@@ -3529,3 +3529,16 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: 6-hour report due (06:00) and sent via parent.
+
+## 2026-11-19 07:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved free-tools.html (stalest page, last improved 19:00 on 18 Nov; weakness: #whatsapp was the oldest-reviewed section on the page, 28 Oct, and said nothing about backing up or exporting client chats, account restrictions or bans).
+  - Re-verified 19 Nov 2026: quick replies (max 50, media not on Web/Desktop, deleted reply not recoverable) and greeting message (first message or after 14 days inactivity) unchanged; the assistant that disables greeting messages is now called "Meta Business Agent" (was Business AI), row updated.
+  - New h3 #whatsapp-records with #whatsapp-records-table (7 rows): Android backup (Google or WhatsApp cloud storage, testing; E2E backup via passkey/password/64-digit key; restore only from last successful backup), export chat (Android ⋮ > More > Export chat; iPhone name > Export chat, ZIP; view-once not exported; not re-importable), Business Messaging Policy opt-in rule + accurate contact info, temporary restriction (what is blocked, ends automatically), what WhatsApp receives when reported (last five messages), ban + Request review ("most reviews within 24 hours", no button = final, third parties can't unban, Meta Verified lost/no refund on violation), inactivity lock.
+  - Flagged as not found: restriction duration, report threshold; iPhone (iCloud) backup page not read.
+  - New h4 #whatsapp-records-steps (5 steps), TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (51 entries, in sync), footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+  - Sources read 19 Nov 2026: faq.whatsapp.com 1791149784551042, 501866148528310, 481135090640375, 1180414079177245, 717472490411581, 723378546580115, 1805617343145907; whatsappbusiness.com/policy.
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
