@@ -3479,3 +3479,14 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-19 03:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved index.html (stalest page, last reviewed 15 Nov; weakness: the homepage contradicted the updated Kuwait page in several places — it still said new Kuwaiti licences were paused since July, that no opening date was announced, quoted the old 80 KD fee as current and the 2025 table of 120 activities).
+  - Synced with freelance-kuwait.html #decision-216 (sources re-cited there: Decision 216/2026 text via lawskw.com; Al-Rai 11 Nov and Times Kuwait 12 Nov for the 11 Nov reopening): applications open since Wed 11 Nov 2026; Decision 216 (issued 8 Nov, repeals 168); ~85 activities (Al-Jarida list; was 120); 4 years renewable on request with Ministry approval; all transactions via the company bank account by e-payment only; annual bank statement/financials/account links to the Ministry; no clients at home; existing licences run to term, deleted activities not renewed; government employees barred per the undersecretary; fee not stated in the decision (80 KD labelled as the pre-pause fee).
+  - Updated: Gulf country card, "which licence" situation row, "I'm Kuwaiti" situation row, #gulf-license Kuwait row (fee, duration, status cells; link to #license-pause replaced with #decision-216-annual), licence-cost FAQ and Kuwait FAQ in both HTML and FAQPage JSON-LD, last-reviewed 19 Nov 2026, sitemap lastmod 2026-11-19.
+  - Re-verified FlexJobs pricing page on 19 Nov 2026: prices unchanged ($2.95 14-day then $23.95/4 weeks; $29.85/3 months; $71.40/year); no edit needed.
+- Checks: JSON-LD parses, no duplicate ids, table/tr/td/div/ul/li/p/details/strong/a balance equal, no remaining "paused"/"120 activities"/"no opening date" text on index. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 06:00).
