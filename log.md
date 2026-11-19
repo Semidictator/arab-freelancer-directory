@@ -3710,3 +3710,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-19 22:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved travel-booking.html (stalest content page, last improved 11:00; weakness: the passenger-rights note said outright that UAE/Gulf rules were not reviewed, so departures from UAE airports had no guidance, and baggage limits relied only on the Saudi regulation's 1288 SDR figure).
+  - New h3 #uae-passenger-rights with #uae-passenger-rights-table (9 rows) from GCAA CAR-PWP Issue 02 PDF (issued 25 Dec 2024, applicable 1 Jan 2025): applicability (UAE airports, not free/non-public reduced fares), terminal delay 1–3 h info / 3–8 h meals+communication (+hotel if missed connection and next >8 h) / >8 h hotel+transport, tarmac delay, cancellation within 48 h of STD (rebooking/return/reroute; B.006(b) applies to transit flights and flights not originating from passenger's city of residence), denied boarding, diversion, no cash amount ("compensation" removed from cancellation definition; other international rules still apply).
+  - Montreal Convention paragraph: ICAO revised limits from 28 Dec 2024 (6,303 SDR delay, 1,519 SDR baggage); flagged that the Saudi table's 1288 equals the previous MC99 limit and that a GACA update was not verified.
+  - Dubai paragraph: Dubai Media Office 28 Apr 2026 launch of DCAA Aviation Consumer Welfare Directive and complaint service; 60-day/5-day/60+15-day/14-day timelines and exclusions taken from press summaries and flagged as not verified against the full text (dcaa.gov.ae is a JS app). Other emirates' complaint channels not verified.
+  - New #uae-passenger-rights-steps (5 steps incl. MC99 Art. 31 7/21-day baggage complaints and Art. 35 two-year limit); TOC link; Saudi section and note now link to the UAE section; new FAQ in HTML and FAQPage JSON-LD (29); dateModified 2026-11-19.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
