@@ -3629,3 +3629,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-19 15:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved remote-jobs.html (stalest page with index, last edited 04:00; weakness: the Remote OK section was last checked 31 Oct, its TopAccess bonus wording was flagged as not re-verified, and step 4 told free users to use a report button that is now Premium-only).
+  - Re-read remoteok.com/premium, /faq and /legal on 19 Nov 2026: Premium $14.95/mo and TopAccess $29.95/mo, both 12-month commitment billed monthly, no free trial, unchanged; one-time "up to $500" performance reward (Toptal/Arc/Upwork/Fiverr, proof of earnings) still in the FAQ; the Terms no longer display an update date (the old "updated 26 Oct" wording relabelled).
+  - Corrected: reporting a job ("Report this Job", reasons + Confirm) is now "available to logged-in Premium members"; free users pointed to hello@remoteok.com (the FAQ's urgent-case address). Fixed in #remoteok-steps step 4 and the #scams reporting bullet.
+  - TopAccess row: added the FAQ statement that partner-platform acceptance is not guaranteed (access = opportunity to apply).
+  - New h4 #remoteok-account table (6 rows: report, cancel via Stripe + email per Terms, account deletion blocked with an active subscription, EU 14-day withdrawal waived in Terms, permanent ban with no appeal or refund + no self-promotion rule, TopAccess partner acceptance and "Valued at" figures labelled marketing) + #remoteok-account-steps (5 steps); TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (42 entries).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
