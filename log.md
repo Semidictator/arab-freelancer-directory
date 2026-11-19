@@ -3722,3 +3722,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-19 23:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-qatar.html (stalest content page, last improved 12:00; weakness: #bank was last reviewed 31 Oct, covered only Dukhan, QNB and QIB, and said no official minimum deposit was published anywhere).
+  - Re-verified Dukhan Bank home-business account page (licence issued less than 30 days ago still required).
+  - Added 3 rows to the #bank table: CBQ Corporate Digital Account Platform (CR, establishment card optional under 6 months, AoA, IDs; documents valid at least 30 more days; one account only; no opening fee but QAR 20,000 initial deposit on activation, waived for micro companies — annual turnover QAR 1 million and fewer than 10 staff — and QFC firms; home licence not mentioned); Doha Bank Corporate Account Opening Guideline PDF (modified Jul 2025: Establishment Company = CR, municipality licence, computer card, QID; Professionals = municipality licence, certificate, computer card, IDs; UBO); Masraf Al Rayan T&C (Mar 2024) clause 1(c): personal accounts not to be used for commercial purposes per QCB/ministry instructions.
+  - New paragraph #bank-micro linking the CBQ micro definition to the matching micro-enterprise definition in #gov-tenders-qa; note now states the CBQ deposit is the only published figure and warns about the opposite 30-day timing rules (Dukhan: licence <30 days old; CBQ: documents valid ≥30 more days). Step 3 asks about initial deposit/micro waiver. Intro cites Masraf Al Rayan clause. Sources line dated 19 Nov.
+  - TOC sub-link; existing home-licence bank FAQ updated in HTML and JSON-LD; new FAQ on the CBQ initial deposit in HTML and FAQPage JSON-LD (34, in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
