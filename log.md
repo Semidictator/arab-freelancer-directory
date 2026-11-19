@@ -3688,3 +3688,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-19 20:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-oman.html (stalest content page, last improved 09:00; weakness: #insurance had no review date and mentioned merging prior service periods in one line, with no deadline, conditions, wage basis, payment rules or steps — although the window for pre-2024 periods closes on 31 Dec 2026).
+  - New h3 #insurance-merge with #insurance-merge-table (8 rows): deadline (Reg. R/7/2023 Art. 80: 3 years from law commencement; Law 52/2023 in force 1 Jan 2024; ONA 22 Jun: mechanism covers Jan 2024–Dec 2026 → 31 Dec 2026, our computation, no extension found); self-employed periods after 44/2013 need a valid CR/licence during the period + both shares (Art. 79); merge wage = old registered wage or chosen bracket from the 44/2013 income table (Art. 79); other actual service in/outside Oman at 18.5% of wage at application date, attested documents (Arts. 76, 81); periods with a paid pension: repay + 5.5% annual interest (Art. 77); eligibility: Omani, registered, under 60, ≥1 month (Art. 81); lump sum or instalments per board decision, request void if unpaid within 30 days of notice, irrevocable, partial payments counted (Arts. 82–84; instalment decision not found — flagged); post-2024 periods within 1 year and back-registration ≤1 year (Art. 80, Law Art. 49); registration ends automatically when activity stop is recorded (Art. 27).
+  - Late-payment note: 13.5% additional amount was in repealed system 44/2013 Art. 14; no explicit self-employed late rate found in current law/regulation (flagged; 15-day payment window still in law).
+  - New h4 #insurance-merge-steps (5 steps); #insurance intro dated 19 Nov; merge bullet now links to the new section with the deadline; TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (34, in sync).
+  - Sources 19 Nov 2026: decree.om/2023/rd20230052 (direct, commencement 1 Jan 2024, Arts. 48–50), qanoon.om/p/2023/spf20239901 (direct, Arts. 26, 27, 76–84), omannews.gov.om/topics/ar/3/show/452670 and qanoon.om/p/2013/rd2013044 (via search index). spf.gov.om self-employment page timed out today.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
