@@ -3542,3 +3542,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-19 08:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved receive-payments-saudi-gulf.html (stalest page, last improved 20:00 on 18 Nov; weakness: #wise-gulf was the oldest-reviewed section, 25 Oct, and said nothing about what happens to a Wise account when a Gulf resident moves country, e.g. Saudi to UAE).
+  - Re-verified 19 Nov 2026: Wise hold-money list unchanged for the Gulf (Saudi, Qatar, Kuwait, Bahrain personal only; UAE and Oman not listed); SA receive fees unchanged (domestic free in 9 currencies, USD wire/Swift 6.11 USD, EUR Swift 2.39, GBP Swift 2.16).
+  - Added receiving speed and rejections from the USD account-details article (ACH hours to 4 working days, wire minutes to 1 day, Swift 1 to 6 working days; non-USD returned to sender; Swift rejected without your address).
+  - New h4 #wise-move with #wise-move-table (5 rows: how to change country of residence, account suspended with no receiving during review within 2 days and Direct Debits cancelled, proof-of-address rules incl. 10MB/no screenshots/not reused, tax details may be requested, moving to UAE/Oman flagged as not officially documented) + #wise-move-steps (5 steps); TOC sub-link; new FAQ in HTML and FAQPage JSON-LD (38, in sync); 25 Oct review dates annotated with 19 Nov re-check; footer 19 Nov 2026; sitemap lastmod 2026-11-19.
+  - Sources read 19 Nov 2026: wise.com/help/articles/2813542, 2827506, 3umiLdiQoFLxh0xP36MEIO (update country of residence), 1QaC3bwTbNEHjWJydD79az (update address); wise.com/sa/pricing/receive.
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
