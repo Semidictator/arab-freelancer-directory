@@ -3617,3 +3617,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-19 14:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-kuwait.html (stalest page, last improved 02:00 on 19 Nov; weakness: #nf-financing status note was last reviewed 28 Oct, relied on a July 2024 press item, and gave no current picture of whether National Fund financing is open, what is changing, or what to do meanwhile).
+  - Rewrote the status note (reviewed 19 Nov; official site is JS-gated and could not be read automatically today, 28 Oct observation kept and dated).
+  - New h3 #nf-status with #nf-status-table (6 rows): no official reopening announcement found; new financing described as suspended for years (Times Kuwait 21 Oct 2026); stopped since 2020, instalments deferred 54 months Apr 2020–Oct 2024, 15k+ waiting (Al-Anba 8 Dec 2024); planned law amendment and shift to indirect bank-partnership portfolios (Times Kuwait 26 Jan 2026 citing Al-Rai, flagged unconfirmed); proposed CBK/banks partial-balance instalment deduction mechanism, not yet adopted (Times Kuwait 16 Nov 2026, Al-Rai); legacy Gulf Bank 80/20 programme terms (≤KD 500k, ≤7 yrs, 2% fund portion, 2+ yrs operating, profitable, sales/assets KD 50k–2m, Chapter 5 manager, 2 yrs audited) flagged undated and not proof of open applications; 2.8m KD settlements in 9M 2026.
+  - New h4 #nf-steps (5 steps), labelled inference paragraph, TOC sub-links, existing NF FAQ answer updated in HTML and JSON-LD, new FAQ (35, in sync), Article dateModified 2026-11-19 (was 2026-11-15).
+  - Sources read 19 Nov 2026: timeskuwait.com (21 Oct 2026, 26 Jan 2026, 16 Nov 2026 articles); e-gulfbank.com/en/faqs/products/sme/ (direct); pdf.alanba.com.kw 8 Dec 2024 (via search index); alraimedia.com articles 1754443 and 1786236 (via search index); nationalfund.gov.kw (JS challenge, not readable).
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
