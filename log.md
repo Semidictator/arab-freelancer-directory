@@ -3700,3 +3700,13 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-19 21:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-bahrain.html (stalest content page, last improved 10:00; weakness: #bank was last reviewed 31 Oct, covered only BisB and BBK, relied on a KPMG note alone for the mandate, and gave no official timeline or warning that ila offers no business accounts).
+  - New h3 #bank-options with #bank-options-table (7 rows): LMRA bank requirements table (last updated 9 Sep 2026) — NBB, Al Salam, KFH, BBK, BisB, NBK allow commercial accounts; ila "does not offer corporate (business) accounts"; Al Salam Bank Business app (bank announcement 30 Nov 2025; Google Play listing updated 27 Aug 2026 says sole proprietorships open business accounts fully online; WhatsApp 17005500; no Sijili mention/fees found); NBB Corporate Account T&C (Mar 2026) documents incl. purpose of account, UBO tax IDs, source of funds/wealth (broker-site minimum balances flagged unofficial, not used); MOIC timeline for Decision 43/2024 (new CRs from 13 Dec 2024, all from 13 Jun 2025, plus e-payment means) and 28 May 2025 service point at Bahrain Financial Harbour (80008001, ir@moic.gov.bh) — MOIC news read via search index because moic.gov.bh returned 500/timeout today; continuity of the service point not verified; no official penalty table found.
+  - Intro dated 19 Nov, step 2 links to the bank list, TOC sub-link, new FAQ in HTML and FAQPage JSON-LD (36, in sync).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 00:00).
