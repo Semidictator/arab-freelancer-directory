@@ -3734,3 +3734,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 00:00).
+
+## 2026-11-20 00:00 (Asia/Riyadh, UTC+3)
+- Live check: GitHub Pages 200; https://dr-dal.com still 403 (not serving the site; no announcement).
+- Improved freelance-permit-saudi.html (stalest content page, last improved 13:00 on 19 Nov; weakness: #zakat was last reviewed 27 Oct and only explained registration and the deemed formula — nothing on what happens after: the assessment notice, objection deadline, objection deposit, instalments, late payment consequences, look-back period, or what happens if you stop without notifying ZATCA).
+  - New h3 #zakat-after with #zakat-after-table (9 rows) from the Zakat Collection Implementing Regulation 1445H: Art. 82 excludes deemed taxpayers from the zakat-return chapter (120-day deadline in Art. 102 is for accounts-based taxpayers) and Art. 91 makes ZATCA's estimate an assessment, but Art. 98 lists filing among general obligations — flagged as unresolved, no official page found; Art. 113 notice contents; Art. 90 voluntary increase; Art. 117 final after 60 days without objection, 30/90-day next-stage windows; Art. 116 pay undisputed + 10–25% of disputed or guarantee; Arts. 118–119 instalments (30-day reply, cancellation after 2 consecutive / 3 separate missed); Art. 120 three 30-day demands then enforcement, Art. 122 seizure; no late-zakat penalty percentage found in the regulation (VAT penalties are separate); Art. 106 5/10-year reassessment; Art. 110 keep documents 10 years in KSA; Art. 100 ZATCA may keep assessing if cessation not notified; Art. 121 death of sole proprietor.
+  - New #zakat-after-steps (5 steps). TOC sub-link. Original #zakat sources note now says Arts. 84–89 and 98 re-matched 20 Nov.
+  - New FAQ on objecting to a zakat assessment in HTML and FAQPage JSON-LD (38, in sync).
+  - Sources: official PDF URL returned an HTML bot page on 20 Nov, so article texts were read via hakeemai.net (unofficial copy, labelled as such on the page); numbering cross-checked against the official PDF's Art. 102 text in the search index; draft numbering on istitlaa.ncc.gov.sa differs and was not used.
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report sent (00:00).
