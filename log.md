@@ -3515,3 +3515,17 @@
 - New page: none (quality-first; topic fits the UAE page).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 06:00).
+
+## 2026-11-19 06:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-platforms.html (stalest page, last improved 18:00 on 18 Nov; weakness: #subscriptions was last reviewed 27 Oct, still said Fiverr Seller Plus is invitation-only, and nothing covered renewal timing, cancellation cut-off, refunds or failed payments).
+  - Re-verified 19 Nov 2026: Upwork Freelancer Plus $19.99/month and Connects $0.15 (pricing page) unchanged; Fiverr Seller Plus Standard $25 / Premium $49 monthly unchanged.
+  - Fiverr row updated: semi-annual $128 / $250 and annual $225 / $441 (about $18.75 / $38 per month); eligibility by level with sign-up from the dashboard (help page no longer says invitation-only); monthly caps (coupons 5/20, follow-up messages 10/20, promotions up to 10/20 orders) and Request to order (Premium).
+  - New h3 #subscriptions-billing with #subscriptions-billing-table (7 rows, Upwork vs Fiverr): where the charge comes from (Upwork earnings then billing method, reserve balance; Fiverr balance then debt on future earnings), renewal date (Upwork 29-31 sign-ups renew on the 1st; Fiverr semi-annual/annual renewal amount held from withdrawable balance 30 days before for users without a payment method, reminder sent), cancellation cut-off (Upwork renewal starts midnight UTC = 03:00 Saudi/Kuwait/Qatar/Bahrain, 04:00 UAE/Oman; cancel on renewal day = billed full month), refunds (Upwork billing page mentions none; Fiverr within 48 h of payment via support if no feature used after), failed payment (Upwork 5-day grace then downgrade, no manual downgrade meanwhile; Fiverr debt up to 2 months then removal, Pay overdraft balance), after renewal (Connects up to 12 h; Fiverr invoices in Billing history), how to cancel.
+  - Flagged: Fiverr page contradicts itself (payment method "will not be charged" vs FAQ saying it is charged); Mostaql membership prices not verified (login only).
+  - New ol #subscriptions-billing-steps (5 steps), TOC sub-link, existing Seller Plus FAQ corrected (no longer "invitation only") in HTML and JSON-LD, new FAQ (43 entries, HTML and FAQPage JSON-LD in sync), dateModified/footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+  - Sources read 19 Nov 2026: upwork.com/pricing/freelancer, Upwork help "What is Freelancer Plus" and "How does billing work for Freelancer Plus", Fiverr help "Seller Plus Standard and Premium".
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: 6-hour report due (06:00) and sent via parent.
