@@ -3654,3 +3654,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 18:00).
+
+## 2026-11-19 17:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-platforms.html (stalest content page, last improved 06:00; weakness: #reputation was last reviewed 25 Oct and said nothing about what to do with a negative or unfair review — which reviews each platform removes, who must request removal, deadlines, and the opposite rules on asking a client to change a review).
+  - New h3 #review-dispute with #review-dispute-table (4 rows: Mostaql, Khamsat, Upwork, Fiverr): Mostaql employer can edit rating within 30 days of project end and may rate cancelled projects, no published removal policy found (stated as such); Khamsat buyer cannot edit (asks help center to delete then re-rate), rating unavailable 90 days after order end, removal cases (buyer request, abusive, untrusted payment method, different service cancelled with explanation, malicious, collusive), deleting a service does not delete its ratings, latest rating shown on repeat orders, no rating if cancelled within 24h before seller reply; Upwork removal grounds (manipulation, abusive, irrelevant, insider, unapproved contract changes), Report feedback via Job Success Insights, ~7 business days, one report per feedback, one public response within 28 days, client may change feedback if enabled (14 days per Upwork resources article); Fiverr 14-day client edit window only before freelancer reviews, no edits after publishing, cancelled-order label, removal grounds (abusive/defamatory, private info, extortion, platform-related, unrelated chargeback), removal request only from the posting account, asking a client to change/remove a review is prohibited.
+  - Note: Upwork may block new proposals after repeated negative feedback from different clients, appeal after 6 months. Upwork/Fiverr pages read via search index (403 to direct fetch); Mostaql and Khamsat pages read directly.
+  - New h4 #review-dispute-steps (5 steps); reputation step 7 corrected (all four platforms allow a reply, previously only Mostaql mentioned) and linked to the new section; TOC sub-links; new FAQ in HTML and FAQPage JSON-LD (44, in sync).
+  - Sources read 19 Nov 2026: support.mostaql.com/rating-project and /tips-for-high-ratings, blog.mostaql.com/handling-negative-evaluation/, support.khamsat.com/services-rating (direct); support.upwork.com articles 219801228 and 28340628101779, upwork.com/resources/upwork-reviews, help.fiverr.com articles 46591483272977 and 360049982353 (via search index).
+- Checks: no duplicate ids, all internal anchors exist, JSON-LD parses, tag balance equal. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 18:00).
