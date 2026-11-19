@@ -3569,3 +3569,15 @@
 - New page: none (quality-first).
 - Opportunities: none added this hour.
 - Report: not a report hour (next at 12:00).
+
+## 2026-11-19 10:00 (Asia/Riyadh, UTC+3)
+- Live site check: https://semidictator.github.io/arab-freelancer-directory/ returned 200 (already announced earlier). https://dr-dal.com returned 403 (not serving the site yet; no announcement).
+- Improved freelance-bahrain.html (stalest page, last improved 22:00 on 18 Nov; weakness: #bdb-financing was last reviewed 28 Oct, had no ordered steps, omitted the BDB Finance document tiers and SME Fund document/partner details, and said nothing about BDB's Nov 2026 announcements).
+  - Re-checked all six BDB product pages (published terms unchanged). BDB Finance row: documents split at BHD 29,000 (below: in-house or audited "if available"; 29,000+: audited mandatory). SME Fund row: audited 3 yrs (latest ≤18 months), management accounts ≤2 months, 6-month statements; partners BBK/NBB/Al Salam, managed by BDB; apply at main branch or 17511000. Musanada close date 13 Aug 2026 stated; no new Sanad/Musanada round found.
+  - New h3 #bdb-2026 table: SME Fund results (BD 6.125m, 114 transactions since Mar 2026; micro 8%, TMT 2%), CEO-announced mid-Nov entrepreneur product (flagged unverified, no official page by 19 Nov), digital micro-finance planned 2027–2028, 3% demand-account return (conditions unpublished, flagged), invoice discounting via "Tijara" platform (secondary source, flagged).
+  - New #bdb-steps (5 steps), TOC sub-links, new FAQ in HTML and FAQPage JSON-LD (35, in sync), footer 19 Nov 2026, sitemap lastmod 2026-11-19.
+  - Sources read 19 Nov 2026: bdb-bh.com financial-services (finance, tamkeen-finance, sme-fund, women-business-finance-scheme-riyadat, sanad-financing, musanada; AR finance page); alayam.com 1150370 (1 Nov 2026); bizbahrain.com SME Fund impact (Nov 2026) and invoice discounting (Nov 2025).
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added.
+- New page: none (quality-first).
+- Opportunities: none added this hour.
+- Report: not a report hour (next at 12:00).
