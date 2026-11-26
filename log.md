@@ -3891,3 +3891,14 @@
 - New page: none (quality-first).
 - Opportunities: none added (no strong new program relevant to this change found this run).
 - Report: not a report hour.
+
+## 2026-11-26 20:00 (Asia/Riyadh, UTC+3)
+- Live check: https://semidictator.github.io/arab-freelancer-directory/ returned 200; https://dr-dal.com still 403 (www.dr-dal.com did not connect); no announcement.
+- Improved remote-jobs.html (least recently improved page today, last run 09:00; weakness: the Deel contractor block covered only withdrawal fees (#deel-fees) and the employee-vs-contractor test (#eor); nothing explained when money actually reaches a contractor's Deel balance, how notice/termination works, or how to get proof of income for a Gulf bank/landlord).
+  - New h3 #deel-contract with #deel-contract-table (8 rows), from Deel help centre pages read 26 Nov 2026: Fixed Rate (auto-generated invoices; weekly/bi-weekly/semi-monthly/monthly cycles); Pay As You Go (no invoice until hours submitted and approved, no invoice in cycles without work, late submissions roll to next cycle, client can enable "Only Client Can Submit Work"); Milestone (Deel invoices client on completion, paid only after approval, no adjustments); adjustments only on Fixed/PAYG and need approval; funds on contract due date, approval ≠ payment, wait 1–2 business days, 3–5 business days after client sends funds, Payment Tracker has no ETA for milestone/off-cycle ("When Do Contractors Get Paid", updated 6 Aug 2026); notice period lets either party terminate, contractors can self-terminate by default unless client disables it, 24/7 support, API default notice 10 days (developer docs) but contract value governs; final payment Full vs Calculated (pro-rated working days) per client termination article (updated 28 Aug 2026); Contractor Verification Letter fields per contract type, needs client toggle, available after termination, not before signing, no employment letter.
+  - Flagged as unverified: whether Gulf banks/landlords accept the Deel verification letter; no Deel contractor-side commitment to pay if the client does not pay (only a client-side page on mandatory backup payment methods and auto-charge of undisputed overdue invoices).
+  - New h4 #deel-contract-steps (5 steps) linking #deel-fees and #contractor-country; TOC sub-link; TOC FAQ count fixed 39 → 44; new FAQ on when Deel money reaches the balance (FAQ HTML 44 = JSON-LD 44). Footer and sitemap lastmod already 26 Nov 2026.
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added. CNAME/canonical/branding unchanged; no other page covers Deel contract types/payment timing.
+- New page: none (quality-first).
+- Opportunities: none added (Deel, Remote and Oyster affiliate programs already listed).
+- Report: not a report hour.
