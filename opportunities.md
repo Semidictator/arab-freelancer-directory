@@ -215,3 +215,10 @@ Note: program availability/terms change; some require residence/tax info. No ref
 - Not stated on the public page: cookie length, payout minimum/method, eligible countries for promoters, traffic minimums. Confirm in the programme terms after joining. Whether Nomad Insurance meets a given Schengen visa requirement (EUR 30,000, all Schengen states, whole stay, repatriation) must be checked per policy; the site must not claim it does.
 - Fit: medium alongside travel-booking.html#insurance, which deliberately recommends no insurer; any placement must stay a clearly labelled option, not a recommendation.
 - Status: researched only; not signed up; no referral link on the site.
+
+## italki Affiliate Program (added 2026-11-26 09:00 Asia/Riyadh)
+- What: italki's own affiliate programme for publishers/creators promoting 1-on-1 online language lessons. Official page (read 26 Nov 2026): https://www.italki.com/en/affiliate-program ("Apply to the program" button leads to italki sign-up; an italki account is required).
+- Terms on the official page: at least USD 10 commission for every new student who completes a qualifying first purchase via your link; new users get an extra USD 10 in italki Credits after their first qualifying purchase; tracking in an Affiliate Dashboard; organic promotion only (blog, social, video, email) under italki's Affiliate Guidelines — paid advertising not permitted.
+- Seen only on secondary/third-party pages (not verified on the official page today): Awin merchant listing (merchant 89661) states USD 18 default commission, USD 0 for returning customers, 30-day cookie, no PPC/cashback; italki help-centre article (Chinese locale) says monthly payout via PayPal or Payoneer. Confirm the current terms inside the dashboard before quoting any figure.
+- Fit: low-to-medium. remote-jobs.html#tutoring covers italki for Arabic *teachers*; an affiliate link would target *learners* (e.g. freelancers improving English), so any placement must be a clearly labelled option, not mixed into the tutor advice.
+- Status: researched only; not signed up; no referral link on the site.
