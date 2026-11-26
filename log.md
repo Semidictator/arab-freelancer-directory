@@ -3914,3 +3914,16 @@
 - New page: none (quality-first).
 - Opportunities: added Ziina referral programs as LOW FIT / watch list (in-app only, AED 150 × 5 personal cap, AED 5,000 fee-waiver business bonus; needs a UAE Ziina account; no cash commission).
 - Report: not a report hour.
+
+## 2026-11-26 22:00 (Asia/Riyadh, UTC+3)
+- Live check: https://semidictator.github.io/arab-freelancer-directory/ returned 200; https://dr-dal.com still 403; no announcement.
+- Improved freelance-platforms.html (least recently improved page today, last run 11:00; weakness: the #protection table covered Upwork Hourly Payment Protection in one row, but nothing explained the hourly weekly cycle — all deadlines are in UTC, so for Gulf users the week closes early Monday morning, the work-diary edit window closes Monday afternoon, and freelancers had no date math for when hourly money becomes available).
+  - New h3 #upwork-hourly with #upwork-hourly-table (9 rows) from Upwork help pages read 26 Nov 2026: work week Mon 00:00–Sun 23:59 UTC (except Upwork Payroll), funds available 10 days later; freelancer review Mon 00:00–11:59 UTC then previous week locked; client invoiced Mon 12:00 UTC on primary billing method; client review/dispute Mon 12:00–Fri 23:59 UTC; on dispute contract paused, weekly limit set to zero, 3 days to accept/decline, only qualifying hours protected if no reply; funds usually the following Wednesday, bonuses 5 calendar days after processing, Enterprise may differ; failed client charge retried daily for 5 days, then paid directly if protected (client may be suspended) or "unpaid" if not; weekly limit set only by client, over-limit hours not billed/protected, increases immediate incl. same-week hours, decreases next Monday 00:00 UTC; manual time needs client permission, open period only, not on paused contracts, not protected; tracker screenshots random once per 10 minutes, deleting removes that segment, camera off by default, screenshots deleted after one year.
+  - Gulf-time conversions (UTC+3 KSA/KW/QA/BH, UTC+4 UAE/OM) and the worked example (week 2–8 Nov 2026 → invoice 9 Nov → review to 13 Nov → available 18 Nov) marked as our calculation.
+  - Flagged as not found in official pages: the hour of Wednesday availability; any numeric "adequate activity level" threshold.
+  - New h4 #upwork-hourly-steps (5 weekly steps) linking receive-payments-saudi-gulf.html; link from the #protection Upwork-hourly row; TOC sub-link; new FAQ on when hourly hours lock / money arrives in Gulf time (FAQ HTML 46 = JSON-LD 46). Footer and sitemap lastmod already 26 Nov 2026.
+  - Sources: support.upwork.com articles 211063698 (weekly billing cycle), 211068288 (Hourly Payment Protection), 211064098 (time tracker), 211068488 (manual time), 211068478 (remove time), 211068258 (weekly limits), 211068518 (work diary).
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. No referral link added. CNAME/canonical/branding unchanged; no other page covers the Upwork hourly weekly cycle.
+- New page: none (quality-first).
+- Opportunities: none added (Upwork, Toggl, Clockify/CAKE.com and Hubstaff programs already listed; no new relevant program found this hour).
+- Report: not a report hour.
