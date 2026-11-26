@@ -3927,3 +3927,13 @@
 - New page: none (quality-first).
 - Opportunities: none added (Upwork, Toggl, Clockify/CAKE.com and Hubstaff programs already listed; no new relevant program found this hour).
 - Report: not a report hour.
+
+## 2026-11-26 23:00 (Asia/Riyadh, UTC+3)
+- Live check: https://semidictator.github.io/arab-freelancer-directory/ returned 200; https://dr-dal.com still 403; no announcement.
+- Improved free-tools.html (stalest content page, last improved 12:00 today; weakness: the #email section had no review date and said nothing on why mail from a custom domain lands in spam (only one passing mention of SPF/DKIM, no DMARC), nor on Google ending Gmail "Send mail as" for non-Google addresses in January 2027 — the common Cloudflare-routing + Gmail reply setup).
+  - New h3 #email-deliverability with #email-deliverability-table (6 rows): Gmail "Send as"/Gmailify/POP removal for third-party addresses from January 2027 (new configurations may be restricted before; forwarding into Gmail, Gmail mobile app and Google Workspace aliases unaffected; Google's warning about replacement extensions; no exact January day published); Gmail sender requirements since 1 Feb 2024 (SPF or DKIM, TLS, spam rate < 0.3%; > 5,000/day needs SPF+DKIM+DMARC, alignment, one-click unsubscribe; 5.7.26 rejection; DKIM ≥ 1024, 2048 recommended); Zoho SPF (single record, include:zohomail.com, combine includes, ≤ 10 DNS lookups, record counts only at the active nameservers); Zoho DKIM (selector, 1024/2048, zoho._domainkey, Verify then Enable, 12–24 h TTL; free-plan availability not tested — flagged); DMARC phases none → quarantine → reject, pct, duplicate record = permerror; Cloudflare Email Routing (root SPF _spf.mx.cloudflare.net, DKIM cf2024-1, SRS + ARC, rejects inbound failing both SPF and DKIM, strict sender DMARC can break forwarding, no sending/replying, no non-Latin local part).
+  - New h4 #email-deliverability-steps (5 steps, links to #email-marketing and Google "Show original" help); #email-steps step 4 now links to the new section; TOC sub-link; new first FAQ in HTML and FAQPage JSON-LD (54 = 54, in sync).
+  - Sources read 26 Nov 2026: support.google.com/mail/answer/17101213, /mail/answer/22370, /a/answer/81126, /mail/answer/29436; zoho.com/mail/help/adminconsole spf-configuration, dkim-configuration, dmarc-policy; developers.cloudflare.com/email-service/reference/postmaster.
+- Checks: no duplicate ids, all internal anchors exist, tags balanced, JSON-LD parses. Footer and sitemap lastmod already 26 Nov 2026. No referral link added.
+- New page: none (quality-first).
+- Opportunities: added Fastmail Affiliate Program (PartnerStack; 20% for first two years, 10% discount for referrals) — researched only, not signed up.
